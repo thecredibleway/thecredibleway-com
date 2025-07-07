@@ -1,0 +1,334 @@
+{
+  "title":{
+    "text":{
+      "headline":"10000ft overview of Key Bible events",
+      "text":"<br/>Explore a sweeping timeline from the flood to the prophets to Jesus - that highlights key events, people and covenants.<br/><br/>This overview gives you a big-picture journey through God's unfolding plan in history."
+    }
+  },
+  "scale":"human",
+  "initial_zoom": 4,
+  "eras":[    
+  ],
+  "events":[
+    {
+      "start_date":{
+        "year":"-2458"
+      },
+      "background":{
+        "color":"#2d3047"
+      },
+      "text":{
+        "headline":"The Flood",
+        "text":"The flood was sent to judge humanity's widespread wickedness, sparing only Noah, his family and the animals in the ark. <br/><br/>The flood lasted 40 days and nights, symbolizing both God's justice and His mercy through salvation and covenant."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-2200"
+      },
+      "background":{
+        "color":"#114b5f"
+      },
+      "text":{
+        "headline":"Abraham",
+        "text":"Abraham the first patriachs is born. Abraham, Isaac, and Jacob are the three patriarchs of Israel, chosen by God to begin His covenant people. <br/><br/>God called Abraham to leave his homeland and promised to make his descendants a great nation (the Abrahamic Covenant). Through these men, God established the lineage, promises and identity of the Israelite people."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-1876"
+      },
+      "background":{
+        "color":"#114b5f"
+      },
+      "text":{
+        "headline":"Jacob joins Joseph in Egypt",
+        "text":"During a severe famine, Jacob and his family moved to Egypt after discovering that his son Joseph - once sold into slavery - had become a powerful leader there. <br/><br/> Joseph forgave his brothers and provided for them, reuniting the family in a foreign land. <br/><br/>This moment set the stage for Israel's growth into a nation and their future exodus from Egypt."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-1446"
+      },
+      "background":{
+        "color":"#1A6A6F"
+      },
+      "text":{
+        "headline":"The Exodus",
+        "text":"Moses led the Israelites out of slavery in Egypt through God's miraculous intervention, including the parting of the Red Sea. <br/><br/>At Mount Sinai, God made a covenant with them, giving the Ten Commandments and forming them into His chosen nation.  <br/><br/>The people, organized into the 12 tribes descended from Jacob's sons, began their journey toward the Promised Land."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-1406"
+      },
+      "background":{
+        "color":"#1A6A6F"
+      },
+      "text":{
+        "headline":"Joshua and Jericho",
+        "text":"After Moses' death, Joshua led the Israelites into the Promised Land, beginning with the miraculous fall of Jericho's walls. <br/><br/>Through a series of battles, they conquered much of Canaan, fulfilling God's promise to give the land to Abraham's descendants.<br/><br/>The territory was then divided among the 12 tribes, marking the beginning of Israel's settlement in the land."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-1000"
+      },
+      "background":{
+        "color":"#1a776f"
+      },
+      "text":{
+        "headline":"David unites Israel",
+        "text":"David, a shepherd and warrior, became king after Saul and united the twelve tribes into a single kingdom. <br/><br/>He established Jerusalem as the political and spiritual capital and became a central figure in God's covenant plan."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-966"
+      },
+      "background":{
+        "color":"#1a776f"
+      },
+      "text":{
+        "headline":"Solomon's Temple",
+        "text":"Solomon, David's son, ruled during Israel's golden age of peace and prosperity. <br/><br/>Known as the wisest man that has or ever will live, Solomon built the First Temple in Jerusalem, establishing a permanent place for worship and sacrifice, fulfilling his father's dream."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-871"
+      },
+      "background":{
+        "color":"#008d85"
+      },
+      "text":{
+        "headline":"Elijah",
+        "text":"Circa 931 BC the kingdom is divided into Israel in the North and Judah to the south. <br/><br/>Ahab becomes King of Israel c. 871 BC and Jehu becomes King of Judah in c. 841 BC. <br/><br/> The prophet Elijah confronted King Ahab and Queen Jezebel over Israel's idolatry, especially worship of Baal. In a showdown on Mount Carmel, Elijah called down fire from heaven to prove the Lord is the true God."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-760"
+      },
+      "background":{
+        "color":"#008d85"
+      },
+      "text":{
+        "headline":"Amos",
+        "text":"Amos was a prophet who spoke against injustice and hypocrisy. <br/><br/>The prophet Amos warned Israel (Amos 1:1) that the judgement of God would shake the lands because the people had put idols in the Temple in Jerusalem and worshiped them rather than the living God. <br/><br/>A great earthquake strikes the land of Isreal and Jordan, confirmed by scientists Finkelstein and reported in Haaretz in 2019."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-740"
+      },
+      "background":{
+        "color":"#008d85"
+      },
+      "text":{
+        "headline":"Isaiah",
+        "text":"Isaiah emphasized God's holiness and prophesied during a turbulent time, calling Judah to repentance and trust in God. <br/><br/>He also foretold the coming of a suffering servant and a future King - prophecies pointing to the Messiah who would bring salvation and peace. <br/><br/>Isaiah's prophecies (Isa 53) have amazing clarity and detail, almost 700 years before Jesus Christ came."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-721"
+      },
+      "background":{
+        "color":"#42a983"
+      },
+      "text":{
+        "headline":"To Assyria",
+        "text":"Israel falls to Assyria after years of rebellion and unfaithfulness to God. <br/><br/>The people were exiled, and the ten tribes were scattered, fulfilling prophetic warnings of judgment."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-605"
+      },
+      "background":{
+        "color":"#42a983"
+      },
+      "text":{
+        "headline":"To Babylon",
+        "text":"Judah falls to Babylon - Jerusalem and the First Temple of Solomon are completely destroyed by the Babylonians. <br/><br/>This marked the end of the kingdom era and began a time of captivity, as foretold by prophets like Jeremiah. <br/><br/>Many Jews are deported to Babylon among them Daniel and his friends Shadrach, Meshach, and Abednego."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-604"
+      },
+      "background":{
+        "color":"#42a983"
+      },
+      "text":{
+        "headline":"Daniel",
+        "text":"The prophet Daniel exiled in Babylon, interpreted dreams and visions revealing the rise and fall of future empires. <br/><br/>For example the dreams of King Nebuchadnezzar, predicting the next six centuries of history laid out in the exact order of the empires that rule the earth. <br/><br/>His visions also pointed to a divine kingdom that would one day rise above all others, ruled by the 'Son of Man."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-539"
+      },
+      "background":{
+        "color":"#42a983"
+      },
+      "text":{
+        "headline":"Cyrus the Great",
+        "text":"The second empire predicted by Daniel - the Persians. <br/><br/>Persian king Cyrus the Great issued a decree allowing the Jewish exiles to return to Jerusalem.<br/><br/>He supported the rebuilding of the Temple, fulfilling Isaiah's prophecy and marking the end of the Babylonian captivity.<br/><br/>This began the restoration period and renewed Jewish worship in their homeland."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-458"
+      },
+      "background":{
+        "color":"#42a983"
+      },
+      "text":{
+        "headline":"Ezra",
+        "text":"Ezra, a priest and scribe, led a group of exiles back to Jerusalem and helped restore the people's commitment to God's Law. <br/><br/> He read and taught the Scriptures publicly, sparking a spiritual revival among the returned Jews. <br/><br/>Ezra played a key role in rebuilding Israel's religious identity after the exile."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-330"
+      },
+      "background":{
+        "color":"#630330"
+      },
+      "text":{
+        "headline":"Alexander the Great",
+        "text":"The third empire predicted by Daniel - the Greeks. <br/><br/>Alexander the Great conquered Persia and Judea as part of his vast empire. <br/><br/>His rule introduced Greek culture (Hellenism) across the region, which would later influence Jewish life and thought."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-260"
+      },
+      "background":{
+        "color":"#630330"
+      },
+      "text":{
+        "headline":"The Septuagint",
+        "text":"Ptolemy II commissioned the translation of the Hebrew Scriptures (the Torah)into Greek, known as the Septuagint. <br/><br/> Completed by Jewish scholars in Alexandria, it made the Scriptures accessible to the wider Greek-speaking world. <br/><br/> The Septuagint later became widely used among early Christians."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-141"
+      },
+      "background":{
+        "color":"#7C0A02"
+      },
+      "text":{
+        "headline":"The Hasmonean Dynasty",
+        "text":"The Hasmoneans, a priestly family, led the Maccabean revolt and established an independent Jewish kingdom in the 2nd century BC. <br/><br/>During this period, a Jewish sect 'the Essenes', near Qumran preserved sacred texts that became the Dead Sea Scrolls - our oldest copies of the Hebrew Bible. <br/><br/> Most of these same scrolls were found in 1947 at the caves of Qumran."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-63"
+      },
+      "background":{
+        "color":"#7C0A02"
+      },
+      "text":{
+        "headline":"The Romans",
+        "text":"The last empire predicted by Daniel - the Romans. <br/><br/>Roman General Pompey the Great captures Jerusalem, making Judea a client state of Rome. <br/><br/>his ended Jewish independence and began centuries of foreign occupation. <br/><br/>Pompey's entrance into the Holy of Holies deeply offended the Jews and fueled future unrest."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-37"
+      },
+      "background":{
+        "color":"#7C0A02"
+      },
+      "text":{
+        "headline":"Herod the Great",
+        "text":"Herod the Great, appointed king by Rome, ruled Judea with grandeur and cruelty. <br/><br/>He expanded the Second Temple into a magnificent structure, yet was infamous for his paranoia and harsh rule. <br/><br/>He plays a key role in the New Testament as the ruler during Jesus' birth."
+      }
+    },
+    {
+      "start_date":{
+        "year":"0"
+      },
+      "background":{
+        "color":"#3c6997"
+      },
+      "text":{
+        "headline":"Jesus of Nazareth",
+        "text":"The centre of the calender - Jesus of Nazareth is born! <br/><br/> Jesus was born in Bethlehem during the reign of Herod the Great, fulfilling ancient prophecies of a coming Messiah. <br/><br/> His birth marked the beginning of a New Covenant and the unfolding of God's redemptive plan for humanity. <br/><br/>The event would forever change the course of history!"
+      }
+    },
+    {
+      "start_date":{
+        "year":"29",
+        "month":"1"
+      },
+      "display_date":"29",
+      "background":{
+        "color":"#3c6997"
+      },
+      "text":{
+        "headline":"John the Baptist",
+        "text":"In the wilderness, John cried out calling hearts to repent and return to God. <br/><br/>Clothed in camel's hair and boldness, he prepared the way for the Messiah. <br/><br/>His voice shook a nation, but his message pointed to someone greater - <b>He must increase, but I must decrease.</b>"
+      }
+    },
+    {
+      "start_date":{
+        "year":"30",
+        "month":"12"
+      },
+      "end_date":{
+        "year":"33",
+        "month":"12"
+      },
+      "display_date":"30-33",
+      "background":{
+        "color":"#3c6997"
+      },
+      "text":{
+        "headline":"Ministry of Jesus",
+        "text":"For three transformative years, Jesus preached the Kingdom of God with power and compassion. <br/><br/>He healed the sick, calmed storms, raised the dead, and forgave sinners.<br/><br/>Crowds followed, critics challenged, but lives were changed forever.<br/><br/>This was no ordinary teacher - this was the Son of God on mission!"
+      }
+    },
+    {
+      "start_date":{
+        "year":"33"
+      },
+      "background":{
+        "color":"#3c6997"
+      },
+      "text":{
+        "headline":"Crucifixion and Resurrection of Jesus",
+        "text":"On a Roman cross, Jesus bore the weight of humanity's sin—suffering, dying and being buried. <br/><br/>But on the third day, the tomb was empty—He rose in victory over death.<br/><br/> The cross looked like defeat, but it was God's greatest triumph. <br/><br/> Through His sacrifice and resurrection, eternal life was made possible."
+      }
+    },
+    {
+      "start_date":{
+        "year":"36"
+      },
+      "background":{
+        "color":"#3c6997"
+      },
+      "text":{
+        "headline":"Saul to Paul",
+        "text":"Saul, a fierce persecutor of Christians, was blinded by a light from heaven on the road to Damascus. <br/><br/>In one encounter with Jesus, his life was turned upside down. <br/><br/>He became Paul - the boldest voice for the gospel across the Roman world. <br/><br/>Proof that no one is beyond the reach of God's grace."
+      }
+    },
+    {
+      "start_date":{
+        "year":"70"
+      },
+      "background":{
+        "color":"#3c6997"
+      },
+      "text":{
+        "headline":"Jerusalem and the Second Temple destroyed",
+        "text":"In 70 AD, Roman legions stormed Jerusalem and tore the Temple down, stone by stone. <br/><br/>The sacred center of Jewish worship was left in ruins, just as Jesus had foretold. <br/><br/>It marked the end of an era, scattering the Jewish people across the world. <br/><br/>A moment of judgment, loss and fulfillment of prophecy."
+      }
+    }
+  ]
+}

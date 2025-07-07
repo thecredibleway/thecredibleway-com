@@ -1,0 +1,12 @@
+{
+  "version": "0.1",
+  "language": "en-US",
+  "dictionaries": ["custom-words"],
+  "dictionaryDefinitions": [
+    {
+      "name": "custom-words",
+      "path": "custom-words.txt",
+      "addWords": true
+    }
+  ]
+}

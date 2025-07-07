@@ -1,0 +1,222 @@
+{
+  "title":{
+    "text":{
+      "headline":"10000ft overview of the Key Manuscripts",
+      "text":"<br/>Explore a sweeping timeline of the key manuscripts that went into the Bible - from tablets to letters to the psalms.<br/><br/>"
+    }
+  },
+  "scale":"human",
+  "initial_zoom":2,
+  "events":[
+    {
+      "start_date":{
+        "year":"-1446"
+      },
+      "background":{
+        "color":"#2d3047"
+      },
+      "text":{
+        "headline":"The Ten Commandments",
+        "text":"Carved in stone at Mount Sinai, the Ten Commandments were God's covenant with His people.<br/><br/>Delivered through Moses, they formed the moral and spiritual backbone of ancient Israel.<br/><br/>Simple yet profound, these words have echoed through millennia of law, ethics and faith.<br/><br/>Divine instruction that still speaks today."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-1400"
+      },
+      "end_date":{
+        "year":"-400"
+      },
+      "background":{
+        "color":"#114b5f"
+      },
+      "text":{
+        "headline":"The Old Testament books",
+        "text":"Spanning over a thousand years, the Old Testament tells the story of God's covenant with His people.<br/><br/>From creation to exile, law to prophecy, its 39 books are filled with wisdom, history, poetry and promise.<br/><br/>Every page points forward - to a Messiah yet to come! <br/><br/>It's the foundation upon which the New Testament stands."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-260"
+      },
+      "background":{
+        "color":"#114b5f"
+      },
+      "text":{
+        "headline":"The Septuagint",
+        "text":"Ptolemy II commissioned the translation of the Hebrew Scriptures (the Torah)into Greek, known as the Septuagint. <br/><br/> Completed by Jewish scholars in Alexandria, it made the Scriptures accessible to the wider Greek-speaking world. <br/><br/> The Septuagint later became widely used among early Christians."
+      }
+    },
+    {
+      "start_date":{
+        "year":"-141"
+      },
+      "background":{
+        "color":"#114b5f"
+      },
+      "text":{
+        "headline":"The Dead Sea Scrolls",
+        "text":"The Dead Sea Scrolls, discovered between 1947-1956 AD near the Dead Sea in Israel, contain fragments from every book of the Hebrew Bible except Esther. <br/><br/>The Isaiah Scrolls proved to be <b>word-for-word identical<b/> with the standard Hebrew Bible in more than 95% of the text, confirming the accuracy and reliability of the Masoretic Text."
+      }
+    },    
+    {
+      "start_date":{
+        "year":"45"
+      },
+      "end_date":{
+        "year":"100"
+      },
+      "background":{
+        "color":"#114b5f"
+      },
+      "text":{
+        "headline":"The New Testament letters",
+        "text":"Written by apostles and early church leaders, the New Testament letters guided first-century believers.<br/><br/>From Paul's bold theology to Peter's encouragement and John's love, these epistles shaped Christian life and doctrine.<br/><br/>Circulated among churches, copied, and cherished, they carried truth across the Roman world.<br/><br/>They remain living words for the Church today."
+      }
+    },
+    {
+      "start_date":{
+        "year":"150"
+      },
+      "background":{
+        "color":"#1A6A6F"
+      },
+      "text":{
+        "headline":"Rylands Papyrus",
+        "text":"The Rylands Papyrus is the oldest known fragment of the New Testament - just a few verses of John's Gospel.<br/><br/>Tiny and worn, yet it powerfully confirms that the gospel was circulating within a generation of the eyewitnesses.<br/><br/>Discovered in Egypt, it bridges the gap between original writing and surviving copies."
+      }
+    },
+    {
+      "start_date":{
+        "year":"350"
+      },
+      "background":{
+        "color":"#1A6A6F"
+      },
+      "text":{
+        "headline":"Codex Vaticanus",
+        "text":"Housed in the Vatican Library, Codex Vaticanus is one of the oldest nearly complete Greek Bibles.<br/><br/>Dating to the 300s AD, it preserves much of the Septuagint and New Testament with remarkable accuracy.<br/><br/>It's a priceless window into the early transmission of Scripture.<br/><br/>Still today, scholars turn to it for trusted textual foundations."
+      }
+    },
+    {
+      "start_date":{
+        "year":"350"
+      },
+      "background":{
+        "color":"#1A6A6F"
+      },
+      "text":{
+        "headline":"Codex Sinaiticus",
+        "text":"Codex Sinaiticus is one of the most important books in the world. <br/><br/>Handwritten well over 1600 years ago, the manuscript contains the Christian Bible in Greek, including the oldest complete copy of the New Testament."
+      }
+    },
+    {
+      "start_date":{
+        "year":"367"
+      },
+      "background":{
+        "color":"#1A6A6F"
+      },
+      "text":{
+        "headline":"Athanasius of Alexandria",
+        "text":"In a landmark Easter letter, Bishop Athanasius listed the 27 books of the New Testament we recognize today.<br/><br/>Amid fierce debates and heresies, he defended the divinity of Christ and the authority of Scripture.<br/><br/>His canon list was the first to match our current New Testament."
+      }
+    },
+    {
+      "start_date":{
+        "year":"400"
+      },
+      "background":{
+        "color":"#1A6A6F"
+      },
+      "text":{
+        "headline":"Vulgate",
+        "text":"Commissioned by Pope Damasus I, Jerome translated the Bible into Latin from Hebrew and Greek.<br/><br/>His work, the Vulgate, became the standard Bible of the Western Church for over a thousand years.<br/><br/>More than a translation, it unified Scripture across the Roman Empire.<br/><br/>A foundational moment for biblical transmission and Church history."
+      }
+    },
+    {
+      "start_date":{
+        "year":"1000"
+      },
+      "background":{
+        "color":"#1A6A6F"
+      },
+      "text":{
+        "headline":"Codex Leningrad",
+        "text":"The Codex Leningrad is the oldest complete manuscript of the Hebrew Bible still in existence.<br/><br/>Meticulously copied by Masoretic scribes, it preserves the Hebrew text with extraordinary care.<br/><br/>It remains a foundational reference for modern Old Testament translations.<br/><br/>An enduring testament to the precision and preservation of Scripture through the ages."
+      }
+    },
+    {
+      "start_date":{
+        "year":"1380"
+      },
+      "background":{
+        "color":"#3c6997"
+      },
+      "text":{
+        "headline":"Wycliffe Bible",
+        "text":"John Wycliffe believed everyone should access God's Word in their own tongue.<br/><br/>His followers translated the Bible from Latin into English - by hand and against opposition.<br/><br/>Though banned and burned, the Wycliffe Bible lit a flame for reform and literacy.<br/><br/>A bold step toward the Reformation, centuries before it began."
+      }
+    },
+    {
+      "start_date":{
+        "year":"1455"
+      },
+      "background":{
+        "color":"#3c6997"
+      },
+      "text":{
+        "headline":"The Gutenberg Bible",
+        "text":"The Gutenberg Bible was the first book ever printed with movable type - a technological and spiritual breakthrough.<br/><br/>Printed in Latin, it marked the dawn of the printed word and mass communication.<br/><br/>It made the Bible more accessible and paved the way for the Reformation."
+      }
+    },
+    {
+      "start_date":{
+        "year":"1522"
+      },
+      "background":{
+        "color":"#3c6997"
+      },
+      "text":{
+        "headline":"Martin Luther",
+        "text":"Martin Luther sparked a revolution when he nailed 95 theses to a church door in 1517.<br/><br/>He challenged corruption and proclaimed that salvation comes by faith alone.<br/><br/>Luther's German Bible put Scripture into the hands of everyday people.<br/><br/>His bold stand lit the fire of the Protestant Reformation and changed history forever."
+      }
+    },
+    {
+      "start_date":{
+        "year":"1525"
+      },
+      "background":{
+        "color":"#3c6997"
+      },
+      "text":{
+        "headline":"Tyndale Bible",
+        "text":"William Tyndale risked his life to translate the Bible from Hebrew and Greek into English.<br/><br/>His work brought the Scriptures to common people for the first time - clear, bold and forbidden.<br/><br/>Tyndale was executed, but his words lived on - nearly 90% of the King James Bible echoes his phrasing.<br/><br/>He gave his life so others could read God's Word."
+      }
+    },
+    {
+      "start_date":{
+        "year":"1560"
+      },
+      "background":{
+        "color":"#3c6997"
+      },
+      "text":{
+        "headline":"The Geneva Bible",
+        "text":"Birthed by English reformers in exile, the Geneva Bible was the first to include study notes and numbered verses.<br/><br/>Beloved by Puritans and carried to the New World, it shaped minds and nations.<br/><br/>Its language was sharp, its theology bold—used by Shakespeare and quoted by revolutionaries."
+      }
+    },
+    {
+      "start_date":{
+        "year":"1611"
+      },
+      "background":{
+        "color":"#3c6997"
+      },
+      "text":{
+        "headline":"King James Bible",
+        "text":"Commissioned by King James I of England, over 50 scholars united to translate the Bible into majestic English.<br/><br/>Published in 1611, based on the earlier work of William Tyndale, it became one of the most influential books in history.<br/><br/>Its poetic language shaped both faith and the English-speaking world for centuries. <br/><br/>A monumental work rooted in reverence, precision and legacy."
+      }
+    }
+  ]
+}
