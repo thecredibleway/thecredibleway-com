@@ -2,7 +2,8 @@
 sidebar_position: 4
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: Impact on Civilization
+title: Impact on Civilization | Origins of the Bible
+sidebar_label: Impact on Civilization
 description: What sets the Bible apart - The Bible has profoundly shaped Western civilization, influencing laws, human rights, education, art and moral values. Its teachings have inspired social reform, compassion movements and the foundations of modern democratic societies - a truly one of a kind book
 keywords: ["Bible and civilization","biblical influence","Bible and culture","Western values","moral foundations","social reform","human rights","biblical ethics","Christian heritage","Scripture and society"]
 ---

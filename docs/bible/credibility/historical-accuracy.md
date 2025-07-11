@@ -2,7 +2,8 @@
 sidebar_position: 3
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: Historical Accuracy
+title: Historical Accuracy | The Bible is Credible
+sidebar_label: Historical Accuracy
 description: How the Bible aligns with known historical facts - places, rulers, events. From kings and empires to specific events and cultural details, the Bible aligns consistently with historical records.
 keywords: ["Bible history","historical evidence","archaeology and the Bible","biblical accuracy","manuscript reliability","ancient history","fulfilled prophecy","Roman Empire","historical Jesus"]
 ---
