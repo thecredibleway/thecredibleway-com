@@ -105,7 +105,13 @@ const config: Config = {
           sidebarId: 'bibleSidebar',
           position: 'left',
           label: 'Bible',
-        },        
+        },
+        {
+          type: 'docSidebar',
+          sidebarId: 'faqSidebar',
+          position: 'left',
+          label: 'FAQ',
+        },     
       ],
     },
     docs: {
