@@ -2,7 +2,8 @@
 sidebar_position: 3
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: Teachings of Jesus
+title: Teachings of Jesus | Jesus is Credibile
+sidebar_label: Teachings of Jesus
 description: Words That Changed the World. Explore the revolutionary teachings of Jesus about love, forgiveness, the Kingdom of God and eternal life.
 keywords: ["teachings of Jesus","Jesus message", "what did Jesus teach","words of Jesus","Jesus and the Kingdom of God","Sermon on the Mount explained","lessons from Jesus teachings"]
 ---

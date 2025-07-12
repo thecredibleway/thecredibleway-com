@@ -28,7 +28,7 @@ export default function Home(): ReactNode {
   return (
     <Layout
       title={`Home`}
-      description="The year that changed everything - Jesus Christ died on the cross to restore man to God">
+      description="Truth That Transforms. Life That Lasts.">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

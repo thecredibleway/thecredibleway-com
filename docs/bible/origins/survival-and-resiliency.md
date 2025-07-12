@@ -2,7 +2,8 @@
 sidebar_position: 3
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: Survival and Resiliency
+title: Survival and Resiliency | Origins of the Bible
+sidebar_label: Survival and Resiliency
 description: Despite centuries of persecution, censorship and criticism, the Bible has survived intact and remains the most widely read and distributed book in history. Its resilience testifies to its enduring relevance and divine preservation.
 keywords: ["Bible resilience","Bible survival","persecution of Scripture","preservation of the Bible","indestructible Bible","enduring Scripture","Bible through history","banned books","historical survival","divine protection"]
 ---

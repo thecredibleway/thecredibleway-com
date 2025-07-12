@@ -2,7 +2,8 @@
 sidebar_position: 2
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: Why Jesus Came
+title: Why Jesus Came | Jesus is Credibile
+sidebar_label: Why Jesus Came 
 description: Understanding His Mission and Message. Learn the profound reasons Jesus came to earth and what His mission means for humanity today.
 keywords: ["why did Jesus come","purpose of Jesus' life","mission of Jesus Christ","why Jesus came to earth","Jesus and salvation","Jesus purpose in the Bible","redemption through Jesus","reason for Jesus sacrifice"]
 ---

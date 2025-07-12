@@ -2,7 +2,8 @@
 sidebar_position: 7
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: The Martyrs
+title: The Martyrs | Jesus is Credibile
+sidebar_label: The Martyrs
 description: Faith Worth Dying For. Learn about the early Christians who died for their faith and what their courage tells us about the truth of the resurrection.
 keywords: ["why did Jesus come","purpose of Jesus' life","mission of Jesus Christ","why Jesus came to earth","Jesus and salvation","Jesus purpose in the Bible","redemption through Jesus","reason for Jesus sacrifice"]
 ---

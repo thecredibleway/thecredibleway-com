@@ -2,7 +2,8 @@
 sidebar_position: 1
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: Prophecies Fulfilled
+title: Prophecies Fulfilled | Jesus is Credibile
+sidebar_label: Prophecies Fulfilled
 description: Ancient Promises, Eternal Purpose. Discover the Old Testament prophecies that predicted the coming of Jesus Christ centuries before His birth.
 keywords: ["messianic prophecies","prophecies about Jesus","Old Testament prophecies Jesus fulfilled","Jesus in the Old Testament","Isaiah prophecy Messiah","biblical prophecy and Jesus","Micah prophecy Bethlehem","Jesus foretold in the Bible"]
 ---

@@ -2,7 +2,8 @@
 sidebar_position: 5
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: The Resurrection
+title: The Resurrection | Jesus is Credibile
+sidebar_label: The Resurrection
 description: Victory Over Death, Hope for the World. Examine the historical, biblical and medical evidence for the resurrection of Jesus Christ and it's enduring impact.
 keywords: ["resurrection of Jesus","evidence for Jesus resurrection","Jesus rose from the dead","Easter resurrection story","historical proof of resurrection","biblical resurrection accounts","Jesus empty tomb","significance of the resurrection"]
 ---

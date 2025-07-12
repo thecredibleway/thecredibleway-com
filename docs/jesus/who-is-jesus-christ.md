@@ -3,7 +3,7 @@ sidebar_position: 1
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Who is Jesus Christ
-description: Who is Jesus Christ - A Living Savior, our Lord. The King of Kings - is Jesus Credible
+description: Who is Jesus Christ - A Living Savior, our Lord. The King of Kings! He is the way, the truth and the life - the only way to God. He suffered and bled for you and me; Jesus died on the cross and rose again to restore man to God!
 keywords: ["Who is Jesus Christ","Is Jesus Lord","Is Jesus an imposter","Is Jesus alive","Is Jesus credible","experience Jesus now"]
 ---
 

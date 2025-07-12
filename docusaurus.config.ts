@@ -61,6 +61,8 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
+          sidebarCollapsible: true,
+          sidebarCollapsed: false,
           // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {
@@ -106,16 +108,18 @@ const config: Config = {
           position: 'left',
           label: 'Bible',
         },
-        {
-          type: 'docSidebar',
-          sidebarId: 'faqSidebar',
-          position: 'left',
-          label: 'FAQ',
-        },     
+        // {
+        //   type: 'docSidebar',
+        //   sidebarId: 'faqSidebar',
+        //   position: 'left',
+        //   label: 'FAQ',
+        // },
       ],
     },
+    sidebarCollapsed: false,
+
     docs: {
-      sidebar: {
+       sidebar: {
         hideable: true,
         autoCollapseCategories: true,
       },
