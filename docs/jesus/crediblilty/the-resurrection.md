@@ -2,7 +2,7 @@
 sidebar_position: 5
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: The Resurrection | Jesus is Credibile
+title: The Resurrection | Jesus is Credible
 sidebar_label: The Resurrection
 description: Victory Over Death, Hope for the World. Examine the historical, biblical and medical evidence for the resurrection of Jesus Christ and it's enduring impact.
 keywords: ["resurrection of Jesus","evidence for Jesus resurrection","Jesus rose from the dead","Easter resurrection story","historical proof of resurrection","biblical resurrection accounts","Jesus empty tomb","significance of the resurrection"]
@@ -33,7 +33,7 @@ All three are fulfilled when you accept Jesus and put your faith in Him - He bea
 :::
 
 
-[The death of Jesus changes everything!](./the-crucifixion.mdx) It is my sincere hope that each of us comes to understand the profound sacrifice of Jesus Christ. God is real, He loves us and He desires a relationship with every one of us!
+[The death of Jesus changes everything!](./the-crucifixion.mdx) It is our sincere hope that each of us comes to understand the profound sacrifice of Jesus Christ. God is real, He loves us and He desires a relationship with every one of us!
 
 It is only through Jesus' sacrifice on the cross that we who repent are justified before God.
 

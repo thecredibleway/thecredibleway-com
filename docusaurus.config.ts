@@ -108,12 +108,12 @@ const config: Config = {
           position: 'left',
           label: 'Bible',
         },
-        // {
-        //   type: 'docSidebar',
-        //   sidebarId: 'faqSidebar',
-        //   position: 'left',
-        //   label: 'FAQ',
-        // },
+        {
+          type: 'docSidebar',
+          sidebarId: 'faqSidebar',
+          position: 'left',
+          label: 'FAQ',
+        },
       ],
     },
     sidebarCollapsed: false,

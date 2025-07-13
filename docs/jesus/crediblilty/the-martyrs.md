@@ -2,7 +2,7 @@
 sidebar_position: 7
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: The Martyrs | Jesus is Credibile
+title: The Martyrs | Jesus is Credible
 sidebar_label: The Martyrs
 description: Faith Worth Dying For. Learn about the early Christians who died for their faith and what their courage tells us about the truth of the resurrection.
 keywords: ["why did Jesus come","purpose of Jesus' life","mission of Jesus Christ","why Jesus came to earth","Jesus and salvation","Jesus purpose in the Bible","redemption through Jesus","reason for Jesus sacrifice"]
@@ -64,7 +64,7 @@ The early records and history of the Church and Christianity are primarily roote
 New Testament and supplemented by writings of early Church Fathers and Roman historians.
 After Jesus' crucifixion and resurrection, His followers formed the first Christian church in
 Jerusalem under the leadership of the apostles, particularly Peter and James. 
-*The Acts of the Apostles* provides a detailed narrative of the Church's formation, emphasizing
+*The Acts of the Apostles* provides a detailed account of the Church's formation, emphasizing
 the guidance and power of the Holy Spirit and the missionary work of figures like Peter, Stephen,
 Paul and others.
 

@@ -2,7 +2,7 @@
 sidebar_position: 6
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: Is Jesus Alive | Jesus is Credibile
+title: Is Jesus Alive | Jesus is Credible
 sidebar_label: Is Jesus Alive
 description: A Living Savior, a present King. Explore the evidence and implications of Jesus' resurrection and what it means to know Him today.
 keywords: ["Is Jesus alive","living Jesus today","modern evidence for Jesus","Jesus lives","Jesus today testimonies","Jesus through the Holy Spirit","Jesus is alive proof","experience Jesus now"]

@@ -40,8 +40,8 @@ their own religious beliefs and place their trust in him for their eternal desti
 knowingly made false claims, it would lead us to the conclusion that he was profoundly immoral. 
 
 But most importantly if Jesus had been lying, He would also have been a fool, because his claims
-to deity led to his crucifixion (John 19:7) and caused him to suffer in the most painful way
-before He died. 
+to deity led to his crucifixion ([John 19:7](https://www.biblegateway.com/passage/?search=John%2019%3A7&version=NKJV))
+and caused him to suffer in the most painful way before He died. 
 
 :::info[[The Person of Christ](https://www.amazon.com/Person-Christ-Perfection-Humanity-Divinity/dp/1113222034), Philip Schaff (late) Professor of History & Literature, University of Berlin]
 

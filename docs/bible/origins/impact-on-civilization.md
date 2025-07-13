@@ -133,7 +133,7 @@ is caesar's and to God what is God's"* and many others all come from Scripture.
 
 Writers from Shakespeare to Dostoevsky to T.S. Eliot draw deeply from biblical imagery.
 
-Biblical narratives form the backbone of epic storytelling - creation, fall, redemption and restoration!
+Biblical accounts form the backbone of epic storytelling - creation, fall, redemption and restoration!
 
 From Michelangelo's Sistine Chapel to Handel's "Messiah", the Bible has inspired some of the world's greatest art and music.
 Churches, cathedrals, stained glass and hymns all testify to it's cultural richness.
