@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Unshakeable Peace | Because He Lives
 sidebar_label: Unshakeable Peace
-description: Because Jesus lives, my heart can rest even in storms. Peace flows from a deep trust in the risen Jesus. It speaks to the internal emotional fruit of the previous truths and prepares the heart for resilience.
+description: Because Jesus lives, my heart can rest even in storms. Peace flows from deep trust in the risen Jesus, offering internal emotional fruit and preparing my heart for resilience.
 keywords: ["peace","Freedom from fear","freedom from worry","freedom from depression","freedom from anxiety","peace through Christ","peace that passes understanding","calm in the storm","stillness in His presence","heart at rest","Jesus my peace","freedom from anxiety","inner peace through resurrection"]
 ---
 

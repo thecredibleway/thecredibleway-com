@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Historical Accuracy | The Bible is Credible
 sidebar_label: Historical Accuracy
-description: How the Bible aligns with known historical facts - places, rulers, events. From kings and empires to specific events and cultural details, the Bible aligns consistently with historical records.
+description: The Bible consistently aligns with known historical facts, including places, rulers, events, and cultural details, demonstrating remarkable historical accuracy.
 keywords: ["Bible history","historical evidence","archaeology and the Bible","biblical accuracy","manuscript reliability","ancient history","fulfilled prophecy","Roman Empire","historical Jesus"]
 ---
 
@@ -119,7 +119,7 @@ and resurrection of Jesus.
 The gospels agree on:
 - Jesus' identity as a teacher and miracle worker
 - His crucifixion under Pontius Pilate
-- His burial and resurrection claims
+- His burial and resurrection
 - The involvement of the disciples, especially Peter, James and John
 
 At the same time, they contain minor differences in wording, sequence and emphasis. Far from being
@@ -189,7 +189,7 @@ remarkably robust.
 From the Babylonian exile to the decrees of Roman governors, from the temple records of Herod to the
 shipwreck of Paul in Acts, we find time and again that the Bible aligns with the known contours
 of ancient history. Non-Christian sources confirm names, titles and events. Archaeology supports
-its claims. And the consistency of independent eyewitness testimony adds weight to its central message.
+its accounts. And the consistency of independent eyewitness testimony adds weight to its central message.
 
 Faith may go beyond evidence - but for the Bible, it is not separated from it. The Scriptures are not only
 theologically rich - they are historically anchored.

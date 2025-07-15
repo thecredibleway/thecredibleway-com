@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Salvation and Redemption | Because He Lives
 sidebar_label: Salvation and Redemption
-description: Because Jesus lives, I am saved from sin and death through the blood of Jesus Christ. Salvation is the entry point and foundation of everything else. It's the ultimate reason Jesus came, died and rose again.
+description: Because Jesus lives, I am saved from sin and death through His blood. Salvation is the foundation and ultimate reason Jesus came, died, and rose again.
 keywords: ["salvation","salvation through Jesus","eternal life","forgiveness of sins","Freedom from death","Jesus saves","rescued from sin and death","the cross and the empty tomb","made right with God","saved by grace through faith"]
 ---
 

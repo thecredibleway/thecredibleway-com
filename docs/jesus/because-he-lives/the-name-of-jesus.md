@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: The Name of Jesus | Because He Lives
 sidebar_label: The Name of Jesus
-description: Because Jesus lives, I can pray and walk in the authority of the Son of God! This speaks to the believer's position in Christ and the authority that comes from Jesus' resurrection. It transitions from inner transformation to outward spiritual confidence.
+description: Because Jesus lives, you can pray and walk in the authority of the Son of God, moving from inner transformation to outward spiritual confidence.
 keywords: ["authority in Jesus' name","power of the name of Jesus","praying in Jesus' name","every knee shall bow","the name above all names","victory in Jesus","spiritual authority","demons flee at His name"]
 ---
 

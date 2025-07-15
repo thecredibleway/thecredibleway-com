@@ -8,7 +8,6 @@ description: A Living Savior, a present King. Explore the evidence and implicati
 keywords: ["Is Jesus alive","living Jesus today","modern evidence for Jesus","Jesus lives","Jesus today testimonies","Jesus through the Holy Spirit","Jesus is alive proof","experience Jesus now"]
 ---
 
-
 # Is Jesus Alive
 
 Nearly everyone who has heard of Jesus has formed an opinion about Him. This is not surprising,

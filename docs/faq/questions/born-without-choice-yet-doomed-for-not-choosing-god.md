@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Born without choice, yet doomed for not choosing God? | Christian Apologetics
 sidebar_label: Born without choice, yet doomed for not choosing God?
-description:  I didn't choose to be born. So why am I held accountable for what I do here? And if I don't choose God, why am I doomed for all eternity? This is a deep and often emotionally charged question. I didn't choose to be born. So why am I held accountable for what I do here? And if I don't choose God, I'm doomed for all eternity? For several, this question is less about theology and more about justice and about what seems fair to them. We'll explore the complexities of free will, God's justice, and human responsibility in the context of Christian faith.
+description: I didn't choose to be born, so why am I accountable and potentially doomed without God? We delve into free will, God's justice, and human responsibility from a Christian perspective.
 keywords: [" I didn't choose to be born and if I don't choose God Im doomed?","I didn't choose to be born. So why am I held accountable for what I do here?","Free Will & God's Sovereignty","Justice of God","Human Responsibility","Problem of Evil ","Eternal Destiny","Predestination vs. Choice"]
 ---
 
@@ -62,7 +62,7 @@ Or, you can step into the rescue boat.
 
 This is the core of the Christian message. God sees that we are all on the sinking ship of a broken world. We were born
 into a system marred by sin, suffering, and death. **And God, in His mercy, sends a Savior - Jesus Christ**. He offers rescue.
-**Not because we deserve it. Not because we asked for it. **But because He loves us.**
+**Not because we deserve it. Not because we asked for it. But because He loves us.**
 
 So the problem isn't that you didn't choose to be born. The problem is, now that you're here and in trouble, will
 you accept the rescue God offers? The choice is yours.
@@ -119,8 +119,10 @@ That's the rescue boat. That's the offer. That's the foundation on the rock.
 God doesn't doom people arbitrarily. Nor does He force anyone into salvation.
 But in love, [He offers salvation to all](../../jesus/because-he-lives/new-identity-in-christ.mdx).
 He sent His Son, not to condemn the world, but to save it
-([John 3:16-17](https://www.biblegateway.com/passage/?search=John%203%3A16-17&version=NKJV))
+([John 3:16-17](https://www.biblegateway.com/passage/?search=John%203%3A16-17&version=NKJV)).
 But He also gives us the freedom to reject Him. **And that's what makes this not a question of fate, but of responsibility!**
+God is our loving Father (Eph 3:14-15) and we can part of His family.
+
 The Savior stands in the boat, hand outstretched. *The invitation is real. **The choice is yours.***
 
 And perhaps the correct question here is not, *"Why am I here?"* but *"Now that I am here, what will I do with Jesus?"*

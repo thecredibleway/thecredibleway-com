@@ -34,14 +34,14 @@ Is Jesus an imposter or is Jesus the truth?
 
 ## Is He an Imposter?
 
-If Jesus knew he was not God, then he was lying. If he was a imposter then he was also a
-hypocrite because he told others to be honest, whatever the cost. He urged people to abandon
-their own religious beliefs and place their trust in him for their eternal destiny. If Jesus
-knowingly made false claims, it would lead us to the conclusion that he was profoundly immoral. 
+If Jesus knew He was not God, then He was lying. If He was a imposter then He was also
+a hypocrite because He told others to be honest, whatever the cost. He urged people to abandon
+their own religious beliefs and place their trust in Him for their eternal destiny. If Jesus
+knowingly made false claims, it would lead us to the conclusion that He was profoundly immoral. 
 
-But most importantly if Jesus had been lying, He would also have been a fool, because his claims
-to deity led to his crucifixion ([John 19:7](https://www.biblegateway.com/passage/?search=John%2019%3A7&version=NKJV))
-and caused him to suffer in the most painful way before He died. 
+But most importantly if Jesus had been lying, He would also have been a fool, because His claims
+to deity led to His crucifixion ([John 19:7](https://www.biblegateway.com/passage/?search=John%2019%3A7&version=NKJV))
+and caused hHim to suffer in the most painful way before He died. 
 
 :::info[[The Person of Christ](https://www.amazon.com/Person-Christ-Perfection-Humanity-Divinity/dp/1113222034), Philip Schaff (late) Professor of History & Literature, University of Berlin]
 
@@ -51,12 +51,12 @@ end, the purest and noblest character known in history with the most perfect air
 and reality? 
 
 How could He have conceived and successfully carried out a plan of unparalleled beneficence,
-moral magnitude and sublimity and sacrificed his own life for it, in the face of the strongest
+moral magnitude and sublimity and sacrificed His own life for it, in the face of the strongest
 prejudices of his people and age?
 
 :::
 
-Jesus had multiple opportunities to take advantage of people around him, yet didn't. He was not
+Jesus had multiple opportunities to take advantage of people around Him, yet didn't. He was not
 looking for power - quite the opposite; He modeled serving others
 ([John 13:1–16](https://www.biblegateway.com/passage/?search=John%2013%3A1%E2%80%9316&version=NKJV);
 [15:13](https://www.biblegateway.com/passage/?search=John%2015%3A13&version=NKJV)) and
@@ -66,7 +66,7 @@ He was not seeking glory for himself - He willingly came to be a servant and to 
 on the cross for you and me ([Phil 2:5-8](https://www.biblegateway.com/passage/?search=Philippians%202%3A5-8&version=NKJV)).
 
 Based on what we know of Him through scripture, through eyewitness accounts, through history,
-through the lives of his disciples; Jesus was not motivated to lie about his identity for any
+through the lives of his disciples; Jesus was not motivated to lie about His identity for any
 reason!  *If Jesus was not an imposter, then what's the alternative?*
 
 ## Is He Lord?

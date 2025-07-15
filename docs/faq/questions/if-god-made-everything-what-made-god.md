@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: If God made everything, what made God? | Christian Apologetics
 sidebar_label: If God made everything, what made God?
-description: If God made everything, what made God? We explore the question of God's origin - if God created everything, who created God? This delves into the nature of God as eternal, self-existent, and outside the constraints of time and space. It explains the concept of God as the 'unmoved mover' (the first cause) and offers insights into the philosophical and theological reasoning behind God's eternal nature.
+description: What made God if God made everything? We explore God's eternal, self-existent nature, understanding Him as the "unmoved mover" beyond time and space - the ultimate first cause.
 keywords: ["If God made everything, what made God?","The nature of God","Eternal existence of God","Unmoved mover","First cause argument","Philosophical arguments for God","God and time","God's self-existence"]
 ---
 
@@ -12,18 +12,22 @@ keywords: ["If God made everything, what made God?","The nature of God","Eternal
 
 At first glance, the question seems logical. We live in a world governed by cause and effect. Everything we
 observe has a beginning and an end. Trees grow from seeds, people are born and die, stars are born in nebulas
-and eventually burn out. In this universe, everything appears to have a cause. So naturally, if one claims God
+and eventually burn out. In this universe, everything appears to have a cause. So naturally, if one says God
 created everything, it seems fair to ask what caused God.
 
 But this line of reasoning assumes that God is part of the same system as everything else i.e., a system defined
-by time, matter, energy, and physical laws. However, the truth is that that God is not part of the created order.
+by time, space, matter and the physical laws of these dimensions apply to Him. However, the truth is that 
+God is not part of the created order. 
+
 He exists outside it. He is not a creature; He is the Creator.
 
 ## God and the Nature of Time
+
 One of the keys to answering this question lies in understanding the nature of time. Time itself is part of God's
-creation. [Genesis 1:1](https://www.biblegateway.com/passage/?search=gen%201%3A1&version=NKJV) begins,
-**"In the beginning God created ..."** and *the beginning* refers not just to physical matter, but to time itself!
-As human beings, we are bound by time. We experience it as a linear progression - past, present, and future. Because
+creation. [Genesis 1:1](https://www.biblegateway.com/passage/?search=gen%201%3A1&version=NKJV) reads,
+**"In the beginning (time) God created the heavens (space) and the earth (matter) ..."**. *The beginning* refers
+not just to physical matter, but to time itself! As human beings, we are bound by time.
+We experience it as a linear progression - past, present, and future. Because
 of this, we naturally think in terms of beginnings and endings. Everything in our experience seems to be confined
 to this dimension. 
 
@@ -45,6 +49,7 @@ that the question, *"Who made God?"* is based on a flawed assumption - that
 God must have a beginning because everything else does. That’s simply not the case.
 
 ## The Second Law of Thermodynamics and the Universe
+
 From a scientific standpoint, the second law of thermodynamics offers important insight into our universe. This
 law states that the amount of usable energy in a closed system will always decrease over time. In other words,
 everything is running down. Energy becomes less available for work; disorder increases. This principle applies not 
@@ -86,7 +91,7 @@ existence, God depends on no one and nothing. He is the ultimate foundation of a
 
 ## The reality of truth
 
-To ask *"who made God"* is akin to asking, *"What's north of the North Pole?"*. It's a question based on
+To ask *"who made God"* is akin to asking, *"What's north of the North Pole?"* It's a question based on
 misunderstanding of the very nature of what's being discussed. Rather than trying to fit God into
 our limited framework of time and space, we are invited to step back and consider the vastness of who
 He is. Not only has He made everything that exists,

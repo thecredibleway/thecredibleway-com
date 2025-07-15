@@ -13,7 +13,7 @@ keywords: ["Christian apologetics","Why the Bible Still Matters","why does God a
 Perhaps you've found yourself pondering some of life's biggest questions: **Does God
 exist?** If so, **what is God like? Why is there suffering in the world if God is good?** Or maybe you're
 curious about the historical reliability of the Bible, the resurrection of Jesus, or the distinct
-claims of Christianity compared to other worldviews. *Questions about life, truth and God are
+aspects of Christianity compared to other worldviews. *Questions about life, truth and God are
 more often that not deeply personal; not just academic curiosities.*
 
 In a world filled with diverse beliefs and often conflicting claims about reality, it's natural and
@@ -44,10 +44,10 @@ meaningful and trustworthy.
 Throughout history, Christians have engaged with the prevailing ideas and challenges of their time,
 seeking to demonstrate the coherence, truth, and relevance of their beliefs. From the early church fathers
 like Justin Martyr and Augustine, who wrestled with Roman philosophy and paganism, to medieval thinkers
-such as Thomas Aquinas, who synthesized faith and reason, and modern apologists addressing contemporary
-scientific and philosophical critiques, the tradition of Christian apologetics is both ancient
-and ever-evolving. The Christian faith offers compelling answers to life's biggest questions and those
-answers are not just intellectually satisfying, but transformational. 
+such as Thomas Aquinas who synthesized faith and reason, the tradition of Christian apologetics has deep
+historical roots. Modern apologists, addressing contemporary scientific and philosophical critiques,
+continue this ancient and ever-evolving tradition. The Christian faith offers compelling answers to
+life's biggest questions and those answers are not just intellectually satisfying, but transformational. 
 
 Here, we aim to address some of the most common and challenging questions people have about God, the
 Bible, and Christian living. Topics ranging from philosophical arguments for God's existence to

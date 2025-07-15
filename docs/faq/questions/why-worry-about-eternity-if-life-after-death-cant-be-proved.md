@@ -8,7 +8,6 @@ description: Why worry about eternity if life after death can't be proved?
 keywords: ["Why worry about eternity if life after death can't be proved?","Why care about eternity when you can't prove life after death?"]
 ---
 
-
 # Why worry about eternity if life after death can't be proved?
 
 In a world that thrives on tangible evidence and scientific verification, how can we reasonably talk
@@ -80,6 +79,16 @@ signifying lukewarmness). A key part of his message is that a **vast majority (a
 believers.** He stresses **the need for genuine, Spirit-filled living and not just outward religious observance.**
 He highlights **the reality of heaven, hell, eternity, angels and demons and what true Christianity needs to be.**
 
+[Karl Falken](https://www.youtube.com/watch?v=A_eoadbIHBI), died of burns and learnt that the soul survives. He gives a
+vivid description of his encounter of both heaven and hell, the reality of sin and eternity. A key part of his story
+also resonates with Howard Pitmann's account in that only 2.5% people make it to heaven because of religion - people
+need to have the right motives and need to be in a relationship with God!
+
+In [The Case for Heaven, by Lee Strobel](https://www.amazon.com/Case-Heaven-Journalist-Investigates-Evidence/dp/0310259193),
+the award-winning legal editor of the Chicago Tribune and a spiritual skeptic until 1981, he interviews experts
+about the evidence for the afterlife. He gives near death experiences of many people including his own
+where he was close to a coma - and after that he went searching for answers and found Jesus Christ.
+
 There are several more like this, all that have too many things in common to be coincidences.
 
 ## Moral and Existential Realities
@@ -90,7 +99,7 @@ then ultimate justice is never served. Many people throughout history have done 
 and died in comfort, while others have lived righteously and suffered unjustly. If there is no life
 beyond this one, then moral accountability is ultimately meaningless.
 
-But Christianity claims otherwise. Eternal life is not just about reward - it's about restoration.
+But Christianity says otherwise. Eternal life is not just about reward - it's about restoration.
 The brokenness of this world will one day be healed. The injustices made right. The tears wiped away.
 As [Revelation 21:4](https://www.biblegateway.com/passage/?search=Revelation%2021%3A4&version=NKJV)
 declares, "He will wipe every tear from their eyes. There will be no more death or mourning or
@@ -152,7 +161,7 @@ something happened to Jesus that had never happened to anyone else!
 them and allowed them to touch His wounds.** 
 
 The [crucifixion](../../jesus/crediblilty/the-crucifixion.mdx) and the
-[resurrection](../../jesus/crediblilty/the-resurrection.md) and his subsequent appearance to
+[resurrection](../../jesus/crediblilty/the-resurrection.md) and His subsequent appearance to
 numerous individuals over a period of 40 days, testify of Jesus' divine nature and confirms
 His victory over sin and death - hence the Apostle Paul clearly says that if Christ had not been raised
 from the dead, then nothing else matters: no hope, no future, nothing! It is our sincere hope that each
@@ -187,7 +196,7 @@ His followers the same way. And yet, their own historical records [acknowledge J
 and the surprising spread of Christianity].
 
 **If the resurrection of Jesus from the dead was not real, why was the message of Jesus spreading rapidly?
-Why were people willing to loose everything; be tortured and killed in such painful ways?**
+Why were people willing to lose everything; be tortured and killed in such painful ways?**
 
 :::tip[The simplest answer to everything]
 

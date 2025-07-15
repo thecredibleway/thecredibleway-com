@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Provision and Abundance | Because He Lives
 sidebar_label: Provision and Abundance
-description: Because Jesus lives, I have life and life more abundantly! Now that identity and authority are established, the believer sees the fullness and richness of life in Christ—spiritually, emotionally and even materially.
+description: Because Jesus lives, I have life more abundantly! This establishes the believer's identity and authority, revealing the fullness and richness of life in Christ—spiritually, emotionally, and even materially.
 keywords: ["Abundance","Freedom from Poverty","abundant life","blessings in Christ","fullness of life","life to the full","divine provision","overflow of grace","spiritual riches in Jesus","more than enough"]
 ---
 

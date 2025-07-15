@@ -2,8 +2,9 @@
 sidebar_position: 2
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: Aren't all religions paths to the same God
-description: Aren't all religions paths to the same God. In today's pluralistic society, the idea that 'all religions lead to the same God' is often seen as an inclusive, tolerant view. This article examines the distinctions between Christianity and other world religions like Hinduism, Buddhism, and Islam, focusing on key concepts such as salvation, the nature of God, and the path to eternal life. We explore how Christianity's exclusive truth claims, particularly the role of Jesus Christ, challenge the notion that all religions are simply different routes to the same divine being.
+title: Aren't all religions paths to the same God | Christian Apologetics
+sidebar_label: Aren't all religions paths to the same God 
+description: Do all religions lead to the same God? We explore Christianity's distinct views on God, salvation, and eternal life, comparing them with Hinduism, Buddhism, and Islam. Discover how Jesus Christ's role presents a unique challenge to the idea of interchangeable spiritual paths.
 keywords: ["Aren't all religions paths to the same God","But all religions are a path to the same God","Christianity and other religions","Religious pluralism","Truth in Christianity","Jesus as the only way","Comparative religion","inclusive religion","tolerance for all religions","The uniqueness of Christ","World religions and salvation","Aren't all religions basically the same?"]
 ---
 
@@ -33,7 +34,11 @@ creation. Similarly, in Buddhism, God is largely irrelevant. Buddhism does not f
 attainment of enlightenment through self-discipline, meditation, and ethical living. Islam, on the other hand, teaches
 that Allah is all-powerful, but the nature of Allah is still fundamentally different from Christianity. While Islam
 teaches that God is sovereign and merciful, it denies the concept of the Trinity (Father, Son and Holy Spirit in one) and
-the divinity of Jesus Christ, which is the center of Christianity. 
+the divinity of Jesus Christ, which is the center of Christianity. Islam also teaches that Jesus that did not die on
+the cross and that God put someone else on the cross. This means He didn't pay for our salvation nor our sicknesses as
+per [Isa 53], nor is Jesus' death, burial and resurrection. Even if you discount the Bible as not being valid, this still
+is contrary to the hundreds of eyewitness accounts, the historical accounts of the Romans, those of the Syrians and so 
+on - clearly not the same.
 
 ## The Problem of Sin and Salvation - Works vs. Grace
 
@@ -74,20 +79,20 @@ and [rose again](../../jesus/crediblilty/the-resurrection.md), offering
 
 ## The Credibility of Jesus Christ
 
-The Christian Gospel hangs on the credibility of Jesus Christ. If Jesus knew he was not God,
-then he was lying. If he was a imposter then he was also a hypocrite because he told others
+The Christian Gospel hangs on the credibility of Jesus Christ. If Jesus knew He was not God,
+then He was lying. If He was a imposter then He was also a hypocrite because He told others
 to be honest, whatever the cost. He urged people to abandon their own religious beliefs
-and place their trust in him for their eternal destiny. 
+and place their trust in Him for their eternal destiny. 
 
 :::info[If Jesus was lying ...]
 
-But most importantly if Jesus had been lying, He would also have been a fool, because his claims
-to deity led to his crucifixion* ([John 19:7](https://www.biblegateway.com/passage/?search=John%2019%3A7&version=NKJV))
-and caused him to suffer in the most painful way before He died.
+But most importantly if Jesus had been lying, He would also have been a fool, because His claims
+to deity led to His crucifixion ([John 19:7](https://www.biblegateway.com/passage/?search=John%2019%3A7&version=NKJV))
+and caused Him to suffer in the most painful way before He died.
 
 :::
 
-Jesus had multiple opportunities to take advantage of people around him, yet didn't. He was not
+Jesus had multiple opportunities to take advantage of people around Him, yet didn't. He was not
 looking for power - quite the opposite; He modeled serving others
 ([John 13:1–16](https://www.biblegateway.com/passage/?search=John%2013%3A1%E2%80%9316&version=NKJV);
 [15:13](https://www.biblegateway.com/passage/?search=John%2015%3A13&version=NKJV)) and
@@ -97,10 +102,10 @@ He was not seeking glory for himself - He willingly came to be a servant and to 
 on the cross for you and me ([Phil 2:5-8](https://www.biblegateway.com/passage/?search=Philippians%202%3A5-8&version=NKJV)).
 
 Based on what we know of Him through scripture, through eyewitness accounts, through history,
-through the lives of his disciples; Jesus was not motivated to lie about his identity for any
+through the lives of his disciples; Jesus was not motivated to lie about His identity for any
 reason!  *If Jesus was not an imposter, then what's the alternative?*
 
-Other self-proclaimed gods and saviors have come and gone, but Jesus Christ, stands
+**Other self-proclaimed gods and saviors have come and gone, but Jesus Christ, stands
 head-and-shoulders above them all; and He is still alive!** The evidence is in favor of Jesus as Lord,
 embodying truth and love! The consistency of [His teachings](../../jesus/crediblilty/teachings-of-jesus.md),
 the [fulfillment of prophecies](../../jesus/crediblilty/prophecies-fulfilled.md) and the transformative power of

@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: If a good God exists, why is there evil and suffering? | Christian Apologetics
 sidebar_label: If a good God exists, why is there evil and suffering?
-description: The question one of the the most difficult yet frequently asked of Christians. If God is good and all powerful, then why does He allow evil, suffering and injustice in the world? It presents the Christian perspective on why suffering exists in a world created by a good God, exploring free will, the fall of man, and the redemptive purpose of suffering. It also provides biblical insights on God's ultimate plan to end evil and suffering in the future.
+description: God, evil, and suffering - How can they coexist? We examine the answer, exploring free will, the fall, and suffering's role in God's ultimate redemptive plan.
 keywords: ["If God exists why is there evil and suffering?","If God is good and all powerful, why does He allow evil, suffering, and injustice in the world?","The problem of evil","Christian views on suffering","Free will and suffering","Biblical explanation of evil","God's plan for suffering","Why does God allow suffering?"]
 ---
 
