@@ -2,7 +2,7 @@
 sidebar_position: 5
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: The Resurrection | Jesus is Credibile
+title: The Resurrection | Jesus is Credible
 sidebar_label: The Resurrection
 description: Victory Over Death, Hope for the World. Examine the historical, biblical and medical evidence for the resurrection of Jesus Christ and it's enduring impact.
 keywords: ["resurrection of Jesus","evidence for Jesus resurrection","Jesus rose from the dead","Easter resurrection story","historical proof of resurrection","biblical resurrection accounts","Jesus empty tomb","significance of the resurrection"]
@@ -33,7 +33,7 @@ All three are fulfilled when you accept Jesus and put your faith in Him - He bea
 :::
 
 
-[The death of Jesus changes everything!](./the-crucifixion.mdx) It is my sincere hope that each of us comes to understand the profound sacrifice of Jesus Christ. God is real, He loves us and He desires a relationship with every one of us!
+[The death of Jesus changes everything!](./the-crucifixion.mdx) It is our sincere hope that each of us comes to understand the profound sacrifice of Jesus Christ. God is real, He loves us and He desires a relationship with every one of us!
 
 It is only through Jesus' sacrifice on the cross that we who repent are justified before God.
 
@@ -115,7 +115,7 @@ His followers the same way. And yet, their own historical records acknowledge Je
 and the surprising spread of Christianity.
 
 **If the resurrection of Jesus from the dead was not real, why was the message of Jesus spreading rapidly?
-Why were people willing to loose everything; be tortured and killed in such painful ways?**
+Why were people willing to lose everything; be tortured and killed in such painful ways?**
 
 :::tip[The simplest answer to everything]
 
@@ -200,7 +200,7 @@ had expired.
 
 Tacitus' account aligns with the biblical record of Jesus' crucifixion under Pontius Pilate ([Luke 23](https://www.biblegateway.com/passage/?search=Luke%2023&version=NKJV))
 and he notes the spread of Christianity - dismissed by him as a 'superstition' - in both Judea
-and Rome, likely due to claims of Jesus' resurrection.
+and Rome, likely due to Jesus' resurrection.
 
 **Despite his strong anti-Semitic and anti-Christian views, Tacitus also confirms Jesus' prophecy
 in [Luke 21:5–38](https://www.biblegateway.com/passage/?search=Luke%2021%3A5%E2%80%9338&version=NKJV) regarding the fall of the Jerusalem in 70 AD; even the miraculous which he couldn't
@@ -237,7 +237,7 @@ of one Chrestus (anointed one)
 
 :::
 
-The 'disturbances' were Jews who trying to reconcile Jesus' outrageous claims of divinity and
+The 'disturbances' were Jews who trying to reconcile Jesus' divinity and
 the scandalous reports of his resurrection. Since the Jews couldn't agree, they were all expelled.
 We also find records of this in the New Testament:
 
@@ -381,7 +381,7 @@ The apostle Peter was one of the first individuals to whom Jesus appeared after 
 
 #### James
 
-Jesus also appeared to James, His brother, who initially doubted his claims ([1 Cor 15:7](https://www.biblegateway.com/passage/?search=1%20Cor%2015%3A7&version=NKJV))
+Jesus also appeared to James, His brother, who initially doubted Him ([1 Cor 15:7](https://www.biblegateway.com/passage/?search=1%20Cor%2015%3A7&version=NKJV))
 
 #### Apostle Paul
 
@@ -438,7 +438,7 @@ or Roman authorities, who instead claimed the body had been stolen - an admissio
 
 Within weeks of the crucifixion, the apostles were proclaiming the resurrection in Jerusalem - the very place
 where Jesus had been publicly executed and buried. The Acts of the Apostles and Paul's letters cite hundreds
-of eyewitnesses, some of whom were still alive when the texts were written, inviting readers to verify the claims.
+of eyewitnesses, some of whom were still alive when the texts were written, inviting readers to verify things.
 The early church's explosive growth, in the face of martyrdom and without political or military backing,
 is extremely difficult to explain without a genuine, transformative event at it's core. Nearly all of the apostles,
 and countless early Christians, were willing to suffer and die for their proclamation that Jesus rose from the

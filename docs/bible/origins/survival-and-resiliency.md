@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Survival and Resiliency | Origins of the Bible
 sidebar_label: Survival and Resiliency
-description: Despite centuries of persecution, censorship and criticism, the Bible has survived intact and remains the most widely read and distributed book in history. Its resilience testifies to its enduring relevance and divine preservation.
+description: Despite centuries of persecution, censorship, and criticism, the Bible has survived intact, remaining the most widely read and distributed book in history, testifying to its enduring relevance and divine preservation.
 keywords: ["Bible resilience","Bible survival","persecution of Scripture","preservation of the Bible","indestructible Bible","enduring Scripture","Bible through history","banned books","historical survival","divine protection"]
 ---
 
@@ -146,7 +146,7 @@ and idea has been challenged - but it still stands.
 
 No other book has been so chopped, knived, sifted, scrutinized and vilified. What book on philosophy or
 religion or psychology or letters of classical or modern times has been subject to such a mass attack as the
-Bible? with such venom and skepticism? with such thoroughness and erudition? upon every chapter, line and tenet?
+Bible? With such venom and skepticism? With such thoroughness and erudition? Upon every chapter, line and tenet?
 
 :::
 

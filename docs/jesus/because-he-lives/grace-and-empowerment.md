@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Grace and Empowerment | Because He Lives
 sidebar_label: Grace and Empowerment
-description: Because Jesus lives, I have the power to live a holy life by grace through His Holy Spirit. God not only saves us but empowers us to live in grace and grow in holiness - we need an understanding of ongoing sanctification that Jesus purchased for us with His blood.
+description: Because Jesus lives, you have the power to live a holy life by grace through His Holy Spirit, empowering you to grow in the sanctification He purchased with His blood.
 keywords: ["grace","holiness","Freedom from sin","freedom from addiction","grace of God","living a holy life","power over sin","set apart by grace","victory over the flesh","walking in righteousness","sanctified through Christ","empowered by the Holy Spirit"]
 ---
 

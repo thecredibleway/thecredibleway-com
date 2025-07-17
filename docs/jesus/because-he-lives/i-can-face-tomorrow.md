@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: I Can Face Tomorrow | Because He Lives
 sidebar_label: I Can Face Tomorrow
-description: Because Jesus lives, I have hope for the future! What I have I can give to others freely - a declaration of hope, resilience and purpose rooted in the living Christ. It echoes the heart of the famous hymn 'Because He Lives'
+description: Because Jesus lives, I have hope for the future and can freely share it! This is a declaration of hope, resilience, and purpose rooted in the living Christ. It echoes the heart of the famous hymn 'Because He Lives'
 keywords: ["hope for the future","because He lives","Christian hope","strength for today, hope for tomorrow","living without fear","faith in uncertain times","anchored in the resurrection","Jesus is alive - so I can keep going"]
 ---
 

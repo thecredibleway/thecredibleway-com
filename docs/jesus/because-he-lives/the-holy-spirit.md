@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Holy Spirit | Because He Lives
 sidebar_label: Holy Spirit
-description: Because Jesus lives, we have the amazing Holy Spirit! Explore how Jesus gave us the Holy Spirit, His role in the believer's life and the transformative access we have through Him.
+description: Because Jesus lives, we have the amazing Holy Spirit! Explore how Jesus gave us the Spirit, His transformative role in believers' lives, and the access we have through Him.
 keywords: ["Who is the Holy Spirit","The role of the Holy Spirit","What the Holy Spirit does","Jesus and the Holy Spirit","The gift of the Holy Spirit","What does the Holy Spirit do for believers","Living a Spirit-filled life","How to walk in the Spirit","Power of the Holy Spirit in believers","Receiving the Holy Spirit","What it means to be filled with the Holy Spirit","How the Holy Spirit guides us","Empowered by the Holy Spirit","Holy Spirit and spiritual warfare","Abiding in the Spirit","Hearing the Holy Spirit","Holy Spirit transformation"]
 ---
 

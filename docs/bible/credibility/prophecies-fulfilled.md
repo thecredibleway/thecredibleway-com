@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Prophecies Fulfilled | The Bible is Credible
 sidebar_label: Prophecies Fulfilled
-description: Unlike vague predictions, the Bible contains specific, measurable prophecies, many of which were fulfilled in history or the life of Jesus. The Bible contains hundreds of detailed prophecies - many written centuries in advance — that have been precisely fulfilled, especially those concerning Jesus Christ. This prophetic accuracy points to a divine source beyond human prediction.
+description: Unlike vague predictions, the Bible contains hundreds of specific, measurable prophecies, many fulfilled centuries later in history or the life of Jesus, pointing to a divine source.
 keywords: ["fulfilled prophecies","messianic prophecies","Bible prophecy","prophecy fulfillment","Jesus in prophecy","divine inspiration", "biblical predictions","Old Testament prophecies","New Testament fulfillment","supernatural evidence","daniel's prophecies"]
 ---
 
