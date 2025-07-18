@@ -38,7 +38,7 @@ Church as its risen head ([Col 1:18](https://www.biblegateway.com/passage/?searc
 
 Jesus Christ is not a figure confined to the past or to memory. **He is alive and active in the
 present, ruling with divine authority and preparing for His eventual return.** At present Jesus is
-'the Saviour' of the world; but there is a day when he will be 'the Judge' and He will judge the
+'the Savior' of the world; but there is a day when he will be 'the Judge' and He will judge the
 living and the dead. Though Jesus is not physically present as He was during His earthly ministry, 
 He is present in several ways:
 
@@ -96,7 +96,7 @@ was not the end of His story - it was the beginning of ours!
 
 :::
 
-## How can I have a relationship with Jesus Christ?
+## How Can I Have a Relationship with Jesus Christ?
 
 You can begin a new life in Christ Jesus today! Your life can be changed forever if you repent and
 trust the God who made you and loves you. *Many are called, but few are chosen*
@@ -111,7 +111,7 @@ Where will you spend eternity? In heaven or in hell?
 
 1. Acknowledge that you have sinned and fallen short of God's standards - repent and tell God that
 you now turn from not believing in Jesus and from your sin. Put your faith and trust in
-Jesus Christ as your Saviour & Lord (someone you obey without hesitation i.e. a full surrender).
+Jesus Christ as your Savior & Lord (someone you obey without hesitation i.e. a full surrender).
 Believe that He has heard your request and granted it ([Rom 10:13](https://www.biblegateway.com/passage/?search=Rom%2010%3A13&version=NKJV)), as He cannot lie ([Num 23:19](https://www.biblegateway.com/passage/?search=Num%2023%3A19&version=NKJV)). Say
 out loud that Jesus is your Lord and you believe that He died and God raised Him from the dead and
 that your sins are washed by His Blood that was shed for you and me.

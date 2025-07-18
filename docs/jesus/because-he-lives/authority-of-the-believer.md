@@ -68,7 +68,7 @@ Jesus said He came to proclaim liberty to the captives
 this work. As Jesus taught, in [Matthew 6:10](https://www.biblegateway.com/passage/?search=Matthew%206%3A10&version=NKJV) *"Your kingdom come, your will be done on earth
 as it is in heaven"*. Authority is about representing heaven's agenda on earth.
 
-## The Name of Jesus: The Key to Authority
+## The Name of Jesus - The Key to Authority
 
 One of the greatest tools believers have been given is the [Name of Jesus](./the-name-of-jesus.md).
 [Philippians 2:9-11](https://www.biblegateway.com/passage/?search=Philippians%202%3A9-11&version=NKJV)
@@ -111,12 +111,12 @@ shall not have dominion over you"*. The believer has authority to reject temptat
 speaks of taking every thought captive. This means believers have the authority to reject lies and embrace
 truth.
 
-#### Intercession and prayer
+#### Intercession and Prayer
 
 In Christ, believers can intercede powerfully for others, believing that their prayers move heaven and
 earth ([James 5:16](https://www.biblegateway.com/passage/?search=James%205%3A16&version=NKJV)).
 
-#### Healing and deliverance
+#### Healing and Deliverance
 
 The early church healed the sick and cast out demons not by their own power, but in Jesus' name. That
 same authority remains today.

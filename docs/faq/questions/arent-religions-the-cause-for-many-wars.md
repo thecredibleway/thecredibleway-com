@@ -2,13 +2,13 @@
 sidebar_position: 9
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: Aren't religions the cause of many wars? | Christian Apologetics
-sidebar_label: Aren't religions the cause of many wars?
+title: Aren't Religions the Cause of Wars? | Christian Apologetics
+sidebar_label: Aren't Religions the Cause of Wars?
 description: Is religion the cause for many wars? We challenge this common claim, exploring historical evidence, the nature of atheistic regimes, and the link between faith and objective morality.
 keywords: ["Aren't religions the cause of wars?","Aren't religions the cause for so many wars","religion and war","Christianity and violence","atheism and morality","moral relativism","conscience and God","is religion dangerous"]
 ---
 
-# Aren't religions the cause of wars? 
+# Aren't Religions the Cause of Wars? 
 
 This is a common objection to religion in general, and Christianity in particular. Critics argue
 that religion is inherently divisive and violent, claiming it has caused more wars and bloodshed than any
@@ -19,15 +19,15 @@ data and philosophical foundations, a very different picture emerges.
 ## Historical Evidence - The Numbers Tell a Different Story
 
 A foundational resource on this subject is *The Encyclopedia of Wars* by Charles Phillips and Alan Axelrod.
-In their comprehensive study of war they recorded 1763 wars from 3500 BC. up to the year 2004 AD; of which 123 of those
+In their comprehensive study of war they recorded **1763 wars** from *3500 BC. up to the year 2004 AD*; of which *122* of those
 were found to be motivated primarily by religion. **That's less than 7% of all wars throughout recorded history.
 Even more telling, two-thirds of those religious wars were fought in the name of Islam.**
 
-That leaves over 93% of all wars motivated by political, territorial, ethnic, or ideological reasons. Think
+That leaves over 93% of all wars motivated by political, territorial, ethnic or ideological reasons. Think
 about the major wars of the 20th century - World War I and II, the Korean War, the Vietnam War, the Cold War,
-the Rwandan Genocide - none were religious conflicts.
+the Rwandan Genocide - **none** *were religious conflicts.*
 
-It's also worth highlighting that atheistic regimes (& not religion) have been responsible for the most
+It's also worth highlighting that atheistic regimes (and not religion) have been responsible for the most
 catastrophic mass killings in human history. Joseph Stalin, leading an explicitly atheistic Soviet Union,
 is estimated to have caused the deaths of up to 60 million people through purges, famines, and gulags.
 Mao Zedong's communist regime in China is responsible for an estimated 40 million deaths. Vladimir Lenin,

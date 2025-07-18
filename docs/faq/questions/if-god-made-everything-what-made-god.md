@@ -2,13 +2,13 @@
 sidebar_position: 36
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: If God made everything, what made God? | Christian Apologetics
-sidebar_label: If God made everything, what made God?
+title: If God Made Everything, What Made God? | Christian Apologetics
+sidebar_label: If God Made Everything, What Made God?
 description: What made God if God made everything? We explore God's eternal, self-existent nature, understanding Him as the "unmoved mover" beyond time and space - the ultimate first cause.
 keywords: ["If God made everything, what made God?","The nature of God","Eternal existence of God","Unmoved mover","First cause argument","Philosophical arguments for God","God and time","God's self-existence"]
 ---
 
-# If God made everything, what made God?
+# If God Made Everything, What Made God?
 
 At first glance, the question seems logical. We live in a world governed by cause and effect. Everything we
 observe has a beginning and an end. Trees grow from seeds, people are born and die, stars are born in nebulas
@@ -99,7 +99,7 @@ but [He invites us to know Him personally](../../jesus/because-he-lives/new-iden
 to experience the reality of His eternal nature, and to dwell with Him beyond time itself.
 
 You have a soul that lives on beyond your physical body for all eternity. To acknowledge God means facing
-the [reality of sin and the need for repentance and a saviour in Jesus Christ](../../jesus/because-he-lives/salvation-and-redemption.md).
+the [reality of sin and the need for repentance and a savior in Jesus Christ](../../jesus/because-he-lives/salvation-and-redemption.md).
 Jesus Christ paid the ultimate price with His life [so you can be restored to God](../../jesus/because-he-lives/i-can-face-tomorrow.md)
 
 Now you know the truth, what will you do? 

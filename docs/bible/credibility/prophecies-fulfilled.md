@@ -120,7 +120,7 @@ Assyrians started it in the 6th century and the Romans practiced in the 5th cent
 | 3| Day and night at the same time (Psa 22:2)	| Now from the sixth hour until the ninth hour there was darkness over all the land (Mat 27:45) |
 | 4| All who see me mock me, shake their head and insult me	(Psa 22:7)	| And those who passed by blasphemed Him ...  (Mat 27:39-44) |
 | 5| He trusted in God, let Him deliver Him (Psa 22:8)	| Mocking with the scribes and elders, said, He saved others; Himself He cannot save. If He is the King of Israel, let Him now come down from the cross and we will believe...  (Mat 27:43) |
-| 6| Born the Savior (Psa 22:9-10) | Jesus is the Saviour of the world (Luke 2:7) |
+| 6| Born the Savior (Psa 22:9-10) | Jesus is the Savior of the world (Luke 2:7) |
 | 7| They seek His death (Psa 22:12-13)	|The chief priests and officers saw Him, they cried out, saying, 'Crucify Him, crucify Him!' (John 19:6) |
 | 8| His blood poured out when they pierced His side (Psa 22:14) | But one of the soldiers pierced His side with a spear and immediately blood and water came out	(John 19:34) |
 | 9| Suffered extreme agony (Psa 22:14-15) | Jesus cried out with a loud voice, saying, Eli, Eli, lama sabachthani? .....  (Mark 15:34-37) |

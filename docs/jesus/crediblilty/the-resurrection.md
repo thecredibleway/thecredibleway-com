@@ -10,7 +10,7 @@ keywords: ["resurrection of Jesus","evidence for Jesus resurrection","Jesus rose
 
 # The Resurrection
 
-## Why did Jesus need to die at the cross?
+## Why did Jesus need to Die at the Cross?
 
 What would cause the Son of Man to do the unthinkable? What made Him give His life as a substitute for each of us?
 *The death of Jesus is for every day of our lives, not just an event once a year at Easter.*
@@ -39,7 +39,7 @@ It is only through Jesus' sacrifice on the cross that we who repent are justifie
 
 It is only through Christ's resurrection that we have victory over sin, guilt and death.
 
-## Is the Resurrection real?
+## Is the Resurrection Real?
 
 The word 'resurrection' isn't merely the existence into which someone might (or might not) go immediately after
 death - it's the reversal of death! When the early Christians spoke of Jesus being raised from the dead, it was
@@ -362,7 +362,7 @@ Him for the gardener ([Mark 16:9-11](https://www.biblegateway.com/passage/?searc
 Several women, including those who were with Mary Magdalene, ([Mat 28:9-10](https://www.biblegateway.com/passage/?search=Mat%2028%3A9-10&version=NKJV))
 seeing the resurrected Jesus.
 
-#### Two disciples on the Emmaus road
+#### Two disciples on the Emmaus Road
 
 They encountered Jesus in a different form and recognized him as the Messiah, as He broke bread
 with them ([Mark 16:12-13](https://www.biblegateway.com/passage/?search=Mark%2016%3A12-13&version=NKJV),

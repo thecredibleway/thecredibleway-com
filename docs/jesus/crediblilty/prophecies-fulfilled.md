@@ -161,7 +161,7 @@ infinite, that go beyond what we might expect or calculate!
 | 25| His exaltation predicted as Yeshua  (Ex 15:2)	| 1875 - 1445 BC | Jesus glorified at the right hand of God (Acts 7:55-56) |
 | 26| His Character - Holiness (Ex 15:11)	| 1875 - 1445 BC | Jesus is the Holy one of God (Luke 1:35) |
 | 27| The Spiritual Rock of Israel (Ex 17:6) | 1875 - 1445 BC | Jesus Christ is the Rock of Israel (1 Cor 10:4) |
-| 28| His Character - Merciful (Ex 33:19) | 1875 - 1445 BC | Jesus is the saviour of Israel (Luke 1:72) |
+| 28| His Character - Merciful (Ex 33:19) | 1875 - 1445 BC | Jesus is the savior of Israel (Luke 1:72) |
 | 29| His sacrifice a sweet smelling savor unto God	(Lev 1:2-9) | 1405 BC | Christ gave himself for as a sacrifice to God for a sweet-smelling aroma (Eph 5:2) |
 | 30| Leper cleansed by a priest (Lev 14:11) | 1405 BC | Jesus as our High priest, cleanses a leper (Luke 5:12-14, Acts 6:7) |
 | 31| Christ's once-for-all death foreshadowed (Lev 16:15-17) | 1405 BC | Jesus Christ offered himself for the people's sins (Heb 9:7-14) |
@@ -212,7 +212,7 @@ infinite, that go beyond what we might expect or calculate!
 | 76| Day and night at the same time (Psa 22:2)	| 1410 - 430 BC | Now from the sixth hour until the ninth hour there was darkness over all the land (Mat 27:45) |
 | 77| All who see me mock me, shake their head and insult me	(Psa 22:7)	| 1410 - 430 BC | And those who passed by blasphemed Him ...  (Mat 27:39-44) |
 | 78| He trusted in God, let Him deliver Him (Psa 22:8)	| 1410 - 430 BC | Mocking with the scribes and elders, said, He saved others; Himself He cannot save. If He is the King of Israel, let Him now come down from the cross and we will believe...  (Mat 27:43) |
-| 79| Born the Savior (Psa 22:9-10) | 1410 - 430 BC | Jesus is the Saviour of the world (Luke 2:7) |
+| 79| Born the Savior (Psa 22:9-10) | 1410 - 430 BC | Jesus is the Savior of the world (Luke 2:7) |
 | 80| They seek His death (Psa 22:12-13)	| 1410 - 430 BC | The chief priests and officers saw Him, they cried out, saying, 'Crucify Him, crucify Him!' (John 19:6) |
 | 81| His blood poured out when they pierced His side (Psa 22:14) | 1410 - 430 BC | But one of the soldiers pierced His side with a spear and immediately blood and water came out	(John 19:34) |
 | 82| Suffered extreme agony (Psa 22:14-15) | 1410 - 430 BC | Jesus cried out with a loud voice, saying, Eli, Eli, lama sabachthani? .....  (Mark 15:34-37) |

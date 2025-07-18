@@ -31,10 +31,12 @@ Caiphas
 Capitolias
 Carta
 Cephas
+cessationism
 Chermon
 Chrestus
 Christlikeness
 Christus
+continuationism
 Cuadra
 Cuauhtitlan
 Danin
@@ -58,6 +60,7 @@ FRSE
 Falken
 Falken
 Festus
+filioque
 Flagrum
 Flavius
 Frisia
@@ -81,6 +84,7 @@ Hormuzd
 Hosein
 Iduemaea
 Imran
+inclusivity
 Ipuwer
 Irenaeus
 Isaa
@@ -174,6 +178,7 @@ Vaticanus
 Watzinger
 Weise
 Westmont
+Willberforce
 Yeshua
 Zamān
 Zanoah

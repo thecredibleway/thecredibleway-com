@@ -157,7 +157,7 @@ their light should shine before men, not so they themselves get rewards or glory
 be glorified and people come to Him. **Jesus didn't come to destroy the Law or the Prophets; rather he
 came to fulfill it.** He then went on to interpret the Law of Moses with deeper intent, the way God intended it.
 
-#### The Law with far deeper intent
+#### The Law with far Deeper Intent
 
 :::note[[Mat 5](https://www.biblegateway.com/passage/?search=Mat%205&version=NKJV)]
 
@@ -178,7 +178,7 @@ persecute you (v43-45)
 
 :::
 
-#### Go the extra mile
+#### Go the Extra Mile
 
 :::note[[Mat 6](https://www.biblegateway.com/passage/?search=mat%206&version=NKJV)]
 

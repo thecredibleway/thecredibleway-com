@@ -22,7 +22,7 @@ died and rose again! Because He lives we can face tomorrow! Many of Jesus' follo
 (even to this day) and willingly give up their lives to uphold their faith and fulfill their calling
 to share the good news of Jesus Christ; leaving a legacy that continues to inspire believers to this day.
 
-## The emergence of Christianity
+## The Emergence of Christianity
 
 The emergence of Christianity after the crucifixion of Jesus was a profound and rapid transformation
 that began in Jerusalem and eventually spread across the Roman Empire. The disciples of Jesus were
@@ -58,7 +58,7 @@ Christianity had moved beyond the borders of Judea and had taken root across the
 and even parts of North Africa and India.
 
 
-## Early records and history 
+## Early Records and History 
 
 The early records and history of the Church and Christianity are primarily rooted in the
 New Testament and supplemented by writings of early Church Fathers and Roman historians.
@@ -85,7 +85,7 @@ The early records not only document the Church's survival but also the reason Ch
 the message and why it was accepted; but also why people gave up everything to follow Jesus Christ
 even in the face of severe persecution.
 
-## What happened to the Apostles
+## What Happened to the Apostles
 
 The initial twelve apostles gave everything up the moment Jesus invited them to "follow Me"! Ordinary
 men from various walks of life, walked with Him as His closest disciples. Witnessing His miracles,
@@ -331,7 +331,7 @@ Matthias was a disciple from the beginning of Jesus' ministry and ministered in 
 and the region around the Caspian Sea. He was martyred in Jerusalem, by stoning and then beheaded.
 
 
-## What about since then?
+## What About Since Then?
 
 After the deaths of the original apostles, the age of martyrdom continued, reflecting
 the persistent tension between the Christian message and political or religious powers. 

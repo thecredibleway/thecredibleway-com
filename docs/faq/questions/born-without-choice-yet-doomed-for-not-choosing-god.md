@@ -2,13 +2,13 @@
 sidebar_position: 39
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: Born without choice, yet doomed for not choosing God? | Christian Apologetics
-sidebar_label: Born without choice, yet doomed for not choosing God?
+title: Born Without Choice, Yet Doomed for Not Choosing God | Christian Apologetics
+sidebar_label: Born Without Choice, Yet Doomed for Not Choosing God?
 description: I didn't choose to be born, so why am I accountable and potentially doomed without God? We delve into free will, God's justice, and human responsibility from a Christian perspective.
 keywords: [" I didn't choose to be born and if I don't choose God Im doomed?","I didn't choose to be born. So why am I held accountable for what I do here?","Free Will & God's Sovereignty","Justice of God","Human Responsibility","Problem of Evil ","Eternal Destiny","Predestination vs. Choice"]
 ---
 
-# Born without choice, yet doomed for not choosing God?
+# Born Without Choice, Yet Doomed for Not Choosing God?
 
 This is a deep and often emotionally charged question. It's one that many people ask at some point
 *"I didn't choose to be born. So why am I held accountable for what I do here? And if I don't choose God,

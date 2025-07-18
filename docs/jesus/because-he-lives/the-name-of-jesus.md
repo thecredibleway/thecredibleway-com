@@ -23,7 +23,7 @@ It is the name above every name - given, exalted and honored by God Himself!
 
 :::
 
-## What's in a name
+## What's in a Name
 
 The name *Jesus* comes from the Hebrew *Yeshua*, meaning **Yahweh saves** or **The Lord is salvation**.
 This was not by co-incidence. The angel instructed Joseph before Jesus' birth 
