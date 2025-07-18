@@ -2,13 +2,13 @@
 sidebar_position: 8
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: Why worry about eternity if life after death can't be proved? | Christian Apologetics
-sidebar_label: Why worry about eternity if life after death can't be proved?
-description: Why worry about eternity if life after death can't be proved?
+title: Why Worry About Eternity if Life After Death Can't be Proved? | Christian Apologetics
+sidebar_label: Why Worry About Eternity if Life After Death Can't be Proved?
+description: Is life after death real? Explore why questions about eternity matter and why Christianity offers more than blind faith or wishful thinking.
 keywords: ["Why worry about eternity if life after death can't be proved?","Why care about eternity when you can't prove life after death?"]
 ---
 
-# Why worry about eternity if life after death can't be proved?
+# Why Worry About Eternity if Life After Death Can't be Proved?
 
 In a world that thrives on tangible evidence and scientific verification, how can we reasonably talk
 about eternity - something we cannot test in a lab or observe firsthand? Faith in eternal life isn't rooted
@@ -17,7 +17,7 @@ people ask whether we can *prove* life after death, we must first ask *what kind
 Christianity offers evidence in the form of historical eyewitness testimony, personal transformation,
 fulfilled prophecy, the radical claim of a resurrected Savior and the profound implications of an empty tomb.
 
-## Belief without seeing isn't blind
+## Belief Without Seeing Isn't Blind
 
 Many things we accept - love, morality, consciousness - cannot be placed under a microscope,
 yet we know they are real because we experience their effects. Christianity doesn't ask for
@@ -180,7 +180,7 @@ testament to the conviction they held. The Apostle Paul, a former persecutor of 
 famously became a follower of Christ after an encounter with the resurrected Jesus. **His radical
 change of life, from zealous opponent to fervent evangelist, is evidence for the reality of the resurrection.**
 
-### Roman historians
+### Roman Historians
 
 Let's say you dismiss the eyewitness accounts of the Jewish people, Jesus' followers, the New Testament,
 and what your Christian friends say. **But can you really ignore what
@@ -277,7 +277,7 @@ and there are over 500 eye witnesses accounts!
 
 :::
 
-### The Eyewitness accounts
+### The Eyewitness Accounts
 
 The Bible records several eye witness accounts of people seeing Jesus alive after His resurrection.
 Some people claim these are fake because these aren't multiple individual written accounts. By that logic
@@ -326,7 +326,7 @@ and [10:39-40](https://www.biblegateway.com/passage/?search=Acts%2010%3A39-40&ve
 There are multiple sources verifying the claim of 500 witnesses - documents from the apostolic period
 by people outside the faith written to third parties (in this case Roman governors and Emperors, no less)
 
-## Other resurrection accounts in the Bible
+## Other Resurrection Accounts in the Bible
 
 Jesus' resurrection is the cornerstone, there are several other accounts prefigure and
 reinforce the hope of eternal life.

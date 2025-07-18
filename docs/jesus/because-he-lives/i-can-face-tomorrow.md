@@ -49,7 +49,7 @@ What does the cross mean for you and me today?
 - It means we have [abundance](./provision-and-abundance.md) - to fulfill God's calling, bless others and establish His kingdom on earth.
 - And it means **Jesus is present with us today - not as a distant figure in history, but as the risen King who walks with us, speaks to us and leads us in truth.**
 
-## God has plan for you
+## God Has Plan for You
 
 The Bible offers profound assurance that God has a personal plan for each individual, marked by
 purpose, hope and loving guidance. Scripture emphasizes that you are not an accident, but rather

@@ -28,7 +28,7 @@ He took what we deserved so we could receive what He deserved.
 On the cross, our sin was exchanged for His righteousness, our punishment was exchanged for His peace,
 our shame was exchanged for His acceptance - because He loves us. This is the *Great Exchange of the Gospel*.
 
-## Freedom from sin and death
+## Freedom From Sin and Death
 
 At the heart of the Christian message is salvation - the breathtaking reality of being reconciled to God
 and set free from the grip of sin and death. 

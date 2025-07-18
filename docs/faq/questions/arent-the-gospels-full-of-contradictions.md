@@ -2,13 +2,13 @@
 sidebar_position: 13
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: Aren't the Gospels full of contradictions? | Christian Apologetics
-sidebar_label: Aren't the Gospels full of contradictions?
+title: Aren't the Gospels Full of Contradictions? | Christian Apologetics
+sidebar_label: Aren't the Gospels Full of Contradictions?
 description: Upon closer examination, alleged Gospel discrepancies are often misunderstandings or minor differences. Historical and textual evidence, including the Dead Sea Scrolls, reveals their remarkable accuracy.
 keywords: ["Aren't the Gospels full of contradictions","Gospels and contradictions","Reliability of the Gospels","Dead Sea Scrolls","Gospel textual accuracy","Gospel contradictions explained","Historical accuracy of the Gospels","Manuscript preservation","Jesus and historical evidence","Ancient biography","Christian apologetics"]
 ---
 
-# Aren't the Gospels full of contradictions?
+# Aren't the Gospels Full of Contradictions?
 
 One of the most frequently raised objections against the reliability of the Gospels is the claim that they are
 filled with contradictions. Critics argue that discrepancies between the Gospel accounts undermine their credibility
@@ -169,7 +169,7 @@ In today's world most people have a hard time remembering their phone number bec
 
 :::
 
-## In short
+## In Short
 
 The Gospels are not full of contradictions. While there are differences in the way the events of Jesus' life are
 recorded, these differences do not amount to contradictions. Instead, they reflect the unique perspectives and emphases of the

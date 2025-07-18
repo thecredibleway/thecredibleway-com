@@ -2,13 +2,13 @@
 sidebar_position: 12
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: How can the Bible be trusted if it was written by mere men? | Christian Apologetics
-sidebar_label: How can the Bible be trusted if it was written by mere men?
+title: How Can the Bible be Trusted if it was Written by Mere Men? | Christian Apologetics
+sidebar_label: How Can the Bible be Trusted if it was Written by Mere Men?
 description: Men make mistakes so how can the Bible be trusted? Discover why the Bible's true Author is the Holy Spirit and how its supernatural power and internal consistency prove its divine origin.
 keywords: ["trustworthiness of the Bible","Bible written by men","divine inspiration","Holy Spirit","Bible and truth","supernatural Bible","gospel power","biblical context","Holy Scripture"]
 ---
 
-# How can the Bible be trusted if it was written by mere men?
+# How Can the Bible be Trusted if it was Written by Mere Men?
 
 One of the most common objections to the Bible's authority is this, *"Wasn't it just written by men?"*
 To many, this seems like a reasonable question. After all, every book in history was written by human
