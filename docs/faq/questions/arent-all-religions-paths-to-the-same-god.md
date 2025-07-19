@@ -47,7 +47,9 @@ it is dealt with. In many belief systems, sin is seen as a moral failing that ca
 example, in Islam, salvation is earned through a combination of faith in Allah and the performance of righteous deeds.
 In Hinduism, salvation (moksha) is achieved through cycles of reincarnation, with individuals working off their karma
 through their actions in each life. Similarly, many Buddhists see enlightenment as the ultimate goal, achieved through
-a process of personal effort and self-realization.
+a process of personal effort and self-realization. Works based religions leave people without an assurance that they
+are right with God, much like a lottery where they will only know the result at the end - a mighty big game of chance
+to risk eternity over!
 
 :::info[All things being equal]
 
@@ -67,6 +69,16 @@ through good deeds or accumulated merit. As the prophet Isaiah writes, **"All ou
 ([Isa 64:6](https://www.biblegateway.com/passage/?search=isa%2064%3A6&version=NKJV)). 
 **No amount of good works can erase the stain of sin.**
 
+:::tip[[Why Christianity is different](https://x.com/greglaurie/status/1388628332825047043) - Greg Laurie]
+
+Religion is man's attempt to reach God.
+
+Christianity is God's attempt to reach man. 
+
+Religion says, *Do*. Christianity says, *DONE!* Jesus did all the heavy lifting for you at the cross!
+
+:::
+
 Christianity teaches that salvation is not something that can be earned but is a
 [free gift of grace through Jesus Christ](../../jesus/because-he-lives/grace-and-empowerment.md).
 The [central message of the New Testament](../../jesus/crediblilty/why-jesus-came.md) is that Jesus, the Son of God,
@@ -76,6 +88,8 @@ and [rose again](../../jesus/crediblilty/the-resurrection.md), offering
 [eternal life to those who believe in Him](../../jesus/because-he-lives/i-can-face-tomorrow.md).
 **As Jesus Himself said, "I am the way and the truth and the life. No one comes to the Father except through me"**
 ([John 14:6](https://www.biblegateway.com/passage/?search=john%2014%3A6&version=NKJV)).
+
+
 
 ## The Credibility of Jesus Christ
 
@@ -126,6 +140,11 @@ nor did they pay the price to restore your back to relationship with God - only 
 
 Buddha said he was a *seeker of truth*, Muhammed said he was a *prophet of truth*,
 Jesus said **He is the truth**!
+
+All of the former remain dead and buried, but **Jesus is the only one among them who has
+risen and is alive**. Death is the final foe which no man can defeat, but Jesus is
+the only one who, by his resurrection, has defeated death and the grave
+([1 Cor 15:55](https://www.biblegateway.com/passage/?search=1%20Cor%2015%3A55&version=NKJV)).
 
 :::
 

@@ -95,6 +95,28 @@ Christians believe that, because Jesus died for their sins, they are already for
 and their relationship with God is secured. **This assurance is unlike any other religion
 or worldview.**
 
+### Testimonies of Atheists and skeptics
+
+Steven Kang who was a devout Buddhist who prayed 8 hours of day and wanted to reach nirvana, he 
+instead finds hell and then finds Jesus after a Near Death Experience. [He tells his story and
+what led him to Christ](https://www.youtube.com/watch?v=FnmUbPouvHk).
+
+Audio recording of a book by Sir Lionel Luckhoo, who was twice knighted by Queen Elizabeth, and
+the only person to be Ambassador to two nations for the UK. An expert lawyer who holds the 
+Guinness Book of World Records for the Guinness Book of World Records for the largest number
+of successive murder acquittals - 245. [He decided to investigate Jesus Christ and became a
+Christian](https://www.youtube.com/watch?v=xbbMh1MgnyE).
+
+Nabeel Qureshi a medical doctor from Pakistan, was a devout Muslim and wanted to know the truth
+after a debate with his friend - [he tells the story of how he sought Allah but found
+Jesus Christ instead](https://www.youtube.com/watch?v=-aqGwE7ZFo0). 
+
+Lee Strobel a stoic atheist and cynic, was a journalist and Legal Editor for the Chicago
+Tribune who was close to dying in a coma and had a Near Death Experience. After that he
+[went searching for answers and found Jesus Christ](https://www.youtube.com/watch?v=vQFXYSTrsqI).
+
+And there are thousands more like this - with personal encounters with the living Jesus Christ.
+
 ## Why Christianity's Solution Makes Sense
 
 The problem with all other religions is that they cannot resolve the gap between God's 
@@ -119,7 +141,6 @@ Jesus, as God in human form, bridged the gap between the holy Creator and fallen
 **No other religion or worldview offers this solution.**
 
 :::
-
 
 ## Investigate the Evidence for Yourself
 

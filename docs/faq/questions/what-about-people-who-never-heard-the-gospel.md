@@ -121,3 +121,4 @@ reach out with the message of hope, because the Gospel is the power of God for s
 
 If you are reading this, you **now** know the gospel message. Jesus came to give you life,
 [if you will accept Him](../../jesus/because-he-lives/new-identity-in-christ.mdx). So choose life.
+**Where will you spend all of eternity?**
