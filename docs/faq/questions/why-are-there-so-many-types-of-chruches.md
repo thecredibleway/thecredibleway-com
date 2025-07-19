@@ -179,9 +179,9 @@ to remain divided over what is secondary.
 ## One Lord, One Faith, One Body
 
 Yes, there are many denominations - but that doesn't mean there are many gospels. There is only one Savior, Jesus Christ
-and only one way to salvation - *"I am the way, the truth, and the life. No one comes to the Father except through Me."*
-([John 14:6](https://www.biblegateway.com/passage/?search=john%2014%3A6&version=NKJV))
+who died for you and is the only one way to salvation - *"I am the way, the truth, and the life. No one comes to the Father except through Me."* ([John 14:6](https://www.biblegateway.com/passage/?search=john%2014%3A6&version=NKJV)).
 
+People in different denominations are genuine and sincere at heart, and love God the best they know how. 
 Denominations reflect our humanity - our cultural differences, theological growth and yes, sometimes our pride.
 But they also remind us that no denomination, system or tradition can fully capture the glory of God's Church. The Church
 is not a building or a label; it's the redeemed people of God, united by faith in Christ.

@@ -17,7 +17,7 @@ The human cost is immense - rampant sickness, broken marriages, terrified childr
 loneliness and fear. We've just scratched the surface - leaving you wondering if God is in control or has He abandoned His
 post at the helm? 
 
-The question one of the the most difficult yet frequently asked of Christians. If God is good and all powerful, then why
+The question is one of the the most difficult yet frequently asked of Christians. If God is good and all powerful, then why
 does He allow evil, suffering and injustice in the world? For several people seeking explanations this is not merely a
 philosophical problem, but a deeply personal one.
 
@@ -30,7 +30,9 @@ Utopia - heaven on earth! There was no death, no suffering, no pain. Humanity, r
 harmony with God and with creation.
 
 But God did not create robots. **He gave humans the gift of free will - the capacity to love, obey, and trust Him or to rebel.**
-This freedom was necessary for a genuine relationship, because love that is not freely given is not love at all.
+This freedom was necessary for a genuine relationship, because love that is not freely given is not love at all. What if you
+forced your spouse to love you? Would that be genuine love? No, because genuine love for a spouse requires a choice of free
+will to say *yes* to one, and *no* to all others.
 
 When Adam and Eve chose to disobey God by eating from the tree of the knowledge of good and evil
 ([Gen 3](https://www.biblegateway.com/passage/?search=Genesis%203&version=NKJV)), sin entered the world. This one act of
@@ -135,6 +137,18 @@ If God were to eliminate all evil today, He would have to judge all sin - includ
 ourselves, we have all sinned and fallen short. The only *good person* to have walked the earth is Jesus
 Christ. But in His mercy, He waits, giving people time to [repent and receive salvation](../../jesus/because-he-lives/new-identity-in-christ.mdx).
 
-**You have a choice and only you can decide what you want for your life and for eternity**. We really hope you
+
+Jesus is coming again and will judge all evil deeds ([Acts 17:31](https://www.biblegateway.com/passage/?search=Acts%2017%3A31&version=NKJV)).
+He warned that the end times would be dark with deception and evil ([Matt 24](https://www.biblegateway.com/passage/?search=Matthew%2024&version=nKJV)). However, there will be 
+(and is now in process) a great revival of God's power and people turning from darkness to Him
+([Joel 2:28-32](https://www.biblegateway.com/passage/?search=Joel%202%3A28-32&version=NKJV),
+[Zech 10](https://www.biblegateway.com/passage/?search=zech%2010&version=NKJV),
+[Rom 8:19](https://www.biblegateway.com/passage/?search=rom%208%3A19&version=NKJV)).
+For example the Pulitzer Center [reports nearly 35000 people born again every day](https://pulitzercenter.org/stories/pentecostalism-massive-global-growth-under-radar). A report on provided by the Office of the Commissioner-General for Refugees and Stateless Persons in Belgium [says that Christianity
+is the fastest growing in house churches in Iran](https://landinfo.no/wp-content/uploads/2018/04/Iran-Christian-converts-and-house-churches-1-prevalence-and-conditions-for-religious-practice.pdf). America Magazine [reports the same for China as well](https://www.americamagazine.org/faith/2018/05/01/chinese-government-targeting-young-christians-229592).
+And the same is happening in every nation on the earth.
+
+**Time is short, so now is the time to choose where you shall spend eternity**. We really hope you
 choose life! ([Deut 30:15-20](https://www.biblegateway.com/passage/?search=Deuteronomy%2030%3A15-20&version=NKJV)).
 Only Jesus can break the power of sin that we are born into, and [give you life](../../jesus/because-he-lives/i-can-face-tomorrow.md).
+

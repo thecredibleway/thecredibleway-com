@@ -19,8 +19,7 @@ Let's start with an honest reality check.
 
 A well-known saying goes, *"Under pressure, saints snap"*. The other remainder of that quote is more
 uncomfortable, *"Under pressure, saints snap and sinners strike; both held in check - one by faith, the 
-other by fear of consequence"*. Every person - Christian or not - is a sinner by nature
-([Rom 3:23](https://www.biblegateway.com/passage/?search=Romans%203%3A23&version=NKJV)) - that is reality.
+other by fear of consequence"*. Every person started out being a sinner by nature ([Rom 3:23](https://www.biblegateway.com/passage/?search=Romans%203%3A23&version=NKJV)) - that is reality.
 Church membership doesn't magically remove human flaws. Quite the opposite - it simply reveals them.
 
 Thomas Jefferson very carefully used the phrase *"pursuit of happiness"* when describing our inalienable rights. But
@@ -48,10 +47,10 @@ those who endure ([James 1:12](https://www.biblegateway.com/passage/?search=jame
 
 At its core, hypocrisy is not just lying to others - ***it's lying to yourself***. 
 The biblical accounts serve as a sobering reminder that human fallibility has always been a factor
-within the church. The church is not an exclusive club for perfected saints; rather, it is a hospital for saved
-sinners - a group of humans who are, by definition, not perfect and in need of grace. The Bible teaches that
-while believers are declared righteous by God through faith in Christ (justification), they are also
-undergoing a process of becoming more like Christ (sanctification). This process is rarely linear and involves
+within the church. The church is a place where new creations learn to walk in their new identity — not
+a gallery of already perfected people. The Bible teaches that while believers are declared righteous
+by God through faith in Christ (justification), they are also undergoing a process of becoming
+more like Christ (sanctification). This process is rarely linear and involves
 setbacks, struggles and failures. They have to learn to renew their minds with the Word of God and then choose to die to the
 flesh and live by the Spirit - this process takes time. The expectation that every Christian will immediately
 and perfectly embody Christ's character is unrealistic and misunderstands the nature of spiritual growth.
@@ -86,7 +85,7 @@ invalidate the truth of Jesus Christ; any more than a counterfeit banknote inval
 **Saying "I don't go to church because of hypocrites" is like saying "I don't go to the gym because of
 out of shape people."**
 
-The church is a hospital for saved sinners, not a showroom for saints. **But it should also be a place of growth and transformation, not stagnation.**
+The church is a training ground for minds being renewed, not a stage for those who've already arrived. **There should be growth and transformation, not stagnation.**
 
 We strive to be like Jesus Christ, He is our example, not people in the church. They may lead us along the way, but the 
 standard is always Jesus Christ [1 Peter 2:21-25](https://www.biblegateway.com/passage/?search=1%20Peter%202%3A21-25&version=NKJV).
@@ -94,8 +93,7 @@ standard is always Jesus Christ [1 Peter 2:21-25](https://www.biblegateway.com/p
 :::
 
 It is also really important to emphasize that despite the presence of hypocrites, the church also contains
-countless genuine believers who are sincerely striving to live out their faith, often quietly and
-sacrificially. For every prominent example of hypocrisy, there are multitudes of Christians demonstrating
+countless genuine believers who are sincerely [striving to live out their faith](../../jesus/because-he-lives/i-can-face-tomorrow.md), often quietly and sacrificially. For every prominent example of hypocrisy, there are multitudes of Christians demonstrating
 genuine love, compassion, integrity and service in their communities and around the world. These acts of authentic
 faith often go unnoticed or uncelebrated, but they are a testament to the transformative power of the Gospel.
 We wouldn't have missionaries or real humanitarian aid today if it were not for the likes of these genuine
@@ -107,8 +105,6 @@ and many many more - where would the world be today without the genuine follower
 The existence of counterfeits does not negate the existence or value of the genuine article.
 
 :::
-
-
 
 ## Confronting Hypocrisy with God's Truth
 
@@ -135,10 +131,11 @@ and hypocrisy doesn't fool them. More importantly, it also doesn't fool God.**
 The first step to avoiding hypocrisy is self-examination and honesty. Ask the hard questions - Am
 I walking in the Spirit? Do I hunger for righteousness or comfort? Am I doing the Bible or just reading it?
 Is Jesus Lord over my decisions, time, finances and relationships or is He second? The next step is to pursue
-integrity. Christians will sin and grow as they renew their minds to the Word of God; but
-the mark of a true believer is repentance, not performance. The one who falls and gets up again in faith learning from
-their mistakes is not a hypocrite, but a disciple. We are also called to walk in love but not stay silent at wrongdoing.
-Like Nathan, we are called to confront sin - gently, humbly and truthfully. Not to shame others, but to lead them to life.
+integrity. Christians will sin and grow as they [renew their minds to the Word of God and their identity in Christ](../../jesus/because-he-lives/new-identity-in-christ.mdx); but the mark of a true believer is repentance, not performance.
+The one who falls and gets up again in faith learning from their mistakes is not a hypocrite, but a disciple.
+We are also called to walk in love but not stay silent at wrongdoing.
+Like Nathan, we are called to confront sin - gently, humbly and truthfully. Not to shame others, but to lead them
+to life.
 
 ## Why Does God Allow Hypocrites in the Church?
 
@@ -149,8 +146,8 @@ be hypocrites right until Jesus returns. God is also merciful and He gives peopl
 repent ([2 Peter 3:9](https://www.biblegateway.com/passage/?search=2%20Peter%203%3A9&version=NKJV)).
 
 The key to remember is that judgment belongs to God alone. The same Jesus who warned against hypocrisy also said,
-*"With the measure you use, it will be measured to you"* ([Matt 7:2](https://www.biblegateway.com/passage/?search=Matt%207%3A2&version=NKJV)).
-Instead of obsessing over the hypocrisy of others, we are called to examine ourselves.
+*"With the measure you use, it will be measured to you"* ([Matt 7:2](https://www.biblegateway.com/passage/?search=Matt%207%3A2&version=NKJV)). In [John 8:7], Jesus tells the crowd, "He who is without
+sin to cast first stone...". Instead of obsessing over the hypocrisy of others, we are called to examine ourselves.
 
 We will all give an account for our own lives - not someone else or what they did to us.
 
@@ -158,7 +155,8 @@ We will all give an account for our own lives - not someone else or what they di
 
 What happens when life scratches beneath the surface of your life? If you're a Christian, do you walk in the flesh
 or in the Spirit? If you are not a Christian yet please do not let the failings of man, undermine the perfect character
-of Jesus Christ or the inherent truth of His teachings. Jesus lived a life of impeccable integrity, without sin or hypocrisy. He is the standard, not members of the church.
+of Jesus Christ or the inherent truth of His teachings. Jesus lived a life of impeccable integrity, without sin or hypocrisy.
+He is the standard, not members of the church.
 
 Turn to God's Word not your own wisdom. The goal of the Christian life is not to pretend to be good - but to be transformed
 by the righteousness of Christ. **And that means dying to self, daily.** Renew your mind with the Word of God daily and let 
