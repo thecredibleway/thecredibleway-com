@@ -33,7 +33,7 @@ relationally and eternally.
 
 ## Freedom from Fear, Worry and Anxiety
 
-Fear is one of the enemy's greatest tools. It paralyzes, distorts truth and robs people of joy. But through Jesus,
+Fear is one of the enemy's greatest tools. It paralyses, distorts truth and robs people of joy. But through Jesus,
 we are set free from fear because He has conquered death – the greatest fear of all. His resurrection assures us
 that death is not the end, but the beginning of eternal life! He said *and lo, I am with you always, even to the
 end of the age* ([Mat 28:20](https://www.biblegateway.com/passage/?search=Mat%2028%3A20&version=NKJV)). You are never alone!

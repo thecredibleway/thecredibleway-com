@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Is Jesus Alive | Jesus is Credible
 sidebar_label: Is Jesus Alive
-description: A Living Savior, a present King. Explore the evidence and implications of Jesus' resurrection and what it means to know Him today.
+description: A Living Saviour, a present King. Explore the evidence and implications of Jesus' resurrection and what it means to know Him today.
 keywords: ["Is Jesus alive","living Jesus today","modern evidence for Jesus","Jesus lives","Jesus today testimonies","Jesus through the Holy Spirit","Jesus is alive proof","experience Jesus now"]
 ---
 
@@ -38,7 +38,7 @@ Church as its risen head ([Col 1:18](https://www.biblegateway.com/passage/?searc
 
 Jesus Christ is not a figure confined to the past or to memory. **He is alive and active in the
 present, ruling with divine authority and preparing for His eventual return.** At present Jesus is
-'the Savior' of the world; but there is a day when he will be 'the Judge' and He will judge the
+'the Saviour' of the world; but there is a day when he will be 'the Judge' and He will judge the
 living and the dead. Though Jesus is not physically present as He was during His earthly ministry, 
 He is present in several ways:
 
@@ -63,7 +63,7 @@ world. Many Christians and non Christians experience His presence tangibly in pr
 and acts of love and service. Many missionaries are classic examples of this - Mother Teresa, Heidi
 Baker, Hudson Taylor, John Wesley, Jim Elliot, David Livingstone and many many more.
 
-## Experience the Living Savior
+## Experience the Living Saviour
 
 Throughout history, countless believers know and experience Jesus today - it isn't doctrinal, it's real and
 deeply experiential. Christians testify to personal encounters with Christ through transformation,
@@ -111,7 +111,7 @@ Where will you spend eternity? In heaven or in hell?
 
 1. Acknowledge that you have sinned and fallen short of God's standards - repent and tell God that
 you now turn from not believing in Jesus and from your sin. Put your faith and trust in
-Jesus Christ as your Savior & Lord (someone you obey without hesitation i.e. a full surrender).
+Jesus Christ as your Saviour & Lord (someone you obey without hesitation i.e. a full surrender).
 Believe that He has heard your request and granted it ([Rom 10:13](https://www.biblegateway.com/passage/?search=Rom%2010%3A13&version=NKJV)), as He cannot lie ([Num 23:19](https://www.biblegateway.com/passage/?search=Num%2023%3A19&version=NKJV)). Say
 out loud that Jesus is your Lord and you believe that He died and God raised Him from the dead and
 that your sins are washed by His Blood that was shed for you and me.

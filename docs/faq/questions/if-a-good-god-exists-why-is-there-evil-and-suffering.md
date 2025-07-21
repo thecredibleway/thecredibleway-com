@@ -55,7 +55,7 @@ In [2 Corinthians 4:4](https://www.biblegateway.com/passage/?search=2%20Corinthi
 Apostle Paul refers to Satan as **the god of this world,** who blinds the minds of people. Although God is the Creator
 of all things, Satan is the god of this world. This doesn't mean that Satan has ultimate authority, but rather that
 he exercises significant influence over a fallen world system that is opposed to God. If people simply believed [the
-gospel, would repent and acknowledge the need for a Savior](../../jesus/because-he-lives/salvation-and-redemption.md)
+gospel, would repent and acknowledge the need for a Saviour](../../jesus/because-he-lives/salvation-and-redemption.md)
 and [trust Jesus Christ, they would not be in darkness](../../jesus/because-he-lives/i-can-face-tomorrow.md). Rather
 they would know the truth and the truth would set them free.
 
@@ -107,7 +107,7 @@ Evil did its worst, but it could not thwart God's redemptive plan.
 
 This brings us to the heart of the Christian message - the gospel (literally, *good news*). The world is broken,
 sin is real, and suffering touches every life. But God has not abandoned His creation. In fact, He entered into it.
-Jesus Christ, the Son of God, came to earth not merely as a teacher or moral example, but as the Savior.
+Jesus Christ, the Son of God, came to earth not merely as a teacher or moral example, but as the Saviour.
 He lived a perfect life, one we could never live. He died a sacrificial death on the cross, taking upon Himself the
 punishment for sin. And He rose again, conquering death and offering eternal life to all who believe.
 
@@ -124,7 +124,7 @@ evil, to love sacrificially, to proclaim the good news and to live as citizens o
 
 The answer lies in God's mercy and patience.
 [2 Peter 3:9](https://www.biblegateway.com/passage/?search=2%20Peter%203%3A9&version=NKJV) explains,
-***"The Lord is not slack concerning His promise, ... but is longsuffering toward us, not willing that any should
+***"The Lord is not slack concerning His promise, ... but is long-suffering toward us, not willing that any should
 perish but that all should come to repentance."***
 
 :::tip[A time of grace]

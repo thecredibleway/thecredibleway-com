@@ -23,7 +23,7 @@ century Judea, the historical footprint of the Bible is substantial.
 
 ## Ancient Non-Biblical Sources
 
-Many skeptics assume that the Bible is the only ancient record of its events - but this is not the
+Many sceptics assume that the Bible is the only ancient record of its events - but this is not the
 case. Numerous figures and events in the Bible are corroborated by contemporary or near-contemporary
 records, including Roman historians, Jewish sources and ancient inscriptions.
 
@@ -89,11 +89,11 @@ in naming offices, locations and roles accurately.
 ## Political and Geographical Accuracy
 
 Among all New Testament writers, Luke - the author of the Gospel of Luke and the Acts of the Apostles
-has been praised for his historical precision. Sir William Ramsay, a skeptical 19th century archaeologist,
+has been praised for his historical precision. Sir William Ramsay, a sceptical 19th century archaeologist,
 set out to disprove Luke's account - but after years of investigation, he concluded that Luke was a first
 rate historian. Ramsay wrote:
 
-:::info[Sir William Ramsay, a skeptic, on the NT writer Luke]
+:::info[Sir William Ramsay, a sceptic, on the NT writer Luke]
 
 Luke is a historian of the first rank; not merely are his statements of fact trustworthy, this author
 should be placed along with the very greatest of historians.
@@ -108,7 +108,7 @@ Examples of Luke's accuracy include:
 [Acts 27–28](https://www.biblegateway.com/passage/?search=acts%2027-28&version=NKJV), consistent with known nautical knowledge of the time.
 
 **No fictional account of the 1st century could maintain this level of geographical, political and cultural
-accuracy without direct access to the events or firsthand witnesses**
+accuracy without direct access to the events or first-hand witnesses**
 
 ## Gospel Consistency
 
@@ -153,7 +153,7 @@ is the disciple who testifies... and we know his testimony is true"*
 [21:24](https://www.biblegateway.com/passage/?search=John%2021%3A24&version=NKJV)).
 
 Peter, in [Acts 2](https://www.biblegateway.com/passage/?search=acts%202&version=NKJV) and his epistles,
-presents himself as a firsthand witness of Jesus' life, death and resurrection.
+presents himself as a first-hand witness of Jesus' life, death and resurrection.
 
 Eyewitnesses were still alive when the early gospels were being circulated - meaning that false claims
 could be easily challenged. The public nature of Jesus' ministry, the involvement of named individuals

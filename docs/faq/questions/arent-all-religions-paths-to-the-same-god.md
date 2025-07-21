@@ -107,7 +107,7 @@ and caused Him to suffer in the most painful way before He died.
 :::
 
 Jesus had multiple opportunities to take advantage of people around Him, yet didn't. He was not
-looking for power - quite the opposite; He modeled serving others
+looking for power - quite the opposite; He modelled serving others
 ([John 13:1–16](https://www.biblegateway.com/passage/?search=John%2013%3A1%E2%80%9316&version=NKJV);
 [15:13](https://www.biblegateway.com/passage/?search=John%2015%3A13&version=NKJV)) and
 giving without expecting anything in return, even to the wicked and ungrateful
@@ -119,10 +119,10 @@ Based on what we know of Him through scripture, through eyewitness accounts, thr
 through the lives of his disciples; Jesus was not motivated to lie about His identity for any
 reason!  *If Jesus was not an imposter, then what's the alternative?*
 
-**Other self-proclaimed gods and saviors have come and gone, but Jesus Christ, stands
-head-and-shoulders above them all; and He is still alive!** The evidence is in favor of Jesus as Lord,
+**Other self-proclaimed gods and saviours have come and gone, but Jesus Christ, stands
+head-and-shoulders above them all; and He is still alive!** The evidence is in favour of Jesus as Lord,
 embodying truth and love! The consistency of [His teachings](../../jesus/crediblilty/teachings-of-jesus.md),
-the [fulfillment of prophecies](../../jesus/crediblilty/prophecies-fulfilled.md) and the transformative power of
+the [fulfilment of prophecies](../../jesus/crediblilty/prophecies-fulfilled.md) and the transformative power of
 [His life, death and resurrection](../../jesus/crediblilty/is-jesus-alive.md). Jesus openly declared
 His divine identity, performed miracles and lived a life of perfect integrity, aligning
 His actions with His words, that left such an [impact on His followers](../../jesus/crediblilty/the-martyrs.md)
@@ -178,12 +178,12 @@ Christianity, Islam, Hinduism, or any other religious tradition, they will ultim
 be judged based on their relationship to Him.
 
 Christianity's view of judgment is not arbitrary; it is rooted in the holiness and justice of God. While other
-religions may offer differing paths to spiritual fulfillment or salvation, Christianity presents a very sobering
+religions may offer differing paths to spiritual fulfilment or salvation, Christianity presents a very sobering
 truth - **salvation is found only in Jesus Christ.**
 
 **To reject this truth is to reject the only means of reconciliation with God.**
 
-## The Short of it
+## The Short of It
 
 While all religions may share certain moral teachings, they are not all valid paths to the same God.
 

@@ -10,7 +10,7 @@ keywords: ["Why are there so many types of churches","Christian hypocrisy","hypo
 
 # Why are There so Many Hypocrites in Churches?
 
-It's one of the most common criticisms leveled at Christianity - *"The church is full of hypocrites"*. And to be blunt,
+It's one of the most common criticisms levelled at Christianity - *"The church is full of hypocrites"*. And to be blunt,
 there's truth in that. So the big question's - why? And what does that say about people, about faith and about God?
 
 Let's start with an honest reality check.
@@ -60,7 +60,7 @@ stumble and fall. The Bible acknowledges this inherent human weakness and the st
 ([Rom 7:15-25](https://www.biblegateway.com/passage/?search=Romans%207%3A15-25&version=NKJV)). A person who
 genuinely repents after a moral failing and seeks to align their life with Christ is not a hypocrite.
 Someone who deliberately and consistently lives a double life, professing one thing while
-consciously practicing another without remorse, *is* a hypocrite. The Christian faith is not about achievement, but about
+consciously practising another without remorse, *is* a hypocrite. The Christian faith is not about achievement, but about
 a direction of life, a turning towards God and a dependence on His grace for transformation.
 We have been given [grace to overcome sin](../../jesus/because-he-lives/grace-and-empowerment.md).
 

@@ -93,7 +93,7 @@ Provision **always** follows priority. **When God is first, everything else fall
 
 #### Sow and Reap
 
-God honors giving. When we release resources in faith, we align ourselves with the flow of heaven.
+God honours giving. When we release resources in faith, we align ourselves with the flow of heaven.
 Generosity opens the gates of provision.
 
 [Luke 6:38](https://www.biblegateway.com/passage/?search=lk%206%3A38&version=NKJV) says *"Give and it will be given to you...

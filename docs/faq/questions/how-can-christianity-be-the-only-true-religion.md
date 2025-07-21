@@ -24,7 +24,7 @@ the human condition.
 ## Faith is Trust Built on Evidence, Not Blind Belief
 
 One of the first things we must address is a misunderstanding of what *faith* means.
-Many skeptics, like Richard Dawkins, define faith as believing in something without evidence.
+Many sceptics, like Richard Dawkins, define faith as believing in something without evidence.
 However, this is a misrepresentation of the term. Faith is not just a religious concept - it
 is an ordinary word that refers to trust based on evidence. We trust things in our everyday
 lives because we have good reason to do so. For instance, when you go to the bank and take
@@ -80,7 +80,7 @@ uncertainty.
 Christianity, however, is radically different. Christianity teaches that salvation is not based
 on merit but on relationship. The relationship with God starts at the very beginning, not at the
 end, and the assurance of eternal life is given freely, not earned. Acceptance comes from the
-moment you accept Jesus Christ and let Him be your Lord and Savior. Jesus Christ did not come
+moment you accept Jesus Christ and let Him be your Lord and Saviour. Jesus Christ did not come
 to simply teach moral lessons or give us a set of guidelines for how to live; He came to provide
 the way for humans to be reconciled with God. The Apostle John writes that *"whoever believes
 in Him [Jesus] shall not perish but have eternal life"*
@@ -95,7 +95,7 @@ Christians believe that, because Jesus died for their sins, they are already for
 and their relationship with God is secured. **This assurance is unlike any other religion
 or worldview.**
 
-### Testimonies of Atheists and skeptics
+### Testimonies of Atheists and sceptics
 
 Steven Kang who was a devout Buddhist who prayed 8 hours of day and wanted to reach nirvana, he 
 instead finds hell and then finds Jesus after a Near Death Experience. [He tells his story and
@@ -150,7 +150,7 @@ the historical facts of Jesus Christ's life, [why He came](../../jesus/crediblil
 [His teaching](../../jesus/crediblilty/teachings-of-jesus.md),
 [death](../../jesus/crediblilty/the-crucifixion.mdx) and
 [resurrection](../../jesus/crediblilty/the-resurrection.md). Unlike other religions
-that rely on works to gain favor with God, Christianity offers the only solution to the
+that rely on works to gain favour with God, Christianity offers the only solution to the
 problem of human sin - a relationship with God made possible through Jesus Christ.
 
 :::tip[The perfect solution]

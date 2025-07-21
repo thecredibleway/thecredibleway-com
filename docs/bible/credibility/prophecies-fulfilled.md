@@ -5,7 +5,7 @@ toc_max_heading_level: 4
 title: Prophecies Fulfilled | The Bible is Credible
 sidebar_label: Prophecies Fulfilled
 description: Unlike vague predictions, the Bible contains hundreds of specific, measurable prophecies, many fulfilled centuries later in history or the life of Jesus, pointing to a divine source.
-keywords: ["fulfilled prophecies","messianic prophecies","Bible prophecy","prophecy fulfillment","Jesus in prophecy","divine inspiration", "biblical predictions","Old Testament prophecies","New Testament fulfillment","supernatural evidence","daniel's prophecies"]
+keywords: ["fulfilled prophecies","messianic prophecies","Bible prophecy","prophecy fulfilment","Jesus in prophecy","divine inspiration", "biblical predictions","Old Testament prophecies","New Testament fulfilment","supernatural evidence","daniel's prophecies"]
 ---
 
 # Prophecies Fulfilled
@@ -55,7 +55,7 @@ written almost a staggering 40 centuries before His birth!
 Isaiah 52:13 through 53:12 is one of the most detailed messianic prophecies. **Written between 740-680 BC**, it describes a servant of
 God who suffers not for his own sins, but for the sins of others. Consider the parallels with Jesus:
 
-| # | Old Testament Prophesy | New Testament Fulfillment	|
+| # | Old Testament Prophesy | New Testament fulfilment	|
 |--|---	|--- |
 | 1| Published good tidings upon mountains (Isa 52:7) | Then the eleven disciples went away into Galilee, to the mountain which Jesus had appointed for them. (Mat 15:29, 28:16) |
 | 2| The Servant exalted (Isa 52:13) | which He worked in Christ when He raised Him from the dead and seated Him at His right hand in the heavenly places (Acts 1:8-11, Eph 1:19-22, Phil 2:5-9) |
@@ -70,14 +70,14 @@ God who suffers not for his own sins, but for the sins of others. Consider the p
 |11| Men hide from being associated with Him (Isa 53:3d) | Then all the disciples forsook Him and fled (Mat 26:56, Mark 14:50-52) |
 |12| He would have a healing ministry (Isa 53:4a) | And He cast out the spirit's with a word and healed all who were sick (Mat 8:16-17) |
 |13| Thought to be cursed by God (Isa 53:4b) | They answered and said, 'He is deserving of death' (Mat 26:66, 27:41-43) |
-|14| Bears penalty for mankind's iniquities (Isa 53:5a) | Jesus for His suffering of death was crowned with glory and honor, that He, by the grace of God, might taste death for everyone (2 Cor 5:21, Heb 2:9) |
+|14| Bears penalty for mankind's iniquities (Isa 53:5a) | Jesus for His suffering of death was crowned with glory and honour, that He, by the grace of God, might taste death for everyone (2 Cor 5:21, Heb 2:9) |
 |15| His sacrifice provides peace between man and God (Isa 53:5b) | and by Him to reconcile all things to Himself, by Him, whether things on earth or things in heaven, having made peace through the blood of His cross (Col 1:20) |
 |16| His back would be whipped | Pilate had scourged Jesus, he delivered Him to be crucified (Mat 27:26) |
 |17| His sacrifice would heal man of sin (Isa 53:5c) | who Himself bore our sins in His own body on the tree, that we, having died to sins, might live for righteousness-by whose stripes you were healed (1 Pet 2:24) |
 |18| He would be the sin-bearer for all mankind (Isa 53:6a) | And He Himself is the propitiation for our sins and not for ours only but also for the whole world (1 John 2:2, 4:10) |
 |19| God's will that He bear sin for all mankind (Isa 53:6b) | who gave Himself for our sins, that He might deliver us from this present evil age (Gal 1:4) |
 |20| Oppressed and afflicted (Isa 53:7a) | The humiliation and suffering Jesus endured before His death (Mat 27:27-31) |
-|21| Silent before his accusers (Isa 53:7b) | 'Do You not hear how many things they testify against You?' But Jesus answered him not one word, so that the governor marveled greatly (Mat 27:12-14) |
+|21| Silent before his accusers (Isa 53:7b) | 'Do You not hear how many things they testify against You?' But Jesus answered him not one word, so that the governor marvelled greatly (Mat 27:12-14) |
 |22| Sacrificial lamb (Isa 53:7c) | Behold! The Lamb of God who takes away the sin of the world (John 1:29, 1 Pet 1:18-19) |
 |23| Confined and persecuted (Isa 53:8a) | The humiliation and suffering Jesus endured before His death (Mat 26:47-27:31) |
 |24| He would be judged (Isa 53:8b) | Jesus was judged by the high priest and then by Pilate (John 18:13-22) |
@@ -110,17 +110,17 @@ This is the very Psalm that Jesus quotes from the cross
 ([Mat 27:46](https://www.biblegateway.com/passage/?search=mat%2027%3A46&version=NKJV)). 
 King David wrote this 10 centuries before Jesus was on the earth and it includes incredible details that perfectly
 match the crucifixion - bear in mind this form of execution was not even invented at the time of King David. The Babylonians and
-Assyrians started it in the 6th century and the Romans practiced in the 5th century onwards! 
+Assyrians started it in the 6th century and the Romans practised in the 5th century onwards! 
 
 
-| # | Old Testament Prophesy | New Testament Fulfillment	|
+| # | Old Testament Prophesy | New Testament fulfilment	|
 |--|---	|---	|
 | 1| Forsaken because of sins of others (Psa 22:1) | For He made Him who knew no sin to be sin for us (2 Cor 5:21) |
 | 2| My God, my God, why have You forsaken me? (Psa 22:1) | Jesus cried out with a loud voice, saying, Eli, Eli, lama sabachthani? (Mat 27:46) |
 | 3| Day and night at the same time (Psa 22:2)	| Now from the sixth hour until the ninth hour there was darkness over all the land (Mat 27:45) |
 | 4| All who see me mock me, shake their head and insult me	(Psa 22:7)	| And those who passed by blasphemed Him ...  (Mat 27:39-44) |
 | 5| He trusted in God, let Him deliver Him (Psa 22:8)	| Mocking with the scribes and elders, said, He saved others; Himself He cannot save. If He is the King of Israel, let Him now come down from the cross and we will believe...  (Mat 27:43) |
-| 6| Born the Savior (Psa 22:9-10) | Jesus is the Savior of the world (Luke 2:7) |
+| 6| Born the Saviour (Psa 22:9-10) | Jesus is the Saviour of the world (Luke 2:7) |
 | 7| They seek His death (Psa 22:12-13)	|The chief priests and officers saw Him, they cried out, saying, 'Crucify Him, crucify Him!' (John 19:6) |
 | 8| His blood poured out when they pierced His side (Psa 22:14) | But one of the soldiers pierced His side with a spear and immediately blood and water came out	(John 19:34) |
 | 9| Suffered extreme agony (Psa 22:14-15) | Jesus cried out with a loud voice, saying, Eli, Eli, lama sabachthani? .....  (Mark 15:34-37) |
@@ -140,7 +140,7 @@ Even the tiny details like dividing his clothes and casting lots for them; that 
 
 Without a shadow of a doubt this is the hand of a divine God, not purely coincidence.
 
-## Events in Jesus' Life That Fulfill Old Testament Prophecies
+## Events in Jesus' Life That Fulfil Old Testament Prophecies
 
 The New Testament gospels repeatedly state that Jesus fulfilled what was written
 *"in the Law of Moses, the Prophets and the Psalms* ([Luke 24:44](https://www.biblegateway.com/passage/?search=Luke%2024%3A44&version=NKJV)).
@@ -160,7 +160,7 @@ infinite, that go beyond what we might expect or calculate!
 
 :::
 
-| Old Testament Prophesy | Approximate Date | New Testament Fulfillment	|
+| Old Testament Prophesy | Approximate Date | New Testament fulfilment	|
 |---	|---	|---	|
 | Jesus Christ was born in Bethlehem [Mic 5:2](https://www.biblegateway.com/passage/?search=%5BMic%205%3A2&version=NKJV) | circa 1804 BC | King Herod asks where Christ was born... and they answered Bethlehem [Mat 2:4-6](https://www.biblegateway.com/passage/?search=Mat%202%3A4-6&version=NKJV) |
 | A forerunner of Christ [Mal 3:1](https://www.biblegateway.com/passage/?search=Mal%203%3A1&version=NKJV) | 450-430 BC | John the Baptist, the forerunner of Christ [Mar 1:1-8](https://www.biblegateway.com/passage/?search=mar%201%3A1-8&version=NKJV) 	|
@@ -189,7 +189,7 @@ widely agree that these represent:
 4. Rome (iron legs) - circa 63 BC-476 AD
 
 **These empires rose and fell in the exact order prophesied.** 6 centuries of history laid out in the exact order
-of the empires that rule the earth! *Thats not coincidence.*
+of the empires that rule the earth! *That's not coincidence.*
 
 #### Daniel 9 - The 70 Weeks Prophecy and the Timing of the Messiah
 
@@ -213,7 +213,7 @@ Coincidence? With this much of accuracy - is that even possible?
 
 ## Objections - Was This Retroactive Editing?
 
-Some skeptics suggest that Jesus' followers retroactively edited the Old Testament or altered the New Testament
+Some sceptics suggest that Jesus' followers retroactively edited the Old Testament or altered the New Testament
 to create the appearance of fulfilled prophecy.
 
 ### The Dead Sea Scrolls Prove the Old Testament Was Unchanged
@@ -265,7 +265,7 @@ one person in the 1st century fulfilling just eight of the most clear and straig
 
 Now these prophecies were either given by inspiration of God or the prophets just wrote them as they thought they should be. In such a case
 the prophets had just one chance in 10<sup>17</sup> of having them come true in any man, but they all came true in Christ! **This means that the
-fulfillment of these eight prophecies alone proves that God inspired the writing of these prophecies to such absolute definiteness.**
+fulfilment of these eight prophecies alone proves that God inspired the writing of these prophecies to such absolute definiteness.**
 
 :::
 
@@ -298,7 +298,7 @@ you can and should stake your eternal destiny on it also!**
 :::
 
 While critics have debated Stoner's assumptions, even conservative estimates show that the probability
-of chance fulfillment is effectively zero.
+of chance fulfilment is effectively zero.
 
 **There is no possible way mathematically this is coincidence.**
 
@@ -312,19 +312,19 @@ and the evidence of prophecy that was fulfilled.
 :::tip[Dr. Francis Collins — Former Atheist, Renowned Scientist, Led Human Genome Project]
 
 *"I found the evidence for belief in the God of the Bible to be intellectually compelling...
-including the fulfillment of prophecies about Christ."*
+including the fulfilment of prophecies about Christ."*
 
 — Francis Collins, The Language of God
 
 :::
 
 **Sir Lionel Alfred Luckhoo**, KCMG CBE QC (1914 – 1997) was a Guyanese politician, diplomat and lawyer,
-famed for his 245 consecutive successful defences in murder cases. Luckhoo was deeply skeptical and
+famed for his 245 consecutive successful defences in murder cases. Luckhoo was deeply sceptical and
 relied on evidence, more so given his law background. Prophecy was a key part of his conversion.
 
-:::tip[Sir Lionel Luckhoo — World's Most Successful Trial Lawyer, Former Skeptic turned Christian]
+:::tip[Sir Lionel Luckhoo — World's Most Successful Trial Lawyer, Former Sceptic turned Christian]
 
-*"I have spent more than 42 years as a defense trial lawyer appearing in many parts of the world... 
+*"I have spent more than 42 years as a defence trial lawyer appearing in many parts of the world... 
 I say unequivocally the evidence for the resurrection of Jesus Christ is so overwhelming that it
 compels acceptance by proof which leaves absolutely no room for doubt."*
 
@@ -332,7 +332,7 @@ compels acceptance by proof which leaves absolutely no room for doubt."*
 
 :::
 
-**Josh McDowell** began his research as a hostile skeptic and set out to disprove Christianity. He was
+**Josh McDowell** began his research as a hostile sceptic and set out to disprove Christianity. He was
 overwhelmed by the predictive power of messianic prophecies like Isaiah 53 and Psalm 22.
 
 :::tip[Josh McDowell — Once an Atheist Investigating Christianity to Refute It]
@@ -351,7 +351,7 @@ fulfilled down to the smallest detail in Jesus' life."*
 evidence for Jesus. 
 
 :::tip[Lee Strobel, a Former Atheist Journalist and Legal Editor for the Chicago Tribune.]
-*"It would have been impossible for Jesus to arrange the fulfillment of all the hundreds of Old Testament
+*"It would have been impossible for Jesus to arrange the fulfilment of all the hundreds of Old Testament
 prophecies - many of which He had no control over... unless, of course, He really was the Messiah."*
 
 — Lee Strobel, The Case for Christ
@@ -363,12 +363,12 @@ align with prophecies written centuries earlier."*
 
 
 **Gleason Archer**, a biblical scholar says *"The Holy Scriptures are demonstrated to be a divine revelation
-by the fulfillment of specific predictions made hundreds of years in advance, which no mere human wisdom
+by the fulfilment of specific predictions made hundreds of years in advance, which no mere human wisdom
 could have anticipated."*
 
 Many former atheists - including legal experts, scientists and journalists have investigated the prophecies
 of the Bible not to believe, but to disprove the Bible and Jesus Christ. Yet instead of finding fiction, they
-discovered a pattern of fulfillment so specific, so improbable and so historically grounded that it led them
+discovered a pattern of fulfilment so specific, so improbable and so historically grounded that it led them
 to faith in Christ. As Lee Strobel put it *"Only God could pull this off."*
 
 
@@ -394,7 +394,7 @@ it's accurate down to the details!
 
 ## Conclusion - Only God Could Do This
 
-The sheer volume, specificity and fulfillment of biblical prophecy are unlike anything in ancient literature.
+The sheer volume, specificity and fulfilment of biblical prophecy are unlike anything in ancient literature.
 It's not just that the Bible claims to predict the future - it goes ahead and demonstrably does so, in ways that
 no human author or conspiracy could accomplish.
 
@@ -409,7 +409,7 @@ The messianic predictions of Isaiah, Psalms, Micah and Zechariah align precisely
 
 Ancient texts like the Dead Sea Scrolls confirm these prophecies existed long before Jesus.
 
-Mathematical probability shows that these fulfillments could not have happened by chance.
+Mathematical probability shows that these fulfilments could not have happened by chance.
 
 **If these things are true - and the evidence says they are - then the Bible is more than a human book - it is a divine revelation!**
 

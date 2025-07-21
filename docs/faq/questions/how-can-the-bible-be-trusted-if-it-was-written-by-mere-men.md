@@ -29,7 +29,7 @@ The Bible itself addresses its origin. In
 God-breathed and is useful for teaching, rebuking, correcting and training in righteousness."* The term *God-breathed*
 (Greek: theopneustos) means that Scripture came directly from God's Spirit. Though it was written over a span of 1500 years
 by over 40 human authors - most of which never met each other and were from vastly different backgrounds, it carries a
-unified message pointing to Jesus Christ as Lord and Savior.
+unified message pointing to Jesus Christ as Lord and Saviour.
 
 This is not just a philosophical claim. The Bible contains supernatural insight - knowledge about the future, the human heart,
 and the eternal realm - something that no ordinary human could manufacture. Consider
@@ -41,7 +41,7 @@ As [2 Peter 1:21](https://www.biblegateway.com/passage/?search=2%20peter%201%3A2
 origin in the human will, but prophets, though human, spoke from God as they were carried along by the Holy Spirit."* The human
 element is real, but it is the Spirit of God who guided their words.
 
-This is in stark contrast to other religions which teach the opposite - skeptics often claim that *[All religions are paths to
+This is in stark contrast to other religions which teach the opposite - sceptics often claim that *[All religions are paths to
 the same god](./arent-all-religions-paths-to-the-same-god.md)*; however [nothing is further than the truth](./arent-all-religions-paths-to-the-same-god.md#the-nature-of-god---personal-vs-impersonal). Some like Buddhism deny the existence of God and focus on enlightenment
 by good deeds. Islam teaches a different god in Allah altogether, and Hinduism teaches of 330 million gods.
 
@@ -91,7 +91,7 @@ sets us free.
 
 ## Addressing Misunderstandings About Scripture
 
-Skeptics often point to verses that seem confusing or troubling, but that is because they are taken out of context.
+Sceptics often point to verses that seem confusing or troubling, but that is because they are taken out of context.
 One common example is [Deuteronomy 22:28–29](https://www.biblegateway.com/passage/?search=deut%2022%3A28-29&version=NKJV),
 which many claim teaches that a woman must marry her rapist. This is a gross misunderstanding due to lack of context.
 
@@ -105,7 +105,7 @@ security would be at risk. In our language today we'd call this a *Shotgun weddi
 :::tip[Context is important]
 
 The Bible does not condone evil - it reveals God's heart for justice and love. The Bible's moral law is
-clear - love your neighbor as yourself! And love does not rape, kill, or exploit. 
+clear - love your neighbour as yourself! And love does not rape, kill, or exploit. 
 
 **Scripture is consistent when read in the light of its full message and intent. And that's why context matters!**
 
@@ -113,7 +113,7 @@ Misrepresenting Scripture by ignoring context is like blaming a doctor for a dia
 
 :::
 
-Another criticism skeptics raise is the apparent contradiction in
+Another criticism sceptics raise is the apparent contradiction in
 [1 Corinthians 15:32](https://www.biblegateway.com/passage/?search=1%20Corinthians%2015%3A32&version=NKJV), which says,
 *"Let us eat and drink, for tomorrow we die."* Out of context, it sounds like the Bible encourages a reckless,
 pleasure-seeking life. But in context, Paul is actually making the **opposite** point - the entire context is found in
@@ -140,7 +140,7 @@ find in its pages not just information, but transformation!
 
 :::
 
-When skeptics question the Bible, they often do so without ever asking the true Author what He meant. The Holy Spirit, who
+When sceptics question the Bible, they often do so without ever asking the true Author what He meant. The Holy Spirit, who
 inspired the Scriptures, is still present today to guide, convict, and reveal truth to those who seek it.
 
 Rather than dismissing the Bible as a product of men, why not ask God to open your eyes as He did ours and many more? Just as

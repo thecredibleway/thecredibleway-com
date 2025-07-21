@@ -43,7 +43,7 @@ Millions still find meaning and transformation through it's message - **because 
 ## A Cultural Foundation That Shaped the World
 The [Bible's influence on the development of Western civilization is immeasurable](./origins/impact-on-civilization.md). Principles such as the dignity
 of human life, the rule of law, freedom of conscience and equality before God find their roots in Scripture. From the Magna Carta to
-the U.S. Constitution, biblical values laid the groundwork for societies that strive to honor human rights and justice.
+the U.S. Constitution, biblical values laid the groundwork for societies that strive to honour human rights and justice.
 
 :::info[[Dominion, Tom Holland](https://www.amazon.com/Dominion-Christian-Revolution-Remade-World/dp/0465093507), famed historian and Fellow of the Royal Society of Literature]
 
@@ -91,7 +91,7 @@ by God's Spirit, not mere will power.
 Beyond it's global influence and moral clarity, the Bible still matters because it continues to change lives - one heart at a time. For
 millions, reading Scripture has brought comfort in grief, hope in despair and guidance in confusion.
 
-Former skeptic and legal journalist Lee Strobel, after attempting to disprove Christianity, found the Bible to be historically credible
+Former sceptic and legal journalist Lee Strobel, after attempting to disprove Christianity, found the Bible to be historically credible
 and personally convicting. His journey from atheism to faith, told in *The Case for Christ*, echoes that of many others who found not
 just arguments, but encounter God in the pages of Scripture.
 

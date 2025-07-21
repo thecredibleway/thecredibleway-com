@@ -96,7 +96,7 @@ was seen as a threat to political ideology.
 
 Under Stalin's USSR, the Bible was considered a tool of Western influence and religious superstition. Churches
 were closed, religious leaders imprisoned or executed and Bibles were banned. Owning a Bible could result in
-harsh punishment or exile to Siberian labor camps. Despite this, underground churches flourished and smuggled
+harsh punishment or exile to Siberian labour camps. Despite this, underground churches flourished and smuggled
 Bibles circulated secretly among believers.
 
 #### Nazi Germany
@@ -146,7 +146,7 @@ and idea has been challenged - but it still stands.
 
 No other book has been so chopped, knived, sifted, scrutinized and vilified. What book on philosophy or
 religion or psychology or letters of classical or modern times has been subject to such a mass attack as the
-Bible? With such venom and skepticism? With such thoroughness and erudition? Upon every chapter, line and tenet?
+Bible? With such venom and scepticism? With such thoroughness and erudition? Upon every chapter, line and tenet?
 
 :::
 

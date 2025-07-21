@@ -12,7 +12,7 @@ keywords: ["Divine inspiration","Distinctive Nature of the Bible","Uniqueness of
 
 The Bible stands apart from all other religious and literary texts due to it's divine inspiration, historical continuity,
 prophetic accuracy (often centuries apart), moral authority and transformative impact. Written over a span of approximately 1500 years
-by more than 40 authors from different backgrounds and cultures, it maintains a consistent message centered on God's redemptive plan
+by more than 40 authors from different backgrounds and cultures, it maintains a consistent message centred on God's redemptive plan
 for humanity. It has shaped civilizations, influenced laws, inspired countless works of art and literature and continues to be a
 spiritual guide for billions. It's survival through persecution, translation into thousands of languages and relevance across ages
 further underscore it's unique nature.
@@ -153,7 +153,7 @@ satisfaction for human sin, a concept that is without real parallel in other sys
 
 ### Faith vs Works
 
-While many religious systems emphasize moral effort or ritual to attain salvation or divine favor, the Bible uniquely
+While many religious systems emphasize moral effort or ritual to attain salvation or divine favour, the Bible uniquely
 teaches that [salvation is by grace through faith, not earned by works](../../jesus/because-he-lives/salvation-and-redemption.md)
 ([Eph 2:8–9](https://www.biblegateway.com/passage/?search=Eph%202%3A8%E2%80%939&version=NKJV),
 [Titus 3:5](https://www.biblegateway.com/passage/?search=Titus%203%3A5&version=NKJV)). **This grace based salvation

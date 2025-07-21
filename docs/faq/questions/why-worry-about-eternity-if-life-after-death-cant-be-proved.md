@@ -11,11 +11,11 @@ keywords: ["Why worry about eternity if life after death can't be proved?","Why 
 # Why Worry About Eternity if Life After Death Can't be Proved?
 
 In a world that thrives on tangible evidence and scientific verification, how can we reasonably talk
-about eternity - something we cannot test in a lab or observe firsthand? Faith in eternal life isn't rooted
+about eternity - something we cannot test in a lab or observe first-hand? Faith in eternal life isn't rooted
 in blind optimism or wishful thinking, but in credible, historical, spiritual and existential truths. When
 people ask whether we can *prove* life after death, we must first ask *what kind of proof they're expecting.*
 Christianity offers evidence in the form of historical eyewitness testimony, personal transformation,
-fulfilled prophecy, the radical claim of a resurrected Savior and the profound implications of an empty tomb.
+fulfilled prophecy, the radical claim of a resurrected Saviour and the profound implications of an empty tomb.
 
 ## Belief Without Seeing Isn't Blind
 
@@ -49,7 +49,7 @@ never broken a promise yet!**
 
 ## Near-Death Experiences (NDEs)
 
-Skeptics often ask *Can anything beyond religious texts suggest the possibility of life after
+Sceptics often ask *Can anything beyond religious texts suggest the possibility of life after
 death?* While Scripture provides the most direct revelation, other avenues also support belief in eternity.
 Thousands of cases have been documented where people have clinically died and later been revived,
 often reporting remarkably consistent themes - heaven, hell, light, peace, awareness, or even
@@ -69,7 +69,7 @@ and the complete lack of peace and rest ([Rev 14:11](https://www.biblegateway.co
 and an overwhelming sense of hopelessness - all of which match what the Bible's description of
 hell is. 
 
-[Howard Pittman](https://www.youtube.com/watch?v=UKnwGMG7PHg), died of an internal hemorrhage and went to
+[Howard Pittman](https://www.youtube.com/watch?v=UKnwGMG7PHg), died of an internal haemorrhage and went to
 heaven and then returned to earth and has some remarkable things to say of what he saw of religion that is
 common whereas what God wants relationship with us. Pittman's account emphasizes a stern rebuke from God,
 who told him that his life and works, despite being a minister, were unacceptable much like a *Laodicean-type*
@@ -85,7 +85,7 @@ also resonates with Howard Pitmann's account in that only 2.5% people make it to
 need to have the right motives and need to be in a relationship with God!
 
 In [The Case for Heaven, by Lee Strobel](https://www.amazon.com/Case-Heaven-Journalist-Investigates-Evidence/dp/0310259193),
-the award-winning legal editor of the Chicago Tribune and a spiritual skeptic until 1981, he interviews experts
+the award-winning legal editor of the Chicago Tribune and a spiritual sceptic until 1981, he interviews experts
 about the evidence for the afterlife. He gives near death experiences of many people including his own
 where he was close to a coma - and after that he went searching for answers and found Jesus Christ.
 
@@ -119,7 +119,7 @@ sacrificially, generously, and courageously. Why? **Because they believed death 
 
 [**Publius Tacitus**](../../jesus/crediblilty/the-resurrection.md#tacitus-publius-cornelius-tacitus)
 (56 - 120 AD), is widely regarded as one of Rome's greatest historians. He came from the wealthy
-equestrian class and become a senator and consul. With Emperor Titus's favor, he accessed imperial
+equestrian class and become a senator and consul. With Emperor Titus's favour, he accessed imperial
 records and high-level sources, ensuring meticulous accuracy. His "Annals" notably references Jesus
 during his account of Nero's persecution of early Christians, an authentic Roman record
 untainted by later alterations.
@@ -188,7 +188,7 @@ and what your Christian friends say. **But can you really ignore what
 [Syrian](../../jesus/crediblilty/the-resurrection.md#the-syrian---mara-bar-serapion) historians recorded?**
 These weren't just ordinary men-they were legal experts and could think for themselves - Roman senators,
 and provincial governors. **If anything, their testimony as hostile sources, is especially valuable and
-considered the most credible since they had no reason to favor Jesus or His followers.**
+considered the most credible since they had no reason to favour Jesus or His followers.**
 
 The Romans were certainly no friends of Jesus Christ, or His followers - quite the opposite in fact!
 They scourged Jesus, gave Him a crown of thorns, mocked Him, crucified Him and later persecuted

@@ -50,7 +50,7 @@ historical reliability.
 This is akin to witnesses in a court room in every legal system - if every witness said exactly the same thing
 verbatim, it raises significant red flags. If in fact every witness gave the exact same verbatim account, it
 undermines their credibility and appears like a rehearsed script; perhaps they've been coached or colluded. 
-Prosecutors, defense attorneys and the court itself would be highly suspicious of identical verbatim testimonies
+Prosecutors, defence attorneys and the court itself would be highly suspicious of identical verbatim testimonies
 and would likely conduct rigorous cross-examination to uncover the reason for the uniformity. This in turn could
 lead to investigations into subornation of perjury or other ethical/criminal violation. **while consistency on key
 facts is desirable; identical, verbatim testimony across multiple witnesses is almost always viewed as a sign of
@@ -182,7 +182,7 @@ contradictions dissolve, revealing a coherent and reliable narrative about the l
 
 No other book has been so chopped, knived, sifted, scrutinized and vilified. What book on philosophy or
 religion or psychology or letters of classical or modern times has been subject to such a mass attack as the
-Bible? With such venom and skepticism? With such thoroughness and erudition? Upon every chapter, line and tenet?
+Bible? With such venom and scepticism? With such thoroughness and erudition? Upon every chapter, line and tenet?
 
 :::
 

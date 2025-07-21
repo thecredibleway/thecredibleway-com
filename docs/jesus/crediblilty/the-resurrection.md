@@ -107,7 +107,7 @@ Let's say you dismiss the eyewitness accounts of the Jewish people, Jesus' follo
 and what your Christian friends say. **But can you really ignore what Roman and Syrian historians recorded?**
 These weren't just ordinary men-they were legal experts and could think for themselves - Roman senators,
 and provincial governors. **If anything, their testimony as hostile sources, is especially valuable and
-considered the most credible since they had no reason to favor Jesus or His followers.**
+considered the most credible since they had no reason to favour Jesus or His followers.**
 
 The Romans were certainly no friends of Jesus Christ, or His followers - quite the opposite in fact!
 They scourged Jesus, gave Him a crown of thorns, mocked Him, crucified Him and later persecuted
@@ -225,7 +225,7 @@ of Pliny the Younger. Like Tacitus, he is considered a hostile source to Christi
 references to Jesus all the more credible - if anything, his bias would lead him to downplay, not elevate,
 Jesus' significance.
 
-Skeptical of Christians, whom he saw as crazy. Suetonius mentions Jesus in *De Vita Caesarum*
+Sceptical of Christians, whom he saw as crazy. Suetonius mentions Jesus in *De Vita Caesarum*
 (Lives of the Twelve Caesars), a work covering emperors from Julius Caesar who dies in 44 AD to Domitian
 who died in 96 AD. In his accounts of Emperors Claudius and Nero, he provides further
 historical context on early Christianity:
@@ -307,7 +307,7 @@ refers to the unjust treatment of *three wise men* - one of them being Jesus Chr
 :::info[Serapion's aramaic letter to his son]
 
 What else can we say, when the wise are forcibly dragged off by tyrants, their wisdom is captured by insults,
-and their minds are oppressed and without defense? What advantage did the Athenians gain from murdering Socrates?
+and their minds are oppressed and without defence? What advantage did the Athenians gain from murdering Socrates?
 Famine and plague came upon them as a punishment for their crime. What advantage did the men of Samos gain from
 burning Pythagoras? In a moment their land was covered with sand. **What advantage did the Jews gain from
 executing their wise king?** It was just after that their kingdom was abolished. **God justly avenged these three
@@ -428,7 +428,7 @@ the most scrutinized events in ancient history. In short, multiple sources that 
 usual checks and balances applied to historical accounts.
 
 The Roman sources affirm key background facts that Jesus was crucified under Pontius Pilate, that His
-followers worshiped Him as divine and that the movement grew rapidly despite persecution. These
+followers worshipped Him as divine and that the movement grew rapidly despite persecution. These
 statements confirm the historical framework within which the resurrection was proclaimed.
 
 The Gospels unanimously report that Jesus' tomb was found empty by women followers - an embarrassing detail
@@ -442,7 +442,7 @@ of eyewitnesses, some of whom were still alive when the texts were written, invi
 The early church's explosive growth, in the face of martyrdom and without political or military backing,
 is extremely difficult to explain without a genuine, transformative event at it's core. Nearly all of the apostles,
 and countless early Christians, were willing to suffer and die for their proclamation that Jesus rose from the
-dead - not for a belief inherited or coerced, but for a firsthand claim they refused to recant.
+dead - not for a belief inherited or coerced, but for a first-hand claim they refused to recant.
 **People may die for a lie they believe is true, but not for a lie they know is false**.
 Their courage is strong evidence that they genuinely encountered the risen Christ.
 

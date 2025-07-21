@@ -19,7 +19,7 @@ the reality is the name of Jesus is a fountain of life, a banner of victory and 
 
 His name is not a relic of the past, but a living source of power, promise and presence.
 
-It is the name above every name - given, exalted and honored by God Himself!
+It is the name above every name - given, exalted and honoured by God Himself!
 
 :::
 
@@ -55,7 +55,7 @@ His name and title by all three methods!**
 
 :::tip[The name of Jesus]
 
-God gave Him the name - not just *Jesus* but the full title and honor that comes with it - Lord, Christ, Son of God, King of Kings!
+God gave Him the name - not just *Jesus* but the full title and honour that comes with it - Lord, Christ, Son of God, King of Kings!
 
 :::
 
@@ -116,7 +116,7 @@ His name gives us access to the Father - because Jesus lives, our prayers have p
 [Proverbs 18:10](https://www.biblegateway.com/passage/?search=Proverbs%2018%3A10&version=NKJV)
 says *The name of the Lord is a strong tower; the righteous run into it and are safe.*
 
-The name of Jesus is not just for offense but defense. In spiritual warfare, in fear, in
+The name of Jesus is not just for offence but defence. In spiritual warfare, in fear, in
 temptation - the name of Jesus is a refuge. It carries the weight of His character and the
 weight of the authority behind His name.
 
@@ -136,7 +136,7 @@ We are called by His name.
 *If you are insulted because of the name of Christ, you are blessed...*
 ([1 Pet 4:14](https://www.biblegateway.com/passage/?search=1%20Pet%204%3A14&version=NKJV))
 
-To carry the name of Jesus is an honor. It means we represent Him in the world. His name
+To carry the name of Jesus is an honour. It means we represent Him in the world. His name
 is stamped on our hearts, marking us as His own. Our identity is rooted in His! Because
 Jesus lives, our identity is secure. 
 
@@ -205,7 +205,7 @@ good news that Jesus is the Messiah.*
 
 Why? Because they knew the name they preached belonged to the resurrected Lord,
 and that no power could stop Him! We are called to the same boldness - Speak His name
-without shame. Declare His name over your family. Share His name with your neighbors.
+without shame. Declare His name over your family. Share His name with your neighbours.
 Trust in His name in the face of fear.
 
 The name of Jesus is your anchor and weapon - because Jesus lives, you never walk alone!

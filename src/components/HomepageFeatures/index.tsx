@@ -68,7 +68,7 @@ export default function HomepageFeatures(): ReactNode {
           Jesus Christ is by far the most influential figure in human history. He gave the world an ethics lesson, the likes of which has never been seen before or since! When Jesus walked the earth, He transformed people with His message of love, grace and redemption. As the promised Messiah, He fulfilled ancient prophecies, performed miracles and freely offered salvation to all who believe in Him. His death on the cross and resurrection stand as the cornerstone of Christian faith, revealing God's profound love for humanity and His plan for eternal life.
           </p>
           <p>
-          To uncover the truth about Jesus Christ, we examine His life and significance from multiple perspectives. This includes exploring the Bible, the lives of His followers and historical records, as well as addressing the arguments of skeptics concerning His identity, miracles and the reliability of biblical accounts.
+          To uncover the truth about Jesus Christ, we examine His life and significance from multiple perspectives. This includes exploring the Bible, the lives of His followers and historical records, as well as addressing the arguments of sceptics concerning His identity, miracles and the reliability of biblical accounts.
           </p>
         </div>
         <div className="row">

@@ -38,7 +38,7 @@ Paul boldly declares in [Rom 6:14](https://www.biblegateway.com/passage/?search=
 The cross didn't just forgive our sin - it broke sin's power. We are no longer sinners trying to do better;
 we are redeemed children of God made righteous by His blood.
 
-This salvation isn't earned by good behavior, religious rituals, philosophical wisdom or intellectual striving.
+This salvation isn't earned by good behaviour, religious rituals, philosophical wisdom or intellectual striving.
 It rests entirely on one person: Jesus Christ. Jesus made a bold and exclusive statement in **I am the way, the truth and the life. No one
 comes to the Father except through Me** ([John 14:6](https://www.biblegateway.com/passage/?search=John%2014%3A6%29&version=NKJV)).
 There is no God but Jehovah and the only way to God is through Jesus - there is no middle ground.

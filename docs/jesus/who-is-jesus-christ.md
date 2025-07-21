@@ -3,7 +3,7 @@ sidebar_position: 1
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Who is Jesus Christ
-description: Who is Jesus Christ - A Living Savior, our Lord. The King of Kings! He is the way, the truth and the life - the only way to God. He suffered and bled for you and me; Jesus died on the cross and rose again to restore man to God!
+description: Who is Jesus Christ - A Living Saviour, our Lord. The King of Kings! He is the way, the truth and the life - the only way to God. He suffered and bled for you and me; Jesus died on the cross and rose again to restore man to God!
 keywords: ["Who is Jesus Christ","Is Jesus Lord","Is Jesus an imposter","Is Jesus alive","Is Jesus credible","experience Jesus now"]
 ---
 
@@ -57,7 +57,7 @@ prejudices of his people and age?
 :::
 
 Jesus had multiple opportunities to take advantage of people around Him, yet didn't. He was not
-looking for power - quite the opposite; He modeled serving others
+looking for power - quite the opposite; He modelled serving others
 ([John 13:1–16](https://www.biblegateway.com/passage/?search=John%2013%3A1%E2%80%9316&version=NKJV);
 [15:13](https://www.biblegateway.com/passage/?search=John%2015%3A13&version=NKJV)) and
 giving without expecting anything in return, even to the wicked and ungrateful
@@ -86,10 +86,10 @@ The Roman centurion "Lord, I am not worthy..." (Mat 8:8)
 and so on 
 ```
 
-**Other self-proclaimed gods and saviors have come and gone, but Jesus Christ, stands
-head-and-shoulders above them all; and He is still alive!** The evidence is in favor of Jesus as Lord,
+**Other self-proclaimed gods and saviours have come and gone, but Jesus Christ, stands
+head-and-shoulders above them all; and He is still alive!** The evidence is in favour of Jesus as Lord,
 embodying truth and love! The consistency of [His teachings](./crediblilty/teachings-of-jesus.md),
-the [fulfillment of prophecies](./crediblilty/prophecies-fulfilled.md) and the transformative power of
+the [fulfilment of prophecies](./crediblilty/prophecies-fulfilled.md) and the transformative power of
 [His life, death and resurrection](./crediblilty/is-jesus-alive.md). Jesus openly declared
 His divine identity, performed miracles and lived a life of perfect integrity, aligning
 His actions with His words, that left such an [impact on His followers](./crediblilty/the-martyrs.md)

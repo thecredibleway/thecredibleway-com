@@ -48,12 +48,12 @@ one person in the 1st century fulfilling just eight of the most clear and straig
 
 Now these prophecies were either given by inspiration of God or the prophets just wrote them as they thought they should be. In such a case
 the prophets had just one chance in 10<sup>17</sup> of having them come true in any man, but they all came true in Christ! **This means that the
-fulfillment of these eight prophecies alone proves that God inspired the writing of these prophecies to such absolute definiteness.**
+fulfilment of these eight prophecies alone proves that God inspired the writing of these prophecies to such absolute definiteness.**
 
 :::
 
 
-| Old Testament Prophesy | Approximate Date | New Testament Fulfillment	| Probability |
+| Old Testament Prophesy | Approximate Date | New Testament fulfilment	| Probability |
 |---	|---	|---	|---	|
 | Jesus Christ was born in Bethlehem [Mic 5:2](https://www.biblegateway.com/passage/?search=%5BMic%205%3A2&version=NKJV) | circa 1804 BC | King Herod asks where Christ was born... and they answered Bethlehem [Mat 2:4-6](https://www.biblegateway.com/passage/?search=Mat%202%3A4-6&version=NKJV) | 1 in 280,000 |
 | A forerunner of Christ [Mal 3:1](https://www.biblegateway.com/passage/?search=Mal%203%3A1&version=NKJV) | 450-430 BC | John the Baptist, the forerunner of Christ [Mar 1:1-8](https://www.biblegateway.com/passage/?search=mar%201%3A1-8&version=NKJV) 	| 1 in 1000 |
@@ -69,7 +69,7 @@ fulfillment of these eight prophecies alone proves that God inspired the writing
 How could multiple prophets know what was to happen with such accuracy almost 10 centuries before
 Jesus Christ was on the earth? Even taking just the last one of crucifixion - King David wrote that
 10 centuries before Jesus was on the earth. Crucifixion wasn't a thing till the Babylonians and
-Assyrians started it in the 6th century and the Romans practiced in the 5th century onwards! 
+Assyrians started it in the 6th century and the Romans practised in the 5th century onwards! 
 
 You might even argue that Prof. Stoner's math was wrong, but bear in mind he was Chairman of the
 departments of Mathematics and Astronomy at Pasadena City College and then Chairman of the
@@ -132,7 +132,7 @@ infinite, that go beyond what we might expect or calculate!
 :::
 
 
-| # | Old Testament Prophesy | Approximate Date (historical) | New Testament Fulfillment	|
+| # | Old Testament Prophesy | Approximate Date (historical) | New Testament fulfilment	|
 |--|---	|---	|---	|
 |  1| Born of a woman i.e virgin birth (Gen 3:15) | 4000 - 1804 BC | Joseph accepts Mary and Jesus, Mary accepts what Holy Spirit does (Mat 1:18-25, Luke 1:26-38, Gal 4:4-5) | 
 |  2| He will bruise Satan's head (Gen 3:15) | 4000 - 1804 BC | Jesus came to destroy the works of the devil (John 10:10, Acts 10:38, 1 John 3:8, Heb 2:14) 	|
@@ -161,8 +161,8 @@ infinite, that go beyond what we might expect or calculate!
 | 25| His exaltation predicted as Yeshua  (Ex 15:2)	| 1875 - 1445 BC | Jesus glorified at the right hand of God (Acts 7:55-56) |
 | 26| His Character - Holiness (Ex 15:11)	| 1875 - 1445 BC | Jesus is the Holy one of God (Luke 1:35) |
 | 27| The Spiritual Rock of Israel (Ex 17:6) | 1875 - 1445 BC | Jesus Christ is the Rock of Israel (1 Cor 10:4) |
-| 28| His Character - Merciful (Ex 33:19) | 1875 - 1445 BC | Jesus is the savior of Israel (Luke 1:72) |
-| 29| His sacrifice a sweet smelling savor unto God	(Lev 1:2-9) | 1405 BC | Christ gave himself for as a sacrifice to God for a sweet-smelling aroma (Eph 5:2) |
+| 28| His Character - Merciful (Ex 33:19) | 1875 - 1445 BC | Jesus is the saviour of Israel (Luke 1:72) |
+| 29| His sacrifice a sweet smelling savour unto God	(Lev 1:2-9) | 1405 BC | Christ gave himself for as a sacrifice to God for a sweet-smelling aroma (Eph 5:2) |
 | 30| Leper cleansed by a priest (Lev 14:11) | 1405 BC | Jesus as our High priest, cleanses a leper (Luke 5:12-14, Acts 6:7) |
 | 31| Christ's once-for-all death foreshadowed (Lev 16:15-17) | 1405 BC | Jesus Christ offered himself for the people's sins (Heb 9:7-14) |
 | 32| Suffering outside the camp (Lev 16:27) | 1405 BC | Golgotha (where Jesus suffered) is outside the city of Jerusalem (Mat 27:33, Heb: 13:11-12) |
@@ -171,7 +171,7 @@ infinite, that go beyond what we might expect or calculate!
 | 35| If any man thirst - "the drink-offering" (Lev 23:36-37) | 1405 BC | If anyone thirsts, let him come to Me and drink (John 7:37) |
 | 36| Not a bone of Him broken (Num 9:12) | 1114 - 1405 BC | Jesus died without any bones broken (John 19:31-36) |
 | 37| The serpent on a pole - foreshadow of Christ lifted up (Num 21:9) | 1114 - 1405 BC | Jesus lifted up on the cross (John 3:14-18, 12:32) |
-| 38| Time - I shall see him, but not now (Num 24:17) | 1114 - 1405 BC | In the fulness of time, God sent His Son (John 1:14, Gal 4:4) |
+| 38| Time - I shall see him, but not now (Num 24:17) | 1114 - 1405 BC | In the fullness of time, God sent His Son (John 1:14, Gal 4:4) |
 | 39| A future prophet would come (Deut 18:15) | 1405 BC | This is of a truth that prophet that should come into the world (John 6:14) |
 | 40| Israel was to follow the future prophet like the did Moses (Deut 18:15-16) | 1405 BC | Had you believed Moses, you would believe me (John 5:45-47) |
 | 41| Sent by the Father to speak His word (Deut 18:18) | 1405 BC | I do nothing of Myself, but as my Father hath taught Me, I speak these things (John 8:28-29) |
@@ -182,7 +182,7 @@ infinite, that go beyond what we might expect or calculate!
 | 46| The Lord shall judge the ends of the earth (1 Sam 2:10) | 1105 - 1011 BC | Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth .... the Lord Jesus Christ, who will judge the living and the dead (Mat 28:18, John 12:15, 2 Tim 4:1, 1 Pet 4:5) |
 | 47| I will raise me up a Faithful Priest	(1 Sam 2:35) | 1105 - 1011 BC | Jesus is our merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people (Heb 2:17, 3:1-3, 7:24-25) |
 | 48| Seed of David (2 Sam 7:12)  | 1011 - 971 BC | David is in the genealogy of Jesus (Mat 1:1) |
-| 49| His Kingdom is everlasting (2 Sam 7:13)  | 1011 - 971 BC | We have an entrance to the everlasting kingdom of our Lord and Savior Jesus Christ (2 Pet 1:11) |
+| 49| His Kingdom is everlasting (2 Sam 7:13)  | 1011 - 971 BC | We have an entrance to the everlasting kingdom of our Lord and Saviour Jesus Christ (2 Pet 1:11) |
 | 50| I will be his Father and he shall be My son (2 Sam 7:14a) | 1011 - 971 BC | He will be great and will be called the Son of the Highest; and the Lord God will give Him the throne of His father David (Luke 1:32, Rom 1:3-4, Mat 3:17, Mark 9:7, Luke 9:35) |
 | 51| David's house and throne established forever (2 Sam 7:16) | 1011 - 971 BC | David is in the genealogy of Jesus (Luke 3:31, Rev 22:16) |
 | 52| Elijah taken into heaven - the bodily ascension to heaven illustrated (2 Ki 2:11) | 850 - 560 BC | Jesus blesses them and ascends into heaven (Luke 24:51) |
@@ -201,7 +201,7 @@ infinite, that go beyond what we might expect or calculate!
 | 65| Rule the nations with a rod of iron (Psa 2:8-9) | 1410 - 430 BC | He shall rule them with a rod of iron...	(Rev 2:27, 12:5, 19:15) |
 | 66| Life comes through faith in Him	(Psa 2:12) | 1410 - 430 BC | Believe that Jesus is the Christ, the Son of God and that believing you may have life in His name (John 20:31) |
 | 67| The mouths of babes perfect His praise (Psa 8:2) | 1410 - 430 BC | Children crying out in the temple and saying, Hosanna to the Son of David!... (Mat 21:15-16) |
-| 68| His humiliation and exaltation	(Psa 8:5-6) | 1410 - 430 BC | But we see Jesus, who was made a little lower than the angels, for the suffering of death crowned with glory and honor, that He, by the grace of God, might taste death for everyone. (Heb 2:5-9) |
+| 68| His humiliation and exaltation	(Psa 8:5-6) | 1410 - 430 BC | But we see Jesus, who was made a little lower than the angels, for the suffering of death crowned with glory and honour, that He, by the grace of God, might taste death for everyone. (Heb 2:5-9) |
 | 69| He will judge the world in righteousness	(Psa 9:7-10) | 1410 - 430 BC | He has appointed a day on which He will judge the world in righteousness by Jesus Christ	(Acts 17:31) |
 | 70| Will not abandon him in Shoel (Psa 16:10) | 1410 - 430 BC | Concerning the resurrection of the Christ, that His soul was not left in Hades, nor did His flesh see corruption (Acts 2:31, 13:35) |
 | 71| Was to arise from the dead (Psa 16:9-11) | 1410 - 430 BC | That He must rise again from the dead (John 20:9) |
@@ -212,7 +212,7 @@ infinite, that go beyond what we might expect or calculate!
 | 76| Day and night at the same time (Psa 22:2)	| 1410 - 430 BC | Now from the sixth hour until the ninth hour there was darkness over all the land (Mat 27:45) |
 | 77| All who see me mock me, shake their head and insult me	(Psa 22:7)	| 1410 - 430 BC | And those who passed by blasphemed Him ...  (Mat 27:39-44) |
 | 78| He trusted in God, let Him deliver Him (Psa 22:8)	| 1410 - 430 BC | Mocking with the scribes and elders, said, He saved others; Himself He cannot save. If He is the King of Israel, let Him now come down from the cross and we will believe...  (Mat 27:43) |
-| 79| Born the Savior (Psa 22:9-10) | 1410 - 430 BC | Jesus is the Savior of the world (Luke 2:7) |
+| 79| Born the Saviour (Psa 22:9-10) | 1410 - 430 BC | Jesus is the Saviour of the world (Luke 2:7) |
 | 80| They seek His death (Psa 22:12-13)	| 1410 - 430 BC | The chief priests and officers saw Him, they cried out, saying, 'Crucify Him, crucify Him!' (John 19:6) |
 | 81| His blood poured out when they pierced His side (Psa 22:14) | 1410 - 430 BC | But one of the soldiers pierced His side with a spear and immediately blood and water came out	(John 19:34) |
 | 82| Suffered extreme agony (Psa 22:14-15) | 1410 - 430 BC | Jesus cried out with a loud voice, saying, Eli, Eli, lama sabachthani? .....  (Mark 15:34-37) |
@@ -239,7 +239,7 @@ infinite, that go beyond what we might expect or calculate!
 |103| He was hated without a cause (Psa 35:19)  | 1410 - 430 BC | ...but now they have seen and also hated both Me and My Father (John 15:24-25) |
 |104| His friends stood afar (Psa 38:11)  | 1410 - 430 BC | But all His acquaintances and the women who followed Him from Galilee, stood at a distance, watching these things	(Luke 23:49) |
 |105| Enemies try to entangle Him by craft (Psa 38:12)	 | 1410 - 430 BC | And the chief priests and the scribes sought how they might take Him by [a]trickery and put Him to death(Mark 14:1, Mat 22:15) |
-|106| Silent before His accusers (Psa 38:12-13)	 | 1410 - 430 BC |  Do You not hear how many things they testify against You? 14 But He answered him not one word, so that the governor marveled greatly (Mat 27:12-14) |
+|106| Silent before His accusers (Psa 38:12-13)	 | 1410 - 430 BC |  Do You not hear how many things they testify against You? 14 But He answered him not one word, so that the governor marvelled greatly (Mat 27:12-14) |
 |107| He went about doing good	(Psa 38:20)	 | 1410 - 430 BC | How Jesus of Nazareth, went about doing good and healing all who were oppressed by the devil, for God was with Him.(Acts 10:38) |
 |108| The joy of His resurrection predicted	(Psa 40:2-5) | 1410 - 430 BC |  He showed them His hands and His side. Then the disciples were glad when they saw the Lord (John 20:20) |
 |109| His delight-the will of the Father	(Psa 40:6-8)	 | 1410 - 430 BC | Jesus said to them, My food is to do the will of Him who sent Me and to finish His work (John 4:34, Heb 10:5-10) |
@@ -249,7 +249,7 @@ infinite, that go beyond what we might expect or calculate!
 |113| Words of Grace come from His lips	(Psa 45:2)	 | 1410 - 430 BC | For the law was given through Moses, but grace and truth came through Jesus Christ (John 1:17, Luke 4:22) |
 |114| To own the title, 'God' or 'Elohim'	(Psa 45:6)	 | 1410 - 430 BC |  But to the Son He says: Your throne, O God, is forever and ever (Heb 1:8) |
 |115| An anointing by the Holy Spirit	(Psa 45:7)	 | 1410 - 430 BC | Jesus came up immediately from the water; and behold, the heavens were opened to Him and [a]He saw the Spirit of God descending like a dove and alighting upon Him (Mat 3:16, Heb 1:9) |
-|116| Called the Christ (Messiah or Anointed)	(Psa 45:7-8)	 | 1410 - 430 BC | For there is born to you this day in the city of David a Savior, who is Christ the Lord (Luke 2:11) |
+|116| Called the Christ (Messiah or Anointed)	(Psa 45:7-8)	 | 1410 - 430 BC | For there is born to you this day in the city of David a Saviour, who is Christ the Lord (Luke 2:11) |
 |117| Worthy of our worship	(Psa 45:11)	 | 1410 - 430 BC | For we have seen His star in the East and have come to worship Him (Mat 2:2) |
 |118| His name remembered forever	(Psa 45:17)	 | 1410 - 430 BC | and seated Him at His right hand in the heavenly places, far above all principality and power and might and dominion and every name that is named, not only in this age but also in that which is to come. (Eph 1:20-21, Heb 1:8) |
 |119| Betrayed by a friend, not an enemy	(Psa 55:12-14) | 1410 - 430 BC | He who eats bread with Me has lifted up his heel against Me (John 13:18) |
@@ -262,7 +262,7 @@ infinite, that go beyond what we might expect or calculate!
 |126| Messiah's anguish of soul before crucifixion	(Psa 69:14-20)	 | 1410 - 430 BC | My soul is exceedingly sorrowful, even to death. Stay here and watch with Me. (Mat 26:36-45) |
 |127| My soul is exceeding sorrowful	(Psa 69:20)	 | 1410 - 430 BC | My soul is exceedingly sorrowful, even to death. Stay here and watch with Me. (Mat 26:38) |
 |128| Given vinegar in thirst	(Psa 69:21)	 | 1410 - 430 BC | they gave Him sour wine mingled with gall to drink. (Mat 27:34) |
-|129| The Savior given and smitten 	(Psa 69:26)	 | 1410 - 430 BC | I have glorified You on the earth. I have finished the work which You have given Me to do. (John 17:4, 18:11) |
+|129| The Saviour given and smitten 	(Psa 69:26)	 | 1410 - 430 BC | I have glorified You on the earth. I have finished the work which You have given Me to do. (John 17:4, 18:11) |
 |130| Great persons were to visit Him	(Psa 72:10-11	) | 1410 - 430 BC | wise men from the East came to Jerusalem, 2 saying, 'Where is He who has been born King of the Jews?'(Mat 2:1-11) |
 |131| The corn of wheat to fall into the Ground	(Psa 72:16)	 | 1410 - 430 BC | The hour has come that the Son of Man should be glorified. Most assuredly, I say to you, unless a grain of wheat falls into the ground and dies, it remains alone; but if it dies, it produces much grain. (John 12:24-25) |
 |132| Belief on His name will produce offspring	(Psa 72:17)	 | 1410 - 430 BC | But as many as received Him, to them He gave the right to become children of God (John 1:12-13) |
@@ -276,7 +276,7 @@ infinite, that go beyond what we might expect or calculate!
 |140| Firstborn (Psa 89:27) | 1410 - 430 BC | He is the image of the invisible God, the firstborn over all creation (Col 1:15-18) |
 |141| Emmanuel to be higher than earthly kings (Psa 89:27) | 1410 - 430 BC | And He will reign over the house of Jacob forever and of His kingdom there will be no end.(Luke 1:32-33) |
 |142| David's Seed, throne, kingdom endure forever (Psa 89:35-37) | 1410 - 430 BC | and the Lord God will give Him the throne of His father David (Luke 1:32-33) |
-|143| His character - Faithfulness (Psa 89:36-37) | 1410 - 430 BC | and from Jesus Christ, the faithful witness, the firstborn from the dead and the ruler over the kings of the earth (Rev 1:5, 19:11) |
+|143| His character - faithfulness (Psa 89:36-37) | 1410 - 430 BC | and from Jesus Christ, the faithful witness, the firstborn from the dead and the ruler over the kings of the earth (Rev 1:5, 19:11) |
 |144| He is from everlasting (Micah 5:2) (Psa 90:2) | 1410 - 430 BC | In the beginning was the Word and the Word was with God and the Word was God (John 1:1) |
 |145| Identified as Messianic (Psa 91:11-12) | 1410 - 430 BC | He shall give His angels charge over you, To keep you (Luke 4:10-11) |
 |146| His exaltation predicted (Psa 97:9) | 1410 - 430 BC | which He worked in Christ when He raised Him from the dead and seated Him at His right hand in the heavenly places (Acts 1:11, Eph 1:20) |
@@ -310,12 +310,12 @@ infinite, that go beyond what we might expect or calculate!
 |173| To be born of a virgin (Isa 7:14) | 740 - 680 BC | The Holy Spirit will come upon you and the power of the Highest will overshadow you; therefore, also, that Holy One who is to be born will be called the Son of God (Luke 1:35) |
 |174| To be Emmanuel-God with us (Isa 7:14) | 740 - 680 BC | Behold, the virgin shall be with child and bear a Son and they shall call His name Immanuel (Mat 1:18-23, 1 Tim 3:16) |
 |175| Called Emmanuel (Isa 8:8) | 740 - 680 BC | and they shall call His name Immanuel," which is translated, God with us. (Mat 1:23) |
-|176| A stone of stumbling, a rock of offense (Isa 8:14) | 740 - 680 BC | They stumble, being disobedient to the word, to which they also were appointed (1 Pet 2:8) |
+|176| A stone of stumbling, a rock of offence (Isa 8:14) | 740 - 680 BC | They stumble, being disobedient to the word, to which they also were appointed (1 Pet 2:8) |
 |177| His ministry to begin in Galilee (Isa 9:1-2) | 740 - 680 BC | He departed to Galilee. And leaving Nazareth, He came and dwelt in Capernaum, which is by the sea... (Mat 4:12-17) |
 |178| A child born - His humanity (Isa 9:6) | 740 - 680 BC | The Holy Spirit will come upon you and the power of the Highest will overshadow you; therefore, also, that Holy One who is to be born will be called the Son of God (Luke 1:31) |
 |179| A Son given - His deity (Isa 9:6) | 740 - 680 BC | The Holy Spirit will come upon you and the power of the Highest will overshadow you; therefore, also, that Holy One who is to be born will be called the Son of God (Luke 1:32, John 1:14, 1 Tim 3:16) |
 |180| Declared to be the Son of God with power (Isa 9:6) | 740 - 680 BC | and declared to be the Son of God with power according to the Spirit of holiness (Rom 1:3-4) |
-|181| The Counselor (Isa 9:6) | 740 - 680 BC | ...where did He get such wisdom (Mat 13:54) |
+|181| The Counsellor (Isa 9:6) | 740 - 680 BC | ...where did He get such wisdom (Mat 13:54) |
 |182| The Everlasting Father (Isa 9:6) | 740 - 680 BC |  Jesus replied, I assure you and most solemnly say to you, before Abraham was born, I Am. (John 8:58, 10:30) |
 |183| The Prince of Peace (Isa 9:6) | 740 - 680 BC | I have told you these things, so that in Me you may have perfect peace (John 16:33) |
 |184| To establish an everlasting kingdom (Isa 9:7) | 740 - 680 BC | And He will reign over the house of Jacob forever and of His kingdom there will be no end (Luke 1:32-33) |
@@ -337,7 +337,7 @@ infinite, that go beyond what we might expect or calculate!
 |200| His power of Resurrection predicted (Isa 26:19) | 740 - 680 BC | and the graves were opened; and many bodies of the saints who had fallen asleep were raised; and coming out of the graves after His resurrection, they went into the holy city and appeared to many (Mat 27:50-54) |
 |201| The Messiah is the precious cornerstone (Isa 28:16) | 740 - 680 BC | This is the 'stone which was rejected by you builders, which has become the chief cornerstone' (Acts 4:11-12) |
 |202| The Sure Foundation (Isa 28:16) | 740 - 680 BC | For no other foundation can anyone lay than that which is laid, which is Jesus Christ (1 Cor 3:11, Mat 16:18) |
-|203| He indicated hypocritical obedience to His Word (Isa 29:13) | 740 - 680 BC | These people draw near to Me with their mouth and honor Me with their lips, But their heart is far from Me.(Mat 15:7-9) |
+|203| He indicated hypocritical obedience to His Word (Isa 29:13) | 740 - 680 BC | These people draw near to Me with their mouth and honour Me with their lips, But their heart is far from Me.(Mat 15:7-9) |
 |204| The wise are confounded by the Word (Isa 29:14) | 740 - 680 BC | Where is the wise? Where is the scribe? Where is the disputer of this age? Has not God made foolish the wisdom of this world? (1 Cor 1:18-31) |
 |205| A refuge - a hiding place (Isa 32:2) | 740 - 680 BC | How often I wanted to gather your children together, as a hen gathers her chicks under her wings (Mat 23:37) |
 |206| He will come and save you (Isa 35:4) | 740 - 680 BC | and you shall call His name Jesus, for He will save His people from their sins (Mat 1:21) |
@@ -347,15 +347,15 @@ infinite, that go beyond what we might expect or calculate!
 |210| He will come to reward (Isa 40:10) | 740 - 680 BC | I am coming quickly and My reward is with Me, to give to every one according to his work (Rev 22:12) |
 |211| A shepherd - compassionate life-giver (Isa 40:11) | 740 - 680 BC | I am the good shepherd. The good shepherd gives His life for the sheep (John 10:10-18) |
 |212| The Servant - as a faithful, patient redeemer (Isa 42:1-4) | 740 - 680 BC | Behold! My Servant whom I have chosen, My Beloved in whom My soul is well pleased (Mat 12:18-21) |
-|213| Meek and lowly (Isa 42:2) | 740 - 680 BC | Come to Me, all you who labor and are heavy laden and I will give you rest (Mat 11:28-30) |
+|213| Meek and lowly (Isa 42:2) | 740 - 680 BC | Come to Me, all you who labour and are heavy laden and I will give you rest (Mat 11:28-30) |
 |214| He brings hope for the hopeless (Isa 42:3) | 740 - 680 BC | Jesus as the source of our living hope is (1 Pet 1:3) |
 |215| The nations shall wait on His teachings (Isa 42:4) | 740 - 680 BC | Most assuredly, I say to you, unless a grain of wheat falls into the ground and dies, it remains alone; but if it dies, it produces much grain (John 12:20-26) |
 |216| The Light (salvation) of the Gentiles (Isa 42:6) | 740 - 680 BC | A light to bring revelation to the Gentiles and the glory of Your people Israel (Luke 2:32) |
 |217| His is a worldwide compassion (Isa 42:1-6) | 740 - 680 BC | Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, (Mat 28:19-20) |
 |218| Blind eyes opened (Isa 42:7) | 740 - 680 BC | Whether He is a sinner or not I do not know. One thing I know: that though I was blind, now I see (John 9:25-38) |
-|219| He is the only Savior (Isa 43:11) | 740 - 680 BC | Nor is there salvation in any other, for there is no other name under heaven given among men by which we must be saved (Acts 4:12) |
+|219| He is the only Saviour (Isa 43:11) | 740 - 680 BC | Nor is there salvation in any other, for there is no other name under heaven given among men by which we must be saved (Acts 4:12) |
 |220| He will send the Spirit of God (Isa 44:3) | 740 - 680 BC |  It is to your advantage that I go away; for if I do not go away, the Helper will not come to you; but if I depart, I will send Him to you. (John 16:7-13) |
-|221| He is Lord and Savior (Isa 45:21-25) | 740 - 680 BC | from which we also eagerly wait for the Savior, the Lord Jesus Christ (Phil 3:20, Titus 2:13) |
+|221| He is Lord and Saviour (Isa 45:21-25) | 740 - 680 BC | from which we also eagerly wait for the Saviour, the Lord Jesus Christ (Phil 3:20, Titus 2:13) |
 |222| He will be the Judge (Isa 45:23) | 740 - 680 BC | As I live, says the Lord, Every knee shall bow to Me and every tongue shall confess to God (John 5:22, Rom 14:11) |
 |223| Declares things not yet done (Isa 46:9-10) | 740 - 680 BC | Now I tell you before it comes, so that when it does come to pass, you may believe that I am He (John 13:19) |
 |224| The First and the Last (Isa 48:12) | 740 - 680 BC | The Alpha and the Omega (John 1:30, Rev 1:8, 17) |
@@ -368,7 +368,7 @@ infinite, that go beyond what we might expect or calculate!
 |231| He is Salvation unto the ends of the earth (Isa 49:6) | 740 - 680 BC | And I will set it up; So that the rest of mankind may seek the Lord, Even all the Gentiles who are called by My name (Acts 15:7-18) |
 |232| He is despised of the Nation (Isa 49:7) | 740 - 680 BC | He came to His own and His own did not receive Him. (John 1:11, 8:48-49, 19:14-15) |
 |233| I clothe the heavens with blackness and I make sackcloth their covering (Isa 50:3) | 740 - 680 BC | Now it was about the sixth hour and there was darkness over all the earth until the ninth hour. 45 Then the sun was darkened (Luke 23:44-45) |
-|234| He is a learned counselor for the weary (Isa 50:4) | 740 - 680 BC | Come to Me, all you who labor and are heavy laden and I will give you rest (Mat 11:28-29) |
+|234| He is a learned Counsellor for the weary (Isa 50:4) | 740 - 680 BC | Come to Me, all you who labour and are heavy laden and I will give you rest (Mat 11:28-29) |
 |235| He came to serve and was bound willingly to obedience (Isa 50:5) | 740 - 680 BC | O My Father, if it is possible, let this cup pass from Me; nevertheless, not as I will, but as You will. (Mat 26:39) |
 |236| I gave my back to those who struck Me (Isa 50:6a) | 740 - 680 BC | ... and when he [Pilate] had scourged Jesus, he delivered Him to be crucified (Mat 27:26) |
 |237| He was smitten on the cheeks (Isa 50:6b) | 740 - 680 BC | Then they spat in His face and beat Him; and others struck Him with the palms of their hands (Mat 26:67) |
@@ -386,14 +386,14 @@ infinite, that go beyond what we might expect or calculate!
 |249| Men hide from being associated with Him (Isa 53:3d) | 740 - 680 BC | Then all the disciples forsook Him and fled (Mat 26:56, Mark 14:50-52) |
 |250| He would have a healing ministry (Isa 53:4a) | 740 - 680 BC | And He cast out the spirit's with a word and healed all who were sick (Mat 8:16-17) |
 |251| Thought to be cursed by God (Isa 53:4b) | 740 - 680 BC | They answered and said, 'He is deserving of death' (Mat 26:66, 27:41-43) |
-|252| Bears penalty for mankind's iniquities (Isa 53:5a) | 740 - 680 BC | Jesus for His suffering of death was crowned with glory and honor, that He, by the grace of God, might taste death for everyone (2 Cor 5:21, Heb 2:9) |
+|252| Bears penalty for mankind's iniquities (Isa 53:5a) | 740 - 680 BC | Jesus for His suffering of death was crowned with glory and honour, that He, by the grace of God, might taste death for everyone (2 Cor 5:21, Heb 2:9) |
 |253| His sacrifice provides peace between man and God (Isa 53:5b) | 740 - 680 BC | and by Him to reconcile all things to Himself, by Him, whether things on earth or things in heaven, having made peace through the blood of His cross (Col 1:20) |
 |254| His back would be whipped (Psa 129:3) | 740 - 680 BC | Pilate had scourged Jesus, he delivered Him to be crucified (Mat 27:26) |
 |255| His sacrifice would heal man of sin (Isa 53:5c) | 740 - 680 BC | who Himself bore our sins in His own body on the tree, that we, having died to sins, might live for righteousness-by whose stripes you were healed (1 Pet 2:24) |
 |256| He would be the sin-bearer for all mankind (Isa 53:6a) | 740 - 680 BC | And He Himself is the propitiation for our sins and not for ours only but also for the whole world (1 John 2:2, 4:10) |
 |257| God's will that He bear sin for all mankind (Isa 53:6b) | 740 - 680 BC | who gave Himself for our sins, that He might deliver us from this present evil age (Gal 1:4) |
 |258| Oppressed and afflicted (Isa 53:7a) | 740 - 680 BC | The humiliation and suffering Jesus endured before His death (Mat 27:27-31) |
-|259| Silent before his accusers (Isa 53:7b) | 740 - 680 BC | 'Do You not hear how many things they testify against You?' But Jesus answered him not one word, so that the governor marveled greatly (Mat 27:12-14) |
+|259| Silent before his accusers (Isa 53:7b) | 740 - 680 BC | 'Do You not hear how many things they testify against You?' But Jesus answered him not one word, so that the governor marvelled greatly (Mat 27:12-14) |
 |260| Sacrificial lamb (Isa 53:7c) | 740 - 680 BC | Behold! The Lamb of God who takes away the sin of the world (John 1:29, 1 Pet 1:18-19) |
 |261| Confined and persecuted (Isa 53:8a) | 740 - 680 BC | The humiliation and suffering Jesus endured before His death (Mat 26:47-27:31) |
 |262| He would be judged (Isa 53:8b) | 740 - 680 BC | Jesus was judged by the high priest and then by Pilate (John 18:13-22) |
@@ -419,13 +419,13 @@ infinite, that go beyond what we might expect or calculate!
 |282| He is a leader and commander (Isa 55:4b) | 740 - 680 BC | And by Him to reconcile all things to Himself, by Him, whether things on earth or things in heaven, having made peace through the blood of His cross. (Col 1:19-20) |
 |283| God would glorify Him (Isa 55:5) | 740 - 680 BC | The God of our fathers, glorified His Servant Jesus, whom you delivered up and denied (Acts 3:13) |
 |284| Inhabit's eternity, lives in hearts (Isa 57:15) | 740 - 680 BC | For with the heart one believes unto righteousness and with the mouth confession is made unto salvation (Rom 10:10) |
-|285| His ministry set the captives free | (Isa 58:6) | 740 - 680 BC | The Spirit of the Lord is upon Me, ... He has sent Me to heal the brokenhearted, to proclaim liberty to the captives (Luke 4:17-18) |
+|285| His ministry set the captives free | (Isa 58:6) | 740 - 680 BC | The Spirit of the Lord is upon Me, ... He has sent Me to heal the broken-hearted, to proclaim liberty to the captives (Luke 4:17-18) |
 |286| Intercessor between man and God (Isa 59:16a) | 740 - 680 BC | Who is even at the right hand of God, who also makes intercession for us (Rom 8:34) |
 |287| He would come to provide salvation (Isa 59:16b) | 740 - 680 BC | Everyone who sees the Son and believes in Him may have everlasting life (John 3:16, 6:40) |
 |288| He would come to Zion as their Redeemer (Isa 59:20) | 740 - 680 BC | She gave thanks to the Lord and spoke of Him to all those who looked for redemption in Jerusalem (Luke 2:38) |
 |289| He would show light to the Gentiles (Isa 60:1-3) | 740 - 680 BC | Jesus proclaimed light to the Jewish people and to the Gentiles (Acts 26:23) |
 |290| The Spirit of God upon him (Isa 61:1a) | 740 - 680 BC | Jesus came up immediately from the water; and behold, the heavens were opened to Him and He saw the Spirit of God descending like a dove (Mat 3:16-17) |
-|291| The Messiah would preach the good news (Isa 61:1b) | 740 - 680 BC | ... 'To preach the gospel to the poor; He has sent Me to heal the brokenhearted...'Today this Scripture is fulfilled in your hearing (Luke 4:16-21) |
+|291| The Messiah would preach the good news (Isa 61:1b) | 740 - 680 BC | ... 'To preach the gospel to the poor; He has sent Me to heal the broken-hearted...'Today this Scripture is fulfilled in your hearing (Luke 4:16-21) |
 |292| Provide freedom from the bondage of sin (Isa 61:1c) | 740 - 680 BC | And you shall know the truth and the truth shall make you free (John 8:31-36) |
 |293| Proclaim a period of grace (Isa 61:1-2a) | 740 - 680 BC | Jesus came to redeem those who were under the law, that we might receive the adoption as sons (Gal 4:4-5) |
 |294| Power to save (Isa 61:3) | 740 - 680 BC | that you may know that the Son of Man has power on earth to forgive sins (Mat 9:6) |
@@ -437,7 +437,7 @@ infinite, that go beyond what we might expect or calculate!
 |300| Descendant of David (Jer 33:14-15) | 627 - 586 BC | David is in the genealogy of Jesus (Luke 3:23-31) |
 |301| Spoke the words of God (Ezek 2:1) | 592 - 570 BC | I have given to them the words which You have given Me (Mat 1:1) |
 |302| Descendant of David (Ezek 17:22-24, 34:23-24, 37:24-25) | 592 - 570 BC | David is in the genealogy of Jesus (Mat 1:1) |
-|303| Men marvel with amazement (Ezek 32:10) | 592 - 570 BC |  he departed and began to proclaim in Decapolis all that Jesus had done for him; and all marveled. (Mark 5:20) |
+|303| Men marvel with amazement (Ezek 32:10) | 592 - 570 BC |  he departed and began to proclaim in Decapolis all that Jesus had done for him; and all marvelled. (Mark 5:20) |
 |304| The Stone that shall break the kingdoms (Dan 2:44-45) | 605 - 536 BC | And whoever falls on this stone will be broken; but on whomever it falls, it will grind him to powder (Mat 21:44) |
 |305| He would ascend into heaven (Dan 7:13-14a) | 605 - 536 BC | Now when He had spoken these things, while they watched, He was taken up and a cloud received Him out of their sight (Acts 1:9-11) |
 |306| Highly exalted (Dan 7:13-14b) | 605 - 536 BC | and seated Him at His right hand in the heavenly places, far above all principality and power and might and dominion and every name that is named, not only in this age but also in that which is to come (Eph 1:20-21, Heb 1:8) |
@@ -472,7 +472,7 @@ infinite, that go beyond what we might expect or calculate!
 |335| The cornerstone (Zech 10:4) | 630 BC | The stone which the builders rejected Has become the chief cornerstone. (Mat 21:42-43) |
 |336| At His coming, Israel to have unfit leaders (Zech 11:4-6a) | 630 BC | For they bind heavy burdens, hard to bear and lay them on men's shoulders; but they themselves will not move them with one of their fingers (Mat 23:1-4) |
 |337| Rejection causes God to remove His protection (Zech 11:4-6b) | 630 BC | For days will come upon you when your enemies will build an embankment around you, surround you and close you in on every side. Level you and your children within you, to the ground; and they will not leave in you one stone upon another (Luke 19:41-44) |
-|338| Rejected in favor of another king (Zech 11:4-6c) | 630 BC | he said to the Jews, 'Behold your King'... Pilate said to them, 'Shall I crucify your King?' The chief priests answered, 'We have no king but Caesar! (John 19:13-15) |
+|338| Rejected in favour of another king (Zech 11:4-6c) | 630 BC | he said to the Jews, 'Behold your King'... Pilate said to them, 'Shall I crucify your King?' The chief priests answered, 'We have no king but Caesar! (John 19:13-15) |
 |339| Ministry to poor, the believing remnant (Zech 11:7) | 630 BC | Then Jesus went about all the cities and villages, teaching in their synagogues, preaching the gospel of the kingdom and healing every sickness and every disease among the people (Mat 9:35-36) |
 |340| Unbelief forces Messiah to reject them (Zech 11:8a) | 630 BC |  Serpents, brood of vipers [the Pharisees]! How can you escape the condemnation of hell? (Mat 23:33) |
 |341| Despised (Zech 11:8b) | 630 BC | But the chief priests and elders persuaded the multitudes that they should ask for Barabbas and destroy Jesus (Mat 27:20) |

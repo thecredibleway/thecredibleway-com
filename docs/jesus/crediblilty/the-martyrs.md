@@ -13,7 +13,7 @@ keywords: ["why did Jesus come","purpose of Jesus' life","mission of Jesus Chris
 People were drawn to Jesus Christ because it wasn't just empty teaching - His message had life, hope,
 love and salvation! He preached with authority and miracles followed! People heard His parables and
 recognized Him as the promised Messiah. Jesus said *the Spirit of the Lord is upon Me, because He has
-anointed Me To preach the gospel to the poor; He has sent Me to heal the brokenhearted, to proclaim
+anointed Me To preach the gospel to the poor; He has sent Me to heal the broken-hearted, to proclaim
 liberty to the captives and recovery of sight to the blind, to set at liberty those who are
 oppressed ([Luke 4:18](https://www.biblegateway.com/passage/?search=Luke%204%3A18&version=NKJV))*. 
 
@@ -153,7 +153,7 @@ Barnabas played a crucial role in the integration of Paul (formerly Saul) into t
 community after Paul's dramatic conversion. When the other disciples were hesitant to accept
 Paul due to his past persecution of Christians, Barnabas vouched for him and introduced him to
 the apostles ([Acts 9:26–27](https://www.biblegateway.com/passage/?search=Acts%209%3A26%E2%80%9327&version=NKJV)).
-Barnabas later joined Paul on his first missionary journey, traveling
+Barnabas later joined Paul on his first missionary journey, ling
 through Cyprus and parts of Asia Minor to spread the gospel. He was instrumental in preaching to
 both Jews and Gentiles, helping establish new churches. Although he and Paul later parted ways
 due to a disagreement over John Mark, Barnabas continued his missionary work.
@@ -273,7 +273,7 @@ Bartholomew, also known as Nathanael in the Gospel of John and is often remember
 honest and sincere character. Upon first meeting Jesus, Bartholomew was amazed that Jesus
 knew him intimately, prompting his immediate belief
 ([John 1:45–51](https://www.biblegateway.com/passage/?search=John%201%3A45%E2%80%9351&version=NKJV)).
-After the resurrection and ascension of Christ, Bartholomew traveled extensively to spread the Gospel
+After the resurrection and ascension of Christ, Bartholomew travelled extensively to spread the Gospel
 in Mesopotamia, Persia, Arabia and then India, where he is credited with bringing Christianity and leaving
 behind a copy of the gospel of Matthew.
 
@@ -284,15 +284,15 @@ flayed alive and then beheaded.
 #### Matthew
 
 Matthew (Levi), the former tax collector, authored the gospel bearing his name. After Pentecost, he
-preached in Judea and later traveled to Ethiopia and Persia. He is credited with converting
+preached in Judea and later travelled to Ethiopia and Persia. He is credited with converting
 a Ethiopian king, Egippus and his daughter. When the king died and the new ruler came to power,
-Matthew criticized the king's immoral behavior, for which he was martyred by the sword.
+Matthew criticized the king's immoral behaviour, for which he was martyred by the sword.
 
 #### Thomas
 
 Thomas (Didymus), was known for doubting Jesus' resurrection until he saw Him; but later showed
 great faith and courage. He started the Church of the East in the region of Edessa and Hakkari of
-Upper Mesopotamia (modern day southeast Turkey) and then traveled through Persia and eventually
+Upper Mesopotamia (modern day southeast Turkey) and then travelled through Persia and eventually
 reached India, where he founded seven churches the most famous being the Mar Thoma Church and
 preached to locals and the Brahmins in Kerala and Tamil Nadu - and his tomb remains in Mylapore
 (modern day Chennai). Thomas was martyred by being speared to death after offending local priests
@@ -319,7 +319,7 @@ Jesus.
 #### Simon the Zealot
 
 Simon, distinguished from Peter by his epithet 'the Zealot', likely belonged to a Jewish
-revolutionary movement. After Pentecost though, he traveled to Egypt and then partnered
+revolutionary movement. After Pentecost though, he travelled to Egypt and then partnered
 with Thaddeus in Persia and then went as far as Britain to carry the good news of Jesus
 Christ. It is believed he was martyred in Persia when he was sawn in half, for his faith.
 
@@ -349,7 +349,7 @@ beasts, or crucified.
 
 When Roman authorities demanded he renounce Christ and worship Caesar, Polycarp famously replied,
 "Eighty and six years have I served Him and He never did me any injury; how then can I blaspheme
-my King and Savior?" Refusing to recant, he was burned at the stake - when flames did not harm him,
+my King and Saviour?" Refusing to recant, he was burned at the stake - when flames did not harm him,
 he was ultimately killed by a sword.
 
 :::
@@ -415,12 +415,12 @@ upheavals of the 16th and 17th centuries.
 
 ### The Modern Era (20th Century to Present)
 
-From the Reformation onward, martyrdom reemerged in the context of religious conflict, colonization and later,
-ideological persecution. ***The 20th century has been labeled by some scholars as the century of martyrs**,
+From the Reformation onward, martyrdom re-emerged in the context of religious conflict, colonization and later,
+ideological persecution. ***The 20th century has been labelled by some scholars as the century of martyrs**,
 with more Christians reportedly dying for their faith than in all previous centuries combined.*
 
 Under totalitarian regimes like the Soviet Union, Nazi Germany and Communist China, countless Christians
-were imprisoned, tortured, or killed for practicing or spreading their faith. For example, **Dietrich Bonhoeffer**,
+were imprisoned, tortured, or killed for practising or spreading their faith. For example, **Dietrich Bonhoeffer**,
 a German pastor, was executed for opposing Hitler and participating in a plot to overthrow him. Countless clergy
 under the Communist rule have suffered imprisonment, torture and death.
 

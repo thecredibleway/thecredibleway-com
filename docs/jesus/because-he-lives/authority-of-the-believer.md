@@ -19,7 +19,7 @@ God's kingdom on earth.
 
 God is the ultimate source of all authority (Romans 13:1) and He delegates this authority
 through Christ, to His people. When Jesus ministered on earth, people
-marveled at His authority. *"He taught them as one who had authority, not as their teachers
+marvelled at His authority. *"He taught them as one who had authority, not as their teachers
 of the law"* ([Mat 7:29](https://www.biblegateway.com/passage/?search=Mat%207%3A29&version=NKJV)).
 This authority wasn't just about teaching - it included power over sickness, sin, nature and demons.
 

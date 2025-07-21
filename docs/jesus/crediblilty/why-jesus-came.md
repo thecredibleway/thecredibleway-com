@@ -58,7 +58,7 @@ and grace!
 
 Jesus came not just to offer forgiveness - but to proclaim and establish the reign of God.
 At the heart of His message was the declaration that God's Kingdom had broken into the world through Him -
-a present spiritual reality with a future global fulfillment.
+a present spiritual reality with a future global fulfilment.
 
 :::note[The kingdom of God has come near]
 
@@ -188,13 +188,13 @@ Kingdom in tangible ways.
 
 :::tip[To be a disciple is to say]
 
-Jesus is not only my Savior - He is my Lord, my Teacher, my Leader and the one I will follow with my whole life
+Jesus is not only my Saviour - He is my Lord, my Teacher, my Leader and the one I will follow with my whole life
 
 :::
 
-## To Fulfill God's Promises
+## To Fulfil God's Promises
 
-Jesus didn't emerge in history by accident or as an isolated spiritual figure - He is the long anticipated fulfillment
+Jesus didn't emerge in history by accident or as an isolated spiritual figure - He is the long anticipated fulfilment
 of God's redemptive plan, foretold through the prophets and promised across centuries. His life, death and resurrection
 are not only significant events; they are the climax of divine prophecy and the confirmation that God keeps His word.
 
@@ -205,12 +205,12 @@ Do not think that I have come to abolish the Law or the Prophets; I have not com
 
 :::
 
-Throughout the Scriptures, God spoke of a coming Savior - one who would crush the serpent, bless the nations, bear the
+Throughout the Scriptures, God spoke of a coming Saviour - one who would crush the serpent, bless the nations, bear the
 sins of many and establish an eternal kingdom. [Jesus fulfilled more than 350 messianic prophecies.](./prophecies-fulfilled#350-prophecies-fulfilled-by-jesus)
 By fulfilling the Law and Prophets, Jesus didn't discard the Old Testament - He brought it to life, revealing it's
 deeper meaning and perfect purpose. From Abraham to David to Isaiah, every promise finds it's *Yes and Amen* in Him
 ([2 Cor 1:20](https://www.biblegateway.com/passage/?search=2%20Cor%201%3A20&version=NKJV))
-His fulfillment of Scripture proves not only that God is sovereign over history, but that His love, patience and purpose
+His fulfilment of Scripture proves not only that God is sovereign over history, but that His love, patience and purpose
 stretch across generations.
 
 Jesus is the thread that weaves together the entire Bible - from Genesis to Revelation - offering hope that is rooted

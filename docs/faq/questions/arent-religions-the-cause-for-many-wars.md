@@ -12,7 +12,7 @@ keywords: ["Aren't religions the cause of wars?","Aren't religions the cause for
 
 This is a common objection to religion in general, and Christianity in particular. Critics argue
 that religion is inherently divisive and violent, claiming it has caused more wars and bloodshed than any
-other human endeavor. At first glance, this accusation *seems* plausible - history has its share of
+other human endeavour. At first glance, this accusation *seems* plausible - history has its share of
 conflicts involving religious factions. But when we look beyond slogans and headlines and into historical
 data and philosophical foundations, a very different picture emerges.
 
@@ -41,7 +41,7 @@ that religion is uniquely violent.
 ## Misusing Religion vs. Religion Itself
 
 It's important to make a distinction between people misusing religion and the actual teachings of religion.
-Christianity, at its core, teaches love for one's neighbor, turning the other cheek, and peace with all
+Christianity, at its core, teaches love for one's neighbour, turning the other cheek, and peace with all
 people as far as it depends on you
 ([Rom 12:18](https://www.biblegateway.com/passage/?search=Rom%2012%3A18&version=NKJV)). *Yes, there have
 been some wars started in the name of Christianity - **but not because Christ told them to or taught them to**; but

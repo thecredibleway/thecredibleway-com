@@ -68,7 +68,7 @@ we see a recurring theme: God is involved in the details of your life.
 thoughts and has written every day of your life in His book"*.
 [Eph 2:10](https://www.biblegateway.com/passage/?search=eph%202%3A10&version=NKJV) adds that *"we are His workmanship, created in Christ
 Jesus for good works, which God prepared in advance for us to do."* This reveals a divine purpose tailored for your life - work,
-relationships and service that bring fulfillment and align with God's kingdom.
+relationships and service that bring fulfilment and align with God's kingdom.
 
 God's plan isn't always easy or clear in the moment, but the Bible promises He is always working for your good
 ([Rom 8:28](https://www.biblegateway.com/passage/?search=rom%208%3A28&version=NKJV)), even through trials. His desire is for

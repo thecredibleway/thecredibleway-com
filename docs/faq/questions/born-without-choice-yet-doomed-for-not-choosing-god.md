@@ -61,7 +61,7 @@ Or, you can step into the rescue boat.
 **So what do you choose?**
 
 This is the core of the Christian message. God sees that we are all on the sinking ship of a broken world. We were born
-into a system marred by sin, suffering, and death. **And God, in His mercy, sends a Savior - Jesus Christ**. He offers rescue.
+into a system marred by sin, suffering, and death. **And God, in His mercy, sends a Saviour - Jesus Christ**. He offers rescue.
 **Not because we deserve it. Not because we asked for it. But because He loves us.**
 
 So the problem isn't that you didn't choose to be born. The problem is, now that you're here and in trouble, will
@@ -105,7 +105,7 @@ because *it's your best and only option.*
 
 ## Why Not Take the Rescue?
 
-This brings us to the final, and perhaps most challenging, part of the real question - **"If God sends a Savior, why would I reject Him?"**
+This brings us to the final, and perhaps most challenging, part of the real question - **"If God sends a Saviour, why would I reject Him?"**
 
 It's a fair question - and it gets to the heart of human pride. Sometimes people don't want to be rescued. Sometimes it's
 because they don't believe they're in danger. Other times it's because they don't want to owe anyone. Or maybe they
@@ -123,6 +123,6 @@ He sent His Son, not to condemn the world, but to save it
 But He also gives us the freedom to reject Him. **And that's what makes this not a question of fate, but of responsibility!**
 God is our loving Father (Eph 3:14-15) and we can part of His family.
 
-The Savior stands in the boat, hand outstretched. *The invitation is real. **The choice is yours.***
+The Saviour stands in the boat, hand outstretched. *The invitation is real. **The choice is yours.***
 
 And perhaps the correct question here is not, *"Why am I here?"* but *"Now that I am here, what will I do with Jesus?"*

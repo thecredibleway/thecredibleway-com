@@ -11,7 +11,7 @@ keywords: ["What about people who never heard the Gospel?","What about people wh
 # What About People Who Never Heard the Gospel?
 
 The question of what happens to those who never hear the Gospel is one that has weighed heavily on the minds of both
-believers and skeptics alike. It touches on issues of divine justice, mercy and the universality of God's salvation
+believers and sceptics alike. It touches on issues of divine justice, mercy and the universality of God's salvation
 plan. Christianity provides an answer rooted in Scripture while also addressing the heart of the human condition.
 
 At the heart of this discussion is a crucial understanding of God's nature - He is both just and merciful. As the
@@ -98,7 +98,7 @@ And how can they hear without someone preaching to them?"*
 
 The command to make disciples of all nations is **not merely a suggestion; it is a divine imperative**
 ([Matt 28:19-20](https://www.biblegateway.com/passage/?search=Matt%2028%3A19-20&version=NKJV)). We are called to
-actively reach out to the lost, whether they are in our neighborhood or on the other side of the world. The fate
+actively reach out to the lost, whether they are in our neighbourhood or on the other side of the world. The fate
 of the lost is serious - eternal life or eternal separation from God is at stake. *It is not enough to sit idly by,
 knowing that the message of salvation is available.* Like the parable of the Good Samaritan
 ([Luke 10:25-37](https://www.biblegateway.com/passage/?search=Luke%2010%3A25-37&version=NKJV)), we are to show mercy

@@ -79,7 +79,7 @@ of our inheritance ([2 Cor 1:22](https://www.biblegateway.com/passage/?search=2%
 
 #### The Spirit Regenerates
 
-The Christian life begins not with behavior change but with new birth. Jesus told Nicodemus, *"Unless one is
+The Christian life begins not with behaviour change but with new birth. Jesus told Nicodemus, *"Unless one is
 born of water and the Spirit, he cannot enter the kingdom of God"*
 ([John 3:5](https://www.biblegateway.com/passage/?search=john%203%3A5&version=NKJV)). The Holy Spirit regenerates
 the heart (restoring relationship with God), making a person spiritually alive. This is what it means to be *born again*.
@@ -106,7 +106,7 @@ supernatural boldness and daily strength for living a godly life.
 
 #### The Spirit Guides
 
-The Holy Spirit is our Counselor and Guide. He leads believers in truth, reveals the will of God and provides
+The Holy Spirit is our Counsellor and Guide. He leads believers in truth, reveals the will of God and provides
 wisdom in difficult decisions.
 [Romans 8:14](https://www.biblegateway.com/passage/?search=Romans%208%3A14&version=NKJV) says, *"For all who
 are led by the Spirit of God are sons of God."*
@@ -214,7 +214,7 @@ Through the Spirit, we are not just saved - we are sent to the world.
 The Holy Spirit is God's personal, powerful and permanent gift to every believer. *He was given to you by
 Jesus - **not as an optional extra, but as an essential part of your Christian life***.
 
-He is your Comforter, your Counselor, your Advocate and your Strength. Through Him, you are equipped
+He is your Comforter, your Counsellor, your Advocate and your Strength. Through Him, you are equipped
 for godliness, empowered for mission and invited into deep fellowship with the living God.
 
 :::tip[Freedom]

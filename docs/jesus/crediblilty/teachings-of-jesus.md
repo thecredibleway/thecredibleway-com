@@ -35,7 +35,7 @@ The kingdom of God does not come with observation...For indeed, the kingdom of G
 It is wherever God's authority is acknowledged and His peace, love and righteousness are
 lived out in people's hearts or in communities. His Kingdom takes dominion over darkness and evil,
 pushing back the brokenness of this world with the power of His truth and grace. It also points
-toward a future fulfillment, when evil is fully eradicated and God's perfect rule is established forever.
+toward a future fulfilment, when evil is fully eradicated and God's perfect rule is established forever.
 
 :::tip[The Kingdom of God]
 
@@ -92,7 +92,7 @@ In every word and work, Jesus made it clear - **the Kingdom is here! and it's wo
 
 At the heart of Jesus teaching is love - this is the greatest commandment. To love God with all of these is to
 orient every part of oneself toward Him. It's a call to an all-encompassing, covenantal relationship
-rather than mere religious duty. Equally, 'loving your neighbor' challenges believers to see others
+rather than mere religious duty. Equally, 'loving your neighbour' challenges believers to see others
 with the same dignity, care and grace they would extend to themselves. It requires empathy, humility and
 active compassion.
 
@@ -100,7 +100,7 @@ active compassion.
 
 Jesus said to him, "You shall love the Lord your God with all your heart, with all your soul and with
 all your mind." This is the first and great commandment. And the second is like it: "You shall love
-your neighbor as yourself."
+your neighbour as yourself."
 
 :::
 
@@ -108,7 +108,7 @@ This perfectly encapsulates the essence of the entire moral and spiritual life f
 [Deut 6:5](https://www.biblegateway.com/passage/?search=Deut%206%3A5&version=NKJV) and
 [Lev 19:18](https://www.biblegateway.com/passage/?search=Lev%2019%3A18&version=NKJV), Jesus synthesizes the
 Law and the Prophets into two simple but profoundly demanding commandments. This dual commandment - love of
-God and love of neighbor - forms the bedrock of Christian ethics. Jesus then went to expand on this with a
+God and love of neighbour - forms the bedrock of Christian ethics. Jesus then went to expand on this with a
 radical call to love even enemies.
 
 :::info[A new commandment]
@@ -151,7 +151,7 @@ Blessed are those who are persecuted for righteousness' sake,
 ``` 
 :::
 
-Jesus told Christians that they were the salt and light of the earth; and if the salt lost it's flavor,
+Jesus told Christians that they were the salt and light of the earth; and if the salt lost it's flavour,
 (their life doesn't bear fruit) then it was as good as being thrown out and trampled on. He added that
 their light should shine before men, not so they themselves get rewards or glory, but so that God would
 be glorified and people come to Him. **Jesus didn't come to destroy the Law or the Prophets; rather he
@@ -172,7 +172,7 @@ her has already committed adultery with her in his heart (v27-28)
 You have heard... 'An eye for an eye and a tooth for a tooth' ... But whoever slaps you on your right cheek,
 turn the other to him also (v38-39)
 
-You have heard... 'You shall love your neighbor and hate your enemy.' But I say to you, love your enemies,
+You have heard... 'You shall love your neighbour and hate your enemy.' But I say to you, love your enemies,
 bless those who curse you, do good to those who hate you and pray for those who spitefully use you and
 persecute you (v43-45)
 
@@ -222,8 +222,8 @@ God's rule.
 
 These are some of the key parables and their meanings
 - The Good Samaritan ([Luke 10:25–37](https://www.biblegateway.com/passage/?search=Luke%2010%3A25%E2%80%9337&version=NKJV)):
-True neighborly love transcends ethnicity or religion. Jesus redefines the question from *Who is my neighbor?* to
-*What does it mean to be a neighbor?*
+True neighbourly love transcends ethnicity or religion. Jesus redefines the question from *Who is my neighbour?* to
+*What does it mean to be a neighbour?*
 - The Prodigal Son ([Luke 15:11–32](https://www.biblegateway.com/passage/?search=Luke%2015%3A11%E2%80%9332&version=NKJV)):
 God's mercy embraces even the most wayward who repent. It contrasts two spiritual postures: the repentant younger son and
 the self-righteous elder brother. The father's grace transcends both failure and pride. It reminds us that no one is beyond
@@ -307,7 +307,7 @@ but because forgiveness is the heartbeat of God's Kingdom. Those who have been f
 are called to forgive much. Holding onto bitterness, vengeance, or resentment is not only
 destructive to relationships but it places us at odds with the very mercy of God
 ([Mat 18:23–35](https://www.biblegateway.com/passage/?search=Mat%2018%3A23%E2%80%9335&version=NKJV)).
-Jesus also modeled forgiveness on the cross, forgiving and praying for the people that
+Jesus also modelled forgiveness on the cross, forgiving and praying for the people that
 were crucifying him:
 
 :::note[[Luke 23:34](https://www.biblegateway.com/passage/?search=Luke%2023%3A34&version=NKJV)]
@@ -325,7 +325,7 @@ but because He first forgave us (Eph 4:32).
 
 Central to Jesus' life and teaching is the invitation into a relationship of faith and trust with God -
 a relationship grounded not in fear or ritual, but in love, confidence and continual communion through prayer.
-Jesus constantly highlighted the power of faith and modeled a life of deep trust and prayerful dependence
+Jesus constantly highlighted the power of faith and modelled a life of deep trust and prayerful dependence
 on His Heavenly Father. In the Gospels, faith is never portrayed as mere intellectual belief. It is radical
 trust i.e., a full surrender to the reliability, goodness and power of God. Jesus frequently praised
 individuals not for their status or knowledge, but for their simple, bold faith in Him.
@@ -484,7 +484,7 @@ I am the resurrection and the life. The one who believes in me will live, even t
 ## In Summary
 
 The teachings of Jesus Christ are a profound synthesis of spiritual depth and faith in God; ethical
-rigor and compassionate outreach. At their core is a call to love - God above all and one's neighbor
+rigour and compassionate outreach. At their core is a call to love - God above all and one's neighbour
 as oneself. They challenge individuals to transform their inner life, serve others and trust in God's grace.
 
 Though delivered over 2000 years ago, Jesus words continue to resonate globally because they have life

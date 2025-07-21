@@ -18,7 +18,7 @@ It's teachings have inspired revolutions, guided reforms, uplifted the oppressed
 ## 1st to 4th Century: Foundations in the Roman World
 
 In the 1st century, Christianity emerged within the Roman Empire, a world dominated by polytheism, imperial cult worship,
-and rigid social hierarchies. The message of the New Testament that is centered on the life, death and resurrection of Jesus
+and rigid social hierarchies. The message of the New Testament that is centred on the life, death and resurrection of Jesus
 Christ spread rapidly, offering a radically different vision of human worth, divine justice and community.
 
 The Bible's emphasis on love, forgiveness and the equal value of every soul challenged Roman norms of class. The idea that
@@ -144,11 +144,11 @@ The Bible has shaped moral reasoning for centuries!
 
 :::tip[The Golden Rule]
 
-The concept of love your neighbor as a universal ethic comes from Jesus' teachings.
+The concept of love your neighbour as a universal ethic comes from Jesus' teachings.
 
 :::
 
-Ideas of justice, mercy, humility and service have molded both public and private life.
+Ideas of justice, mercy, humility and service have moulded both public and private life.
 
 It has motivated peace movements, charity and reconciliation efforts across nations.
 
@@ -158,7 +158,7 @@ Even non Christian societies have absorbed the Bible's moral vocabulary, whether
 
 From humble beginnings among persecuted 1st century believers to global recognition as a cultural and spiritual
 treasure, the Bible has had an unparalleled impact on human civilization. It has shaped laws, lifted the oppressed, ignited
-revolutions and consoled the suffering. It has influenced kings and peasants, artists and revolutionaries, skeptics and saints.
+revolutions and consoled the suffering. It has influenced kings and peasants, artists and revolutionaries, sceptics and saints.
 
 What makes the Bible unique is not only it's historical influence but it's enduring relevance. Across every era, it continues
 to speak - challenging injustice, offering hope and pointing to a transcendent truth. The Bible is not merely a relic of the

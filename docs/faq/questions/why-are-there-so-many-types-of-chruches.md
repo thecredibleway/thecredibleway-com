@@ -14,7 +14,7 @@ If there's "one Lord, one faith, one baptism" ([Eph 4:5](https://www.biblegatewa
 why are there thousands of Christian denominations around the world? To the outside observer, it can seem confusing - even
 hypocritical - for Christians who all claim to follow the same Bible to be so divided.
 
-The number of denominations is a common stumbling block for skeptics and a source of genuine concern for many believers. But
+The number of denominations is a common stumbling block for sceptics and a source of genuine concern for many believers. But
 understanding why these divisions exist - and what they do and don't mean can bring clarity and even deepen our
 appreciation for God's work throughout church history. 
 
@@ -88,7 +88,7 @@ and proclaim the gospel, reaching millions of people.
 
 Each of these movements contributed to the growing diversity of Christian denominations. Some emerged from
 deep conviction and theological clarity, others as responses to corruption or imbalance, and still others
-from unfortunate divisions fueled by pride, politics or misunderstandings. 
+from unfortunate divisions fuelled by pride, politics or misunderstandings. 
 
 #### Culture, Language and Geography
 
@@ -136,7 +136,7 @@ day God will judge us based on the Bible and where our faith and motives lie.
 
 Unity does not require uniformity. God's kingdom is made up of *"every tribe and language and people and nation"* 
 ([Rev 5:9](https://www.biblegateway.com/passage/?search=Rev%205%3A9&version=NKJV)). The Church's diversity in worship,
-culture and tradition can be beautiful - as long as it is submitted to God's Word and centered on the gospel.
+culture and tradition can be beautiful - as long as it is submitted to God's Word and centred on the gospel.
 
 As followers of Christ, we are called to uphold both truth and love in how we live and engage with others.
 Scripture exhorts us to speak the truth in love
@@ -168,17 +168,17 @@ While tradition can be rich and meaningful, it must never replace or override th
 :::
 
 We must be willing to let go of practices that don't align with God's Word, even if they're familiar or comfortable.
-Faithfulness to Christ always comes before comfort in tradition. This posture should lead us to pursue truth with
+faithfulness to Christ always comes before comfort in tradition. This posture should lead us to pursue truth with
 discernment and grace. At the same time, we should long for unity - not uniformity, but true unity in the essentials
 of the faith.
 
 In a world that is increasingly hostile to the gospel, the Church must stand together, across
-denominational lines, on the truth of Jesus Christ. The mission is too great, and the Savior too glorious, for us
+denominational lines, on the truth of Jesus Christ. The mission is too great, and the Saviour too glorious, for us
 to remain divided over what is secondary.
 
 ## One Lord, One Faith, One Body
 
-Yes, there are many denominations - but that doesn't mean there are many gospels. There is only one Savior, Jesus Christ
+Yes, there are many denominations - but that doesn't mean there are many gospels. There is only one Saviour, Jesus Christ
 who died for you and is the only one way to salvation - *"I am the way, the truth, and the life. No one comes to the Father except through Me."* ([John 14:6](https://www.biblegateway.com/passage/?search=john%2014%3A6&version=NKJV)).
 
 People in different denominations are genuine and sincere at heart, and love God the best they know how. 
@@ -186,7 +186,7 @@ Denominations reflect our humanity - our cultural differences, theological growt
 But they also remind us that no denomination, system or tradition can fully capture the glory of God's Church. The Church
 is not a building or a label; it's the redeemed people of God, united by faith in Christ.
 
-If you're looking for answers, know this - *you don't need a denomination to be saved*. **You need a Savior**. We were all
+If you're looking for answers, know this - *you don't need a denomination to be saved*. **You need a Saviour**. We were all
 sinners - broken, lost and separated from God ([Rom 3:23](https://www.biblegateway.com/passage/?search=Rom%203%3A23&version=NKJV)).
 No religious system can fix that. Only Jesus can. He came to live the life we couldn't live, die the death we deserved and
 rise again so we could be reconciled to God. Salvation is not found in rituals or rules - it's found in a person - Jesus Christ.

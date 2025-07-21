@@ -69,7 +69,7 @@ outside the system of laws created it!
 Another key aspect to understand is that God is not a material being. He is spirit
 ([John 4:24](https://www.biblegateway.com/passage/?search=John%204%3A24&version=NKJV)). While we can see and measure
 material objects, spirits are not bound by matter, energy, or time. This is why God cannot be subject to the same rules
-that govern the physical universe—like aging decay, or causality.
+that govern the physical universe—like ageing decay, or causality.
 
 The Bible often draws parallels between the *soul* and *life*, often using them as synonyms. Just as our soul gives life
 to our bodies and is not material; so too God, the giver of life, exists beyond the physical. Our bodies change and age
@@ -99,7 +99,7 @@ but [He invites us to know Him personally](../../jesus/because-he-lives/new-iden
 to experience the reality of His eternal nature, and to dwell with Him beyond time itself.
 
 You have a soul that lives on beyond your physical body for all eternity. To acknowledge God means facing
-the [reality of sin and the need for repentance and a savior in Jesus Christ](../../jesus/because-he-lives/salvation-and-redemption.md).
+the [reality of sin and the need for repentance and a saviour in Jesus Christ](../../jesus/because-he-lives/salvation-and-redemption.md).
 Jesus Christ paid the ultimate price with His life [so you can be restored to God](../../jesus/because-he-lives/i-can-face-tomorrow.md)
 
 Now you know the truth, what will you do? 

@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Christianity Claims Certainty While Science Offers Explanations | Christian Apologetics
 sidebar_label: Christianity Claims Certainty While Science Offers Explanations
-description: Explore the clear contrast between Christianity's certainty and science's ever-changing explanations. Why evolution falls short, morality requires a Creator, and our soul points to an eternal Savior.
+description: Explore the clear contrast between Christianity's certainty and science's ever-changing explanations. Why evolution falls short, morality requires a Creator, and our soul points to an eternal Saviour.
 keywords: ["Christianity claims certainty while science offers explanations","Christianity claims certainty even though science offers explanations","Christianity and science","evolution vs creation","missing link","speciation within kinds","absolute morality","atheism and morals","origin of the soul","evidence for God","certainty in Christianity","Christian worldview vs science"]
 ---
 
@@ -68,7 +68,7 @@ we are simply the product of chance, natural selection, and chemical processes, 
 than a social construct or survival mechanism.
 
 **Without a moral lawgiver, who's to say what is right or wrong?** One culture may condemn murder while another may
-justify *honor killings* or oppression. If evolution is true, and survival of the fittest is our guiding principle,
+justify *honour killings* or oppression. If evolution is true, and survival of the fittest is our guiding principle,
 then there is no objective basis for calling anything evil or good. Atheism, rooted in naturalism, cannot provide a
 foundation for absolute values, only preferences.
 

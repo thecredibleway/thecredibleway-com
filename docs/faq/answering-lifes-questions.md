@@ -54,7 +54,7 @@ Bible, and Christian living. Topics ranging from philosophical arguments for God
 scientific considerations, historical evidence for Jesus' life, death, and resurrection; and theological
 discussions about the nature of God, evil, and salvation. 
 
-Whether you're a skeptic with honest doubts, a seeker curious about Christianity, or a believer looking
+Whether you're a sceptic with honest doubts, a seeker curious about Christianity, or a believer looking
 to deepen your own understanding and articulate your faith more effectively, we invite you to read on!
 Explore the pages, engage with the arguments and consider the evidence. We believe that as you do, you'll
 discover that the Christian faith is not only intellectually robust but also profoundly beautiful and
