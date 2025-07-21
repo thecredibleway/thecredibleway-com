@@ -76,7 +76,7 @@ within the visible church until the final judgment. These *weeds* may adopt the 
 appearance of faith, but their hearts remain unconverted and their lives reveal a fundamental disconnect
 from the transformative power of the Gospel. Their actions are not a reflection of the Christ they claim
 to follow, but rather a reflection of their unregenerate hearts operating under a veneer of religiosity.
-Therefore, though their actions may be attributed to "the church," are not representative of genuine
+Therefore, though their actions may be attributed to *the church*, are not representative of genuine
 Christianity. **It should also be noted that the hypocrisy of such individuals, while tragic, does not
 invalidate the truth of Jesus Christ; any more than a counterfeit banknote invalidates genuine currency.**
 
