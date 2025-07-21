@@ -58,7 +58,6 @@ Essenes
 Eutychus
 FRSE
 Falken
-Falken
 Festus
 filioque
 Flagrum
@@ -215,3 +214,6 @@ theopneustos
 unridden
 yahu
 Ākhir
+Kang
+Nabeel
+Qureshi

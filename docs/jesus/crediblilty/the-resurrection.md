@@ -173,7 +173,7 @@ his account aligns with Jesus' prophecy in [Luke 21:5–38](https://www.biblegat
 
 Tacitus, born in 56 AD, is widely regarded as one of Rome's greatest historians. He came from the wealthy
 aristocratic 'equestrian' class and rose to become a senator and consul. Tacitus trained in rhetoric and law
-and had the favour of Emperor Titus; and hence was granted access to imperial records and high-level sources,
+and had the favor of Emperor Titus; and hence was granted access to imperial records and high-level sources,
 ensuring the accuracy of his work in meticulous detail. 
 
 In his *Annals*, he covers events from the death of Augustus to Nero's reign, Tacitus references

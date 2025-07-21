@@ -3,7 +3,7 @@ sidebar_position: 10
 toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Does the Bible Allow Slavery? | Christian Apologetics
-sidebar_label: Does the Bible Allow slavery?
+sidebar_label: Does the Bible Allow Slavery?
 description: Explore what the Bible really says about slavery. Understand the historical context, God's permissive will, and the transformative message of equality in Christ.
 keywords: ["Does the Bible allow slavery","Bible and slavery","Christian apologetics slavery","slavery in the Bible","Philemon and Onesimus","biblical context slavery","God's permissive will","biblical equality","slavery vs servanthood"]
 ---
