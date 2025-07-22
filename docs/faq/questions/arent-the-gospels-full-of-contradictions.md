@@ -153,7 +153,7 @@ of Jesus' death and resurrection, a time when eyewitnesses were still alive and 
 
 It is essential to understand that the Gospels were written in the context of ancient biographical literature. In ancient
 times, biographies often included differences in the details of events, but these differences did not necessarily imply
-contradiction. The focus of ancient biography was often on the overall narrative or themes, rather than precise chronological details.
+contradiction. The focus of ancient biography was often on the overall themes, rather than precise chronological details.
 
 Additionally, the Gospels were based on oral traditions that had been passed down by Jesus' disciples and other eyewitnesses.
 Oral transmission of stories was a well-established practice in the ancient world, and scholars agree that the Gospels were
@@ -175,7 +175,7 @@ The Gospels are not full of contradictions. While there are differences in the w
 recorded, these differences do not amount to contradictions. Instead, they reflect the unique perspectives and emphases of the
 individual Gospel writers. The consistency of the textual tradition, as evidenced by discoveries like the Dead Sea Scrolls,
 further supports the reliability of the Gospels. When examined in their historical and literary context, the supposed
-contradictions dissolve, revealing a coherent and reliable narrative about the life, death and resurrection of Jesus.
+contradictions dissolve, revealing a coherent and reliable account about the life, death and resurrection of Jesus.
 
 
 :::info[[Protestant Christian Evidences, Prof. B. Ramm,](https://www.amazon.com/Protestant-Christian-Evidences-Bernard-Rahm/dp/B000NL2HV6) professor of religion at Baylor University]
@@ -193,3 +193,11 @@ of contradictions, they are rich, complex, and profoundly consistent in their me
 who is truth - Jesus Christ](../../jesus/because-he-lives/i-can-face-tomorrow.md)
 
 What will you choose to do?
+
+## Suggested Additional Resources
+
+- [How can the Bible be trusted if it was written by mere men?](./how-can-the-bible-be-trusted-if-it-was-written-by-mere-men.md)
+- [Why trust the Bible when it has changed over time?](./why-trust-the-bible-when-it-has-changed-over-time.mdx)
+- [The Case for Christ](https://www.amazon.com.au/Case-Christ-Journalists-Personal-Investigation/dp/0310345863) by Lee Strobel
+- [The Case for the Resurrection of Jesus](https://www.amazon.com/Case-Resurrection-Jesus-Gary-Habermas/dp/0825427886) edited by Gary Habermas & Michael Licona
+- [Jesus and the Eyewitnesses](https://www.amazon.com/Jesus-Eyewitnesses-Richard-Bauckham/dp/0802863906) by Richard Bauckham

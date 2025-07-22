@@ -126,12 +126,13 @@ Jesus Christ - the ultimate Occam's Razor!
 #### Flavius Josephus
 
 Josephus, one of the most respected Roman historians of Judea, was born in 37 AD and died in 100 AD.
+While he was born a Jew, he later became a Roman citizen and had the backing of the
+Roman emperors (Vespasian, Titus and Domitian), Josephus had access to resources and was able to
+generate incredible detail in his records, far beyond what the Gospel writers (who lacked wealth)
+could achieve. It is because he served under the Roman emperors, his records were valued as authentic.
 Living shortly after Jesus and in the same region, his writings offer near eyewitness quality, offering
 insights into the era's cultural context. His major works, *Jewish Antiquities* and *The Wars of the Jews*,
-chronicle Hebrew history and the Roman destruction of Jerusalem and the fall of Masada in 73 AD. With
-the backing of the Roman emperors (Vespasian, Titus and Domitian), Josephus had access to resources
-and was able to generate incredible detail in his records, far beyond what the Gospel writers
-(who lacked wealth) could achieve.
+chronicle Hebrew history and the Roman destruction of Jerusalem and the fall of Masada in 73 AD.
 
 :::info[[Antiquities of the Jews 18:63-64 - The accounts of Flavius Josephus about Jesus Christ](https://lexundria.com/j_aj/18.63-64/wst)]
 
@@ -265,7 +266,7 @@ Church. He was the governor of Bithynia and Pontus (modern day Turkey or Asia Mi
 to in the New Testament) on the Black Sea coast of Anatolia. He was the representative of Emperor
 Trajan between 109 and 111 AD. He even writes to Emperor Trajan asking how he should deal with those
 in his region who are accused of being Christians. And in this letter he describes the practices
-of these 'criminals':
+of these *criminals*:
 
 :::info[[Excerpts from Pliny's letter to Emperor Trajan](https://www.biola.edu/blogs/good-book-blog/2017/what-pliny-the-younger-learned-when-he-interrogated-christians-ca-a-d-110)]
 
@@ -334,7 +335,7 @@ In fact, there's more historical evidence for Jesus of Nazareth than for Roman E
 and they both lived at the same period in history! 
 
 There are multiple undisputed Roman references (see sections above) to Jesus written within 20 years
-of His crucifixion, including mentions of His brother, three named disciples, "the Twelve," and
+of His crucifixion, including mentions of His brother, three named disciples, *the Twelve*, and
 hundreds of followers. These accounts were written to third parties who personally knew the people
 involved, while many of them were still alive!
 
@@ -381,7 +382,11 @@ The apostle Peter was one of the first individuals to whom Jesus appeared after 
 
 #### James
 
-Jesus also appeared to James, His brother, who initially doubted Him ([1 Cor 15:7](https://www.biblegateway.com/passage/?search=1%20Cor%2015%3A7&version=NKJV))
+James, who was the brother of Jesus was a skeptic ([John 7:5](https://www.biblegateway.com/passage/?search=John%207%3A5&version=NKJV)),
+became a leader in the early church after an encounter with the risen Christ
+([1 Cor 15:7](https://www.biblegateway.com/passage/?search=1%20Cor%2015%3A7&version=NKJV);
+[Acts 15:13-21](https://www.biblegateway.com/passage/?search=Acts%2015%3A13-21&version=NKJV)). This transformation is particularly
+compelling, as it's difficult to attribute to wishful thinking or a shared delusion.
 
 #### Apostle Paul
 
@@ -398,7 +403,8 @@ If Jesus wasn't real, why would His followers be active across the empire? Paul 
 money or fame - only hardship and that in no small portion! The simplest explanation?
 Jesus rose from the dead and Paul's life proved it.
 
-#### More than 500 people:
+#### More than 500 people
+
 Paul mentions in [1 Cor 15:3-8](https://www.biblegateway.com/passage/?search=1%20Cor%2015%3A3-8&version=NKJV) that
 Jesus appeared to more than 500 people at one time. There is also
 [Acts 2:32](https://www.biblegateway.com/passage/?search=Acts%202%3A32&version=NKJV),
@@ -425,7 +431,7 @@ You decide.
 
 The resurrection of Jesus Christ is not only the cornerstone of Christian faith - it is also one of
 the most scrutinized events in ancient history. In short, multiple sources that conform to all of the
-usual checks and balances applied to historical accounts.
+usual checks and balances applied to historical accounts, show this event took place.
 
 The Roman sources affirm key background facts that Jesus was crucified under Pontius Pilate, that His
 followers worshiped Him as divine and that the movement grew rapidly despite persecution. These
@@ -457,6 +463,6 @@ as a historically anchored event. When held to the same rigorous standards used 
 the resurrection of Jesus emerges not as myth, but as the best explanation for the birth of Christianity
 and the enduring hope it proclaims. 
 
-To me, the evidence is clear. I also understand that it's not that way for everyone. So
-I'd ask you to stay humble and pursue truth where it leads you even if you don't like it.
+To us, the evidence is clear. We also understand that it's not that way for everyone. So
+we'd ask you to stay humble and pursue truth where it leads you even if you don't like it.
 Truth is not mine or yours - it's truth for everyone and that's what makes it truth. Follow truth!

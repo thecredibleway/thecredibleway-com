@@ -126,3 +126,4 @@ God is our loving Father (Eph 3:14-15) and we can part of His family.
 The Savior stands in the boat, hand outstretched. *The invitation is real. **The choice is yours.***
 
 And perhaps the correct question here is not, *"Why am I here?"* but *"Now that I am here, what will I do with Jesus?"*
+

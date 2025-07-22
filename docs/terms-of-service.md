@@ -13,7 +13,7 @@ These Terms of Service may be updated periodically, and we encourage you to revi
 ## 1. Use of Content
 
 ### 1.1 Purpose of Content
-All content on `thecredibleway.com`, including articles, images, videos, and other resources, is provided for educational and informational purposes related to the life of Jesus Christ, biblical teachings, and Christian theology. This content is intended to serve as a resource for those seeking to learn more about the Bible and its teachings.
+All content on `thecredibleway.com`, including articles, images, videos, and other resources, is provided for educational and informational purposes related to the life of Jesus Christ, biblical teachings and Christian theology. This content is intended to serve as a resource for those seeking to learn more about the Bible and its teachings.
 
 ### 1.2 Ownership of Content
 All materials on this site are protected by intellectual property laws and are owned by `thecredibleway.com` or its content creators, unless otherwise stated. This includes but is not limited to text, images, logos, and multimedia. You may view, download, and print content for personal, non-commercial use, provided that you do not alter or modify the materials in any way.

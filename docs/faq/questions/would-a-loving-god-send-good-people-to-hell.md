@@ -2,8 +2,8 @@
 sidebar_position: 3
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: Would a loving God send good people to hell? | Christian Apologetics
-sidebar_label: Would a loving God send good people to hell?
+title: Would a Loving God Send Good People to Hell? | Christian Apologetics
+sidebar_label: Would a Loving God Send Good People to Hell?
 description: If God is love, why do "good" people deserve hell? We explore God's perfect love and justice, examining hell within the context of free will, sin's seriousness, and the choice to accept or reject God's grace. God does not condemn anyone to hell but allows individuals to make a choice by rejecting the salvation offered through Jesus Christ. 
 keywords: ["Why would a loving God send good people to hell?","The nature of hell","Justice and love of God","Free will and salvation","Good people and hell","Biblical understanding of hell","Eternal separation from God","God's grace and judgment","God's justice and mercy","Hell and rejection of Jesus","Christianity and salvation","Why a loving God allows hell","God's love and free will","Why does God allow people to reject Him?","God's desire for all to be saved","Eternal separation from God"]
 ---
@@ -150,3 +150,9 @@ or to reject it.
 Ultimately, the reality of hell is a sobering reminder that salvation is not about being *good enough*, but
 about accepting God's grace and receiving the life that He offers through Jesus Christ. Now that you know the truth,
 you have to decide what to do. Where will you spend eternity?
+
+## Suggested Additional Resources
+
+- [I'm a Good Person and Good Deeds Will Get Me to Heaven ](./im-a-good-person-and-my-good-deeds-will-get-me-to-heaven.md)
+- [If a Good God Exists, Why Is There Evil and Suffering?](./if-a-good-god-exists-why-is-there-evil-and-suffering.md)
+- [Why Worry About Eternity if Life After Death Can't be Proved?](./why-worry-about-eternity-if-life-after-death-cant-be-proved.md)
