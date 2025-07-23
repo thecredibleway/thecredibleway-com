@@ -169,3 +169,11 @@ the perfect work of Jesus Christ.
 **You have a choice and only you can decide what you want for your life and for eternity**. We really hope you
 choose life and a relationship with God! ([Deut 30:15-20](https://www.biblegateway.com/passage/?search=Deuteronomy%2030%3A15-20&version=NKJV)).
 Only Jesus can break the power of sin that we are born into, and [give you life](../../jesus/because-he-lives/i-can-face-tomorrow.md).
+
+
+## Suggested Additional Resources
+
+- [Would a Loving God Send Good People to Hell?](./would-a-loving-god-send-good-people-to-hell.md)
+- [If a Good God Exists, Why Is There Evil and Suffering?](./if-a-good-god-exists-why-is-there-evil-and-suffering.md)
+- [Why Worry About Eternity if Life After Death Can't be Proved?](./why-worry-about-eternity-if-life-after-death-cant-be-proved.md)
+

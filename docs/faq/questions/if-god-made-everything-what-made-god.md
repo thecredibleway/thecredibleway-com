@@ -84,7 +84,7 @@ God is a spirit and does not change. He is not subject to entropy, deterioration
 
 Because God is a spirit, the second law of thermodynamics (and all the other physical laws) do not apply to Him.
 He is eternal and doesn't need a *first cause*. This is why when Moses asks Him for His name
-[Exo 3](https://www.biblegateway.com/passage/?search=exo%203&version=NKJV), He replies **"I AM"**. This is not just
+[Exod 3](https://www.biblegateway.com/passage/?search=exo%203&version=NKJV), He replies **"I AM"**. This is not just
 a name; it is a declaration of self-existence and eternal being. God doesn’t say, *I was caused* or
 *I was created* - He simply is. Unlike everything in the universe that depends on something else for its
 existence, God depends on no one and nothing. He is the ultimate foundation of all reality.

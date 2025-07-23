@@ -5,7 +5,7 @@ toc_max_heading_level: 4
 title: Authority of the Believer | Because He Lives
 sidebar_label: Authority of the Believer
 description: Because Jesus lives, I can pray and walk in the authority of the Son of God, transitioning from inner transformation to outward spiritual confidence.
-keywords: ["Authority of the believer","authority of the believer","the authority of the believer","authority of a believer","authority of believers","the authority of a believer","believers authority scriptures","Spiritual authority in Christ","Believer's authority in Jesus","Christian authority over darkness","Kingdom authority","Seated with Christ in heavenly places","In the name of Jesus","Walking in divine authority","Taking dominion through Christ","Victory through the cross","Empowered by the Holy Spirit","Christ in you the hope of glory","Reigning in life through Jesus","Greater is He who is in you"]
+keywords: ["Authority of the believer","authority of the believer","the authority of the believer","authority of a believer","authority of believers","the authority of a believer","believers authority scriptures","Spiritual authority in Christ","Believer's authority in Jesus","Christian authority over darkness","Kingdom authority","Seated with Christ in heavenly places","In the name of Jesus","Walking in divine authority","Taking dominion through Christ","Victory through the cross","Empowered by the Holy Spirit","Christ in you the hope of glory","Reigning in life through Jesus","Greater is He who is in you","the power and authority of a believer"]
 ---
 
 # Authority of the Believer

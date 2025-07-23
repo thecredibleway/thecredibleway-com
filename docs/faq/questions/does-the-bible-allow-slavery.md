@@ -23,18 +23,18 @@ was vastly different from the race-based chattel slavery that occurred in the mo
 In biblical times, slavery was often a form of indentured servitude. People became servants for
 a variety of reasons - such as debt repayment, poverty or the loss of land. In many cases,
 servitude was voluntary and temporary. According to the Old Testament law
-([Exo 21:2](https://www.biblegateway.com/passage/?search=Exo%2021%3A2&version=NKJV)), Hebrew
+([Exod 21:2](https://www.biblegateway.com/passage/?search=Exo%2021%3A2&version=NKJV)), Hebrew
 slaves were to be set free after six years of service, *"If you buy a Hebrew servant, he is
 to serve you for six years. But in the seventh year, he shall go free, without paying anything."*
 [Slaves were to be treated fairly, receive their just wages, were not to work during the
 Sabbath, and not to be treated harshly or severely harmed](https://www.dbu.edu/mitchell/early-modern-resources/biblesla.html)
-([Exo 20:10](https://www.biblegateway.com/passage/?search=Exo%2020%3A10&version=NKJV),
+([Exod 20:10](https://www.biblegateway.com/passage/?search=Exo%2020%3A10&version=NKJV),
  [Job 31:13-15](https://www.biblegateway.com/passage/?search=Job%2031%3A13-15&version=NKJV),
  [Deut 24:14-15](https://www.biblegateway.com/passage/?search=Deut%2024%3A14-15&version=NKJV),
  [Lev 22:11](https://www.biblegateway.com/passage/?search=Lev%2022%3A11&version=NKJV),
  [Mal 3:5](https://www.biblegateway.com/passage/?search=Mal%203%3A5&version=NKJV),
  [Lev 19:20-22](https://www.biblegateway.com/passage/?search=Lev%2019%3A20-22&version=NKJV),
- [Exo 21:20-32](https://www.biblegateway.com/passage/?search=Exo%2021%3A20-32&version=NKJV), 
+ [Exod 21:20-32](https://www.biblegateway.com/passage/?search=Exo%2021%3A20-32&version=NKJV), 
  [Eph 5:9](https://www.biblegateway.com/passage/?search=Eph%205%3A9&version=NKJV)). 
 This practice served more as a social welfare system than institutionalized oppression. It
 offered a way for individuals to survive financial crises and was bound by legal and moral

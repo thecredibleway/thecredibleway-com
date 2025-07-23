@@ -198,3 +198,9 @@ salvation to all people, regardless of their background, ethnicity or past belie
 
 The question of whether all religions lead to the same God is **not** just a matter of personal opinion or
 cultural tolerance - it is a question of truth. And truth, by definition, has to exclude falsehood.
+
+## Suggested Additional Resources
+
+- [How Can Christianity Be the Only True Religion?](./how-can-christianity-be-the-only-true-religion.md)
+- [I'm a Good Person and Good Deeds Will Get Me to Heaven ](./im-a-good-person-and-my-good-deeds-will-get-me-to-heaven.md)
+- [Christianity Claims Certainty While Science Offers Explanations](./christians-claim-certainty-while-science-offers-explanations.md)

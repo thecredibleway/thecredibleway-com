@@ -147,3 +147,12 @@ Rather than dismissing the Bible as a product of men, why not ask God to open yo
 we were taken from darkness into light, so too can you encounter the living
 Word - [Jesus Christ](../../jesus/because-he-lives/i-can-face-tomorrow.md) - and the written Word that
 testifies of Him.
+
+
+## Suggested Additional Resources
+
+- [Why Trust the Bible When it has Changed Over Time?](./why-trust-the-bible-when-it-has-changed-over-time.mdx)
+- [Aren't the Gospels Full of Contradictions?](./arent-the-gospels-full-of-contradictions.md)
+- [The Case for Christ](https://www.amazon.com.au/Case-Christ-Journalists-Personal-Investigation/dp/0310345863) by Lee Strobel
+- [The Case for the Resurrection of Jesus](https://www.amazon.com/Case-Resurrection-Jesus-Gary-Habermas/dp/0825427886) edited by Gary Habermas & Michael Licona
+- [Jesus and the Eyewitnesses](https://www.amazon.com/Jesus-Eyewitnesses-Richard-Bauckham/dp/0802863906) by Richard Bauckham

@@ -174,3 +174,11 @@ So, while many religions claim to be the true path, Christianity stands apart. I
 are rooted in historical events, its solution to human brokenness is unique, and its offer
 of salvation is freely given, not earned. The evidence is clear - Christianity is the only
 faith that offers a legitimate solution to the problem of sin and the way to eternal life with God.
+
+## Suggested Additional Resources
+
+- [Aren't All Religions Paths to the Same God](./arent-all-religions-paths-to-the-same-god.md)
+- [I'm a Good Person and Good Deeds Will Get Me to Heaven ](./im-a-good-person-and-my-good-deeds-will-get-me-to-heaven.md)
+- [Christianity Claims Certainty While Science Offers Explanations](./christians-claim-certainty-while-science-offers-explanations.md)
+- [How do we Know Jesus Rose From the Dead](./how-do-we-know-jesus-rose-from-the-dead.md)
+- [How do we Know Jesus is God and not another prophet](./how-do-we-know-jesus-is-god-and-not-another-prophet.md)

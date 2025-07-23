@@ -125,7 +125,7 @@ love God has shown us.
 It is important to note that while God calls for us to present our bodies as living sacrifices i.e, to live like Jesus 
 in constant surrender to God; **He does not ask us to sacrifice our children or any innocent life**. If you
 ever hear a voice telling you to harm your child, that voice is not from God. God's Word clearly
-forbids the taking of innocent life ([Exo 20:13](https://www.biblegateway.com/passage/?search=Exo%2020%3A13&version=NKJV)),
+forbids the taking of innocent life ([Exod 20:13](https://www.biblegateway.com/passage/?search=Exo%2020%3A13&version=NKJV)),
 and any voice urging such a thing is not from God. It is crucial to resist such voices, whether they come from our own
 sinful minds or from evil spiritual forces. **God cannot violate His Word and He will not ask you to sacrifice your child
 or any innocent life - Jesus has already paid the price when He died on the cross and shed His blood.**
