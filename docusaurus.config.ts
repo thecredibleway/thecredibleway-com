@@ -16,6 +16,7 @@ const config: Config = {
   },
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+  trailingSlash: false,
   plugins: [
     // this plugin is needed because TimelineJs3 compiles with less
     [

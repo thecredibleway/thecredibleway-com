@@ -130,7 +130,7 @@ warns that even those who outwardly appear good or perform religious deeds may s
 they have not truly known Him. *"Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven,
 but the one who does the will of my Father who is in heaven"*. The question is not about how good a person is
 in comparison to others but whether they have accepted God's provision for salvation through Jesus Christ.
-They need to also do with the Bible says and have a relationship with God - it isn't about saying a prayer and
+They need to also do with what the Bible says and have a relationship with God - it isn't about saying a prayer and
 living a life like the world does. We are called to live for God and not for self.
 
 ## God's Justice, Mercy and Love

@@ -103,7 +103,14 @@ construct without any objective basis. Atheists trust in the idea that reason an
 which cannot be directly observed, are the best tools to understand the universe. The
 origins of the universe itself remain a mystery and yet many atheists trust in scientific
 explanations, even though they cannot directly observe the events that happened at the
-beginning of time.
+beginning of time. 
+
+*Imagine a big barn filled with all the parts needed to build a Boeing 747. Would you believe
+that a massive explosion could cause every part to come together perfectly - nothing damaged,
+everything in place - and form a fully functioning airplane?* Of course not. Yet many accept
+a similar scenario when it comes to the origin of life and the universe - believing order, complexity
+and purpose arose without any intelligent direction. For example do we find animals stuck in
+between stages of evolution or people that have only partially evolved?
 
 :::tip[Is your faith well placed]
 
@@ -223,7 +230,13 @@ The idea that faith is a crutch often implies a desire to avoid responsibility o
 rigor. However, Christian faith, properly understood, encourages both. It invites us to wrestle
 with difficult questions, to defeat doubt with faith and to continually seek a deeper understanding
 of God and His Word. It calls for a life of [active discipleship](../../jesus/crediblilty/why-jesus-came.md#to-call-to-discipleship),
-demanding personal responsibility and a commitment to living out one's beliefs.
+demanding personal responsibility and a commitment to living out one's beliefs. [The apostles
+and other martyrs](../../jesus/crediblilty/the-martyrs.md) were willing to die for Jesus by
+beheading, stoning, crucifixion, eaten by lions etc because they did not have blind faith; it
+took conviction and courage. Only the weak bend in the face of persecution. Just like Jesus, they
+did healings and set people free from demons in His name. People healed when
+doctors can't help them don't have blind faith - they know what set them free! You cannot be healed
+from nothing.
 
 Biblical faith is not naivety, nor is it an escape from reality. It is a confident trust in God.
 Rather than being a crutch for the weak, faith in Christ provides a sturdy foundation for life,

@@ -151,6 +151,7 @@ And the same is happening in every nation on the earth.
 **Time is short, so now is the time to choose where you shall spend eternity**. We really hope you
 choose life! ([Deut 30:15-20](https://www.biblegateway.com/passage/?search=Deuteronomy%2030%3A15-20&version=NKJV)).
 Only Jesus can break the power of sin that we are born into, and [give you life](../../jesus/because-he-lives/i-can-face-tomorrow.md).
+Jesus came into this world to save people like you and me[John 3:16](https://www.biblegateway.com/passage/?search=john%203%3A16&version=NKJV).
 
 
 ## Suggested Additional Resources

@@ -51,6 +51,12 @@ This is the ultimate proof of God's love - a sacrifice that was not given reluct
 
 :::
 
+**The Covenant with Abraham was his son for God's Son, so that God through Jesus could get legal entry into
+this world by a human body and save us by paying the price for your sin and mine**.
+[Genesis 22](https://www.biblegateway.com/passage/?search=gen%2022&version=NKJV) is a type or foreshadowing of
+Jesus' sacrifice - with the ram caught in the thicket representing the substitutionary sacrifice of Christ.
+The ram, provided by God, took the place of Isaac; just as Jesus took the place of humanity on the cross. 
+
 ## Abraham's Sacrifice - A Test of Faith and Love
 
 In [Genesis 22](https://www.biblegateway.com/passage/?search=Genesis%2022&version=NKJV), God commands Abraham

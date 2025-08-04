@@ -16,19 +16,19 @@ Even if one discounts the Bible as a fable, it is reasonable to at least approac
 as historical documents, consider whether they point to Jesus Christ as a credible figure,
 and reach an independent conclusion.
 
-This page was not created to win an debate or the like, but with the hope that you honestly
-think about life and that you have an encounter with the grace and truth that only God can provide.
+**This page was not created to win an debate or the like, but with the hope that you honestly
+think about life and that you have an encounter with the grace and truth that only God can provide.**
 
 Let's start with some probabilities we deal with in everyday life to put this into perspective:
-- Being struck by lightning in the USA, [1 in 1,200,000 for an estimated lifespan 80 years](https://www.weather.gov/safety/lightning-odds).
-- Finding a four leaf clover, [1 in 10,000](https://www.udel.edu/faculty-staff/experts/john-frett/).
-- Being audited by the IRS, [1 in 220](https://www.cnbc.com/2020/01/08/attention-taxpayers-irs-audits-have-fallen-significantly.html). *Only two things in life are certain....*  
+- Being struck by lightning in the USA - [1 in 1,200,000 for an estimated lifespan 80 years](https://www.weather.gov/safety/lightning-odds).
+- Finding a four leaf clover - [1 in 10,000](https://www.udel.edu/faculty-staff/experts/john-frett/).
+- Being audited by the IRS - [1 in 220](https://www.cnbc.com/2020/01/08/attention-taxpayers-irs-audits-have-fallen-significantly.html). *Only two things in life are certain....*  
 - and so on
 
 :::tip[What about me?]
 
-The chances of you being born alive are [1 in 10<sup>2685000</sup>](https://www.businessinsider.com/infographic-the-odds-of-being-alive-2012-6?op=1) i.e. *you are not an accident!*
-The chances that you will die one day are, 1 of 1 
+The chances of you being born alive are [1 in 10<sup>2685000</sup>](https://www.businessinsider.com/infographic-the-odds-of-being-alive-2012-6?op=1) i.e. **you are not an accident!**
+The chances that you will die one day are, 1 of 1.
 
 **Where will you spend eternity?**
 
@@ -37,7 +37,7 @@ The chances that you will die one day are, 1 of 1
 ## 8 prophecies fulfilled by Jesus
 
 What are the chances of one person fulfilling just eight ancient prophecies? The statistical odds are staggering.
-Now imagine someone fulfilling fifty... or a hundred... or two hundred... It would be mathematically impossible and yet miraculous.
+Now imagine someone fulfilling fifty... or a hundred... or two hundred... It would be mathematically impossible and only miraculous.
 **Yet, Jesus didn't fulfill a mere two hundred prophecies - He fulfilled over three hundred and fifty, written centuries
 (many nearly 4000 years) before His birth!**
 
@@ -102,10 +102,10 @@ facts - the size of that number - there are not even that many electrons in the 
 that number is just for 48 of the 350+ known Messianic prophecies that Jesus of Nazareth fulfilled. 
 
 **Merely fulfilling 48 of these isn't something that can be explained by random chance. Rather, this
-points to a divine origin**
+points to a divine origin**.
 
 No man could write that book, we call the Bible. The Bible was written by kings, generals, shepherds,
-priests, over 1600 years, in 3 languages, on 3 continents, totally 66 books. It was written mostly by
+priests, over 1600 years, in 3 languages, on 3 continents - totally 66 books. It was written mostly by
 authors who had never met each other, who wrote about controversial subjects and yet all 66 books
 agree. **You can absolutely stake your life on it's authenticity, authority and trustworthiness. And
 you can and should stake your eternal destiny on it also!**

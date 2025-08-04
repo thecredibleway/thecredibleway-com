@@ -12,7 +12,7 @@ keywords: ["why did Jesus come","purpose of Jesus' life","mission of Jesus Chris
 
 ## To Reconcile Us to God (Salvation from Sin)
 
-The primary reason Jesus came was to heal the fractured relationship between humanity and God, a separation caused by sin.
+The primary reason Jesus came was to heal the fractured relationship between humanity and God - a separation caused by sin.
 From the very beginning, sin has stood as a barrier - cutting us off from the presence, purpose and peace of God.
 It introduced death, shame and spiritual exile into God's perfect world. But God, in His immense love and mercy,
 refused to leave us in that state. The Bible says:
@@ -27,7 +27,7 @@ Christ Jesus came into the world to save sinners... ([1 Tim 1:15](https://www.bi
 
 Jesus entered our broken world not just to teach us about God, but to make a way back to Him. Through His sinless life,
 Jesus became the only one qualified to stand in our place. On the cross, He took the punishment you and I deserved -
-the substitutionary atonement. His sacrifice satisfied divine justice, offering mercy and grace for us.
+the substitutionary atonement. *His sacrifice satisfied divine justice, offering mercy and grace for us.*
 
 :::note[Jesus made to be sin]
 
@@ -45,14 +45,13 @@ we were always meant to have with our Creator.
 
 God made a way where there was no way!
 
-:::
-
 Justice is getting what you deserve. Mercy is *not* getting what you deserve. Grace is getting the
 blessings of what you *don't deserve*.
 
 All three are fulfilled when you accept Jesus and put your faith in Him - He bears your punishment and you get mercy
 and grace!
 
+:::
 
 ## To Proclaim and Establish the Kingdom of God
 
@@ -85,7 +84,8 @@ Jesus taught Gospel of the Kingdom, the Authority that Accompanies the Kingdom,
 and Union (fellowship and relationship with God) and that **believers would do the same works
 as Him and more** ([Mat 28:18-20](https://www.biblegateway.com/passage/?search=mat%2028%3A18-20&version=NKJV),
 [Mark 16:15-18](https://www.biblegateway.com/passage/?search=Mark%2016%3A15-18&version=NKJV)).
-He would send us Holy Spirit, who would be just like Him to live in every one that accepted Him. 
+
+**He would send us Holy Spirit, who would be just like Him to live in every one that accepted Him.**
 
 His sacrifice and death on the cross is truly the great exchange - He was scourged and bled for
 our healing; He died for our redemption. He exchanged our sin for righteousness,
