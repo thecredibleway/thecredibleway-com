@@ -23,8 +23,8 @@ dominant figure in the history of western culture for almost twenty centuries.
 
 What makes Jesus truly extraordinary is [not solely his teachings](./crediblilty/teachings-of-jesus.md),
 though they alone would be enough to set him apart! It is the unique combination of
-his [teachings, character as a person](./crediblilty/teachings-of-jesus.md) and the
-[impact on people](./crediblilty/the-martyrs.md), which are inseparable.
+His [teachings](./crediblilty/teachings-of-jesus.md), [His character](./crediblilty/why-jesus-came.md)
+as a person and the [impact on people](./crediblilty/the-martyrs.md), which are inseparable.
 
 :::tip[Who is Jesus to you?]
 
@@ -39,9 +39,9 @@ a hypocrite because He told others to be honest, whatever the cost. He urged peo
 their own religious beliefs and place their trust in Him for their eternal destiny. If Jesus
 knowingly made false claims, it would lead us to the conclusion that He was profoundly immoral. 
 
-But most importantly if Jesus had been lying, He would also have been a fool, because His claims
-to deity led to His crucifixion ([John 19:7](https://www.biblegateway.com/passage/?search=John%2019%3A7&version=NKJV))
-and caused hHim to suffer in the most painful way before He died. 
+But most importantly if Jesus had been lying, He would also have been a fool - because His claims
+to deity caused Him to suffer in the most painful way before He died by 
+crucifixion ([John 19:7](https://www.biblegateway.com/passage/?search=John%2019%3A7&version=NKJV)).
 
 :::info[[The Person of Christ](https://www.amazon.com/Person-Christ-Perfection-Humanity-Divinity/dp/1113222034), Philip Schaff (late) Professor of History & Literature, University of Berlin]
 
@@ -89,18 +89,21 @@ and so on
 **Other self-proclaimed gods and saviors have come and gone, but Jesus Christ, stands
 head-and-shoulders above them all; and He is still alive!** The evidence is in favor of Jesus as Lord,
 embodying truth and love! The consistency of [His teachings](./crediblilty/teachings-of-jesus.md),
-the [fulfillment of prophecies](./crediblilty/prophecies-fulfilled.md) and the transformative power of
-[His life, death and resurrection](./crediblilty/is-jesus-alive.md). Jesus openly declared
+the [fulfillment of prophecies](./crediblilty/prophecies-fulfilled.md) and the [transformative power of
+His life](./because-he-lives/i-can-face-tomorrow.md), [death](./crediblilty/the-crucifixion.mdx) and
+[resurrection](./crediblilty/is-jesus-alive.md). Jesus openly declared
 His divine identity, performed miracles and lived a life of perfect integrity, aligning
-His actions with His words, that left such an [impact on His followers](./crediblilty/the-martyrs.md)
+His actions with His words, that left such an [impact on His followers](./crediblilty/the-martyrs.md).
 
-The apostle John wrote, "these are written that you may believe that Jesus is the Christ, the
-Son of God and that believing you may have life in His name" ([John 20:31](https://www.biblegateway.com/passage/?search=John%2020%3A30-31&version=NKJV)).
+The apostle John wrote, *"these are written that you may believe that Jesus is the Christ, the
+Son of God and that believing you may have life in His name"
+([John 20:31](https://www.biblegateway.com/passage/?search=John%2020%3A30-31&version=NKJV))*.
 
 ## Is Jesus Credible?
 
 One of the things Jesus Christ said that remains controversial to this day was **I am the way,
-the truth and the life. No one comes to the Father except through Me ([John 14:6](https://www.biblegateway.com/passage/?search=John%2014%3A6&version=NKJV)).** The only
+the truth and the life. No one comes to the Father except through Me
+([John 14:6](https://www.biblegateway.com/passage/?search=John%2014%3A6&version=NKJV)).** The only
 way to God is through Jesus; there is no God but Jehovah. 
 
 We've established Jesus wasn't an imposter, so the next question then is whether Jesus was credible.
@@ -121,7 +124,7 @@ Jesus said **He is the truth**!
 
 :::
 
-If Jesus is credible, then what He said is also credible! I have to believe what He says. *It
+If Jesus is credible, then what He said is also credible! I have to believe what He says - *it
 is no longer about my personal opinion.* There is only one God - Jehovah, who has revealed Himself
 through scripture, through His Son Jesus Christ.
 
