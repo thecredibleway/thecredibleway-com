@@ -27,14 +27,14 @@ One of the keys to answering this question lies in understanding the nature of t
 creation. [Genesis 1:1](https://www.biblegateway.com/passage/?search=gen%201%3A1&version=NKJV) reads,
 **"In the beginning (time) God created the heavens (space) and the earth (matter) ..."**. *The beginning* refers
 not just to physical matter, but to time itself! As human beings, we are bound by time.
-We experience it as a linear progression - past, present, and future. Because
+We experience it as a linear progression - past, present and future. Because
 of this, we naturally think in terms of beginnings and endings. Everything in our experience seems to be confined
 to this dimension. 
 
 But God exists outside of time. He is eternal - not in the sense of simply living for an infinite amount of time,
 but in a much more profound and literal sense - He is timeless. He is not bound by the clock or the calendar. This
 is why Scripture says in [2 Peter 3:8](https://www.biblegateway.com/passage/?search=2%20pet%203%3A8&version=NKJV),
-*"With the Lord, a day is like a thousand years, and a thousand years are like a day"*. God sees the entire timeline
+*"With the Lord, a day is like a thousand years and a thousand years are like a day"*. God sees the entire timeline
 of history in one unified, eternal *now*. He moves through time as easily as we flip pages in a book i.e., as a reader
 we are not subject to the events within the book; but rather observe them from an external perspective. Similarly,
 passages like [Matthew 24](https://www.biblegateway.com/passage/?search=Matthew%2024&version=NKJV),
@@ -43,10 +43,10 @@ passages like [Matthew 24](https://www.biblegateway.com/passage/?search=Matthew%
 sees and [speaks of history with perfect clarity](../../bible/credibility/prophecies-fulfilled.md) - they
 bear witness of future events, highlight God's foreknowledge
 and clearly imply His transcendence over time. *He moves through time as we flip through pages, observing all of
-history - **past, present, and future - simultaneously.*** This concept is hard for us to grasp because
+history - **past, present and future - simultaneously.*** This concept is hard for us to grasp because
 we are creatures in time. But once we understand that time itself had a beginning, it becomes clear
 that the question, *"Who made God?"* is based on a flawed assumption - that
-God must have a beginning because everything else does. That’s simply not the case.
+God must have a beginning because everything else does. That's simply not the case.
 
 ## The Second Law of Thermodynamics and the Universe
 
@@ -60,7 +60,7 @@ If the universe had existed forever, it would have already reached this state. B
 energy i.e., stars still shine, things still move, life continues and so on. This strongly implies that the universe
 had a beginning. **Something must have caused it to begin - a cause that itself is not subject to decay and degradation.**
 That **"first cause"** must lie outside the system of time and entropy. This is precisely how the Bible describes
-God - eternal, uncaused, and not subject to physical laws. The same is also true of all laws that we have. For
+God - eternal, uncaused and not subject to physical laws. The same is also true of all laws that we have. For
 example gravity didn't start when Sir Isaac Newton discovered and penned the formula - it existed because a law giver
 outside the system of laws created it!
 
@@ -68,8 +68,8 @@ outside the system of laws created it!
 
 Another key aspect to understand is that God is not a material being. He is spirit
 ([John 4:24](https://www.biblegateway.com/passage/?search=John%204%3A24&version=NKJV)). While we can see and measure
-material objects, spirits are not bound by matter, energy, or time. This is why God cannot be subject to the same rules
-that govern the physical universe—like aging decay, or causality.
+material objects, spirits are not bound by matter, energy or time. This is why God cannot be subject to the same rules
+that govern the physical universe—like aging decay or causality.
 
 The Bible often draws parallels between the *soul* and *life*, often using them as synonyms. Just as our soul gives life
 to our bodies and is not material; so too God, the giver of life, exists beyond the physical. Our bodies change and age
@@ -85,7 +85,7 @@ God is a spirit and does not change. He is not subject to entropy, deterioration
 Because God is a spirit, the second law of thermodynamics (and all the other physical laws) do not apply to Him.
 He is eternal and doesn't need a *first cause*. This is why when Moses asks Him for His name
 [Exod 3](https://www.biblegateway.com/passage/?search=exo%203&version=NKJV), He replies **"I AM"**. This is not just
-a name; it is a declaration of self-existence and eternal being. God doesn’t say, *I was caused* or
+a name; it is a declaration of self-existence and eternal being. God doesn't say, *I was caused* or
 *I was created* - He simply is. Unlike everything in the universe that depends on something else for its
 existence, God depends on no one and nothing. He is the ultimate foundation of all reality.
 
@@ -96,7 +96,7 @@ misunderstanding of the very nature of what's being discussed. Rather than tryin
 our limited framework of time and space, we are invited to step back and consider the vastness of who
 He is. Not only has He made everything that exists,
 but [He invites us to know Him personally](../../jesus/because-he-lives/new-identity-in-christ.mdx),
-to experience the reality of His eternal nature, and to dwell with Him beyond time itself.
+to experience the reality of His eternal nature and to dwell with Him beyond time itself.
 
 You have a soul that lives on beyond your physical body for all eternity. To acknowledge God means facing
 the [reality of sin and the need for repentance and a savior in Jesus Christ](../../jesus/because-he-lives/salvation-and-redemption.md).

@@ -1,6 +1,8 @@
 {
   "label": "Jesus is Credible",
   "position": 2,
+  "collapsed": false,
+  "collapsible": true,
   "link": {
     "type": "generated-index",
     "description": "Is Jesus really credible? Is He the Son of God and is He alive today?"

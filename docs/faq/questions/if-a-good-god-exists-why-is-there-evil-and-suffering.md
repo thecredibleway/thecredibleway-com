@@ -4,8 +4,8 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: If a Good God Exists, Why Is There Evil and Suffering? | Christian Apologetics
 sidebar_label: If a Good God Exists, Why Is There Evil and Suffering?
-description: God, evil, and suffering - How can they coexist? We examine the answer, exploring free will, the fall, and suffering's role in God's ultimate redemptive plan.
-keywords: ["If God exists why is there evil and suffering?","If God is good and all powerful, why does He allow evil, suffering, and injustice in the world?","The problem of evil","Christian views on suffering","Free will and suffering","Biblical explanation of evil","God's plan for suffering","Why does God allow suffering?"]
+description: God, evil and suffering - How can they coexist? We examine the answer, exploring free will, the fall and suffering's role in God's ultimate redemptive plan.
+keywords: ["If God exists why is there evil and suffering?","If God is good and all powerful, why does He allow evil, suffering and injustice in the world?","The problem of evil","Christian views on suffering","Free will and suffering","Biblical explanation of evil","God's plan for suffering","Why does God allow suffering?"]
 ---
 
 # If a Good God Exists, Why Is There Evil and Suffering?
@@ -13,7 +13,7 @@ keywords: ["If God exists why is there evil and suffering?","If God is good and 
 The world doesn't merely appear chaotic; it is truly in disarray, with chaos evident in every aspect of life. We're
 witnessing a proliferation of greed, driving horrific acts like murder, violence, wars, kidnappings, the rape of women
 and the bullying of children. Corruption is rampant - permeating politics, law enforcement, big pharma, tech companies etc.
-The human cost is immense - rampant sickness, broken marriages, terrified children, and an overwhelming sense of
+The human cost is immense - rampant sickness, broken marriages, terrified children and an overwhelming sense of
 loneliness and fear. We've just scratched the surface - leaving you wondering if God is in control or has He abandoned His
 post at the helm? 
 
@@ -29,16 +29,16 @@ in Genesis. When God created the world, He declared it to be **very good**
 Utopia - heaven on earth! There was no death, no suffering, no pain. Humanity, represented by Adam and Eve, lived in perfect
 harmony with God and with creation.
 
-But God did not create robots. **He gave humans the gift of free will - the capacity to love, obey, and trust Him or to rebel.**
+But God did not create robots. **He gave humans the gift of free will - the capacity to love, obey and trust Him or to rebel.**
 This freedom was necessary for a genuine relationship, because love that is not freely given is not love at all. What if you
 forced your spouse to love you? Would that be genuine love? No, because genuine love for a spouse requires a choice of free
-will to say *yes* to one, and *no* to all others.
+will to say *yes* to one and *no* to all others.
 
 When Adam and Eve chose to disobey God by eating from the tree of the knowledge of good and evil
 ([Gen 3](https://www.biblegateway.com/passage/?search=Genesis%203&version=NKJV)), sin entered the world. This one act of
 rebellion, often called *the Fall*, brought catastrophic consequences - not only for humanity but for all of creation.
 [Romans 5:12](https://www.biblegateway.com/passage/?search=romans%205%3A12&version=NKJV) explains, "***through one man sin
-entered the world, and death through sin, and thus death spread to all men, because all sinned***"
+entered the world and death through sin and thus death spread to all men, because all sinned***"
 
 :::info[The ripple effect of sin]
 
@@ -106,12 +106,12 @@ Evil did its worst, but it could not thwart God's redemptive plan.
 ## The Hope of the Gospel
 
 This brings us to the heart of the Christian message - the gospel (literally, *good news*). The world is broken,
-sin is real, and suffering touches every life. But God has not abandoned His creation. In fact, He entered into it.
+sin is real and suffering touches every life. But God has not abandoned His creation. In fact, He entered into it.
 Jesus Christ, the Son of God, came to earth not merely as a teacher or moral example, but as the Savior.
 He lived a perfect life, one we could never live. He died a sacrificial death on the cross, taking upon Himself the
 punishment for sin. And He rose again, conquering death and offering eternal life to all who believe.
 
-[Through Jesus, the power of sin is broken](../../jesus/because-he-lives/salvation-and-redemption.md), and
+[Through Jesus, the power of sin is broken](../../jesus/because-he-lives/salvation-and-redemption.md) and
 [the kingdom of God has broken into the present age](../../jesus/crediblilty/teachings-of-jesus.md#the-kingdom-of-god).
 While evil still exists for now, its days are numbered. God promises that evil will not have the final word.
 [Revelation 21:4-5](https://www.biblegateway.com/passage/?search=Rev%2021%3A4-5&version=NKJV) promises a future where
@@ -150,7 +150,7 @@ And the same is happening in every nation on the earth.
 
 **Time is short, so now is the time to choose where you shall spend eternity**. We really hope you
 choose life! ([Deut 30:15-20](https://www.biblegateway.com/passage/?search=Deuteronomy%2030%3A15-20&version=NKJV)).
-Only Jesus can break the power of sin that we are born into, and [give you life](../../jesus/because-he-lives/i-can-face-tomorrow.md).
+Only Jesus can break the power of sin that we are born into and [give you life](../../jesus/because-he-lives/i-can-face-tomorrow.md).
 Jesus came into this world to save people like you and me[John 3:16](https://www.biblegateway.com/passage/?search=john%203%3A16&version=NKJV).
 
 

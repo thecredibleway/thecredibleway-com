@@ -25,7 +25,7 @@ These weren't just ordinary men-they were legal experts and could think for them
 and provincial governors. **If anything, their testimony as hostile sources, is especially valuable and
 considered the most credible since they had no reason to favor Jesus or His followers.**
 
-The Romans were certainly no friends of Jesus Christ, or His followers - quite the opposite in fact!
+The Romans were certainly no friends of Jesus Christ or His followers - quite the opposite in fact!
 They scourged Jesus, gave Him a crown of thorns, mocked Him, crucified Him and later persecuted
 His followers the same way. And yet, their own historical records acknowledge Jesus Christ, the early church,
 and the surprising spread of Christianity.
@@ -62,8 +62,8 @@ the first source of the evil, but even in Rome, where all things hideous and sha
 of the world find their centre and become popular. Accordingly, an arrest was first made of all who
 pleaded guilty; then, upon their information, an immense multitude was convicted, not so much of the
 crime of firing the city, as of hatred against mankind. Mockery of every sort was added to their
-deaths. Covered with the skins of beasts, they were torn by dogs and perished, or were nailed to
-crosses, or were doomed to the flames and burnt, to serve as a nightly illumination, when daylight
+deaths. Covered with the skins of beasts, they were torn by dogs and perished or were nailed to
+crosses or were doomed to the flames and burnt, to serve as a nightly illumination, when daylight
 had expired. 
 
 :::
@@ -88,7 +88,7 @@ They were in the habit of meeting on a certain fixed day before it was light, wh
 alternate verses a hymn to Christ, as to a god and bound themselves by a solemn oath, not to any
 wicked deeds, but never to commit any fraud, theft or adultery, never to falsify their word, nor
 deny a trust when they should be called upon to deliver it up; after which it was their custom to
-separate and then reassemble to partake of food – but food of an ordinary and innocent kind.
+separate and then reassemble to partake of food - but food of an ordinary and innocent kind.
 
 ... I believe it all the more necessary to find out the truth from two slave women, whom they
 call deaconesses, even by torture. I found nothing but immoderate superstition ... 
@@ -141,14 +141,14 @@ not extinct at this day.
 
 This core passage confirms Jesus' existence, his reputation as a wise teacher and miracle worker,
 his condemnation and crucifixion under Pontius Pilate
-([Luke 23](https://www.biblegateway.com/passage/?search=Luke%2023&version=NKJV)), and the continued
+([Luke 23](https://www.biblegateway.com/passage/?search=Luke%2023&version=NKJV)) and the continued
 existence of his followers, the Christians.
 
 In reference to James, this shorter passage is almost universally accepted as authentic and refers to Jesus indirectly but clearly:
 
 :::info[[Antiquities of the Jews 20:200 - The accounts of Flavius Josephus about James the brother of Jesus](https://lexundria.com/j_aj/20.200/wst)]
 
-"So he assembled the Sanhedrin of judges, and brought before them the brother of Jesus, who was called Christ, whose name was James, and some others; and when he had formed an accusation against them as breakers of the law, he delivered them to be stoned."
+"So he assembled the Sanhedrin of judges and brought before them the brother of Jesus, who was called Christ, whose name was James and some others; and when he had formed an accusation against them as breakers of the law, he delivered them to be stoned."
 
 :::
 
@@ -164,7 +164,7 @@ and the beliefs of his followers. These texts, while not canonical, are valuable
 historical context and the unwavering conviction of early Christians.
 
 #### The Didache
-An early (late 1st – early 2nd century AD) Christian manual of doctrine and instruction, the Didache
+An early (late 1st - early 2nd century AD) Christian manual of doctrine and instruction, the Didache
 refers to Jesus' teachings and the practices of the early church, reflecting a community already living
 out the implications of his life and ministry.
 
@@ -197,7 +197,7 @@ descent ([Rom 1:3](https://www.biblegateway.com/passage/?search=Romans%201-3&ver
 *under the law* ([Gal 4:4](https://www.biblegateway.com/passage/?search=gal%204%3A4&version=NKJV)), his
 death by crucifixion
 ([1 Cor 1:23](https://www.biblegateway.com/passage/?search=1%20Cor%201%3A23&version=NKJV),
-[Gal 3:1](https://www.biblegateway.com/passage/?search=gal%203%3A1&version=NKJV)), and his resurrection.
+[Gal 3:1](https://www.biblegateway.com/passage/?search=gal%203%3A1&version=NKJV)) and his resurrection.
 Crucially, Paul states that he met with Peter and James, Jesus' brother
 ([Gal 1:18-19](https://www.biblegateway.com/passage/?search=Gal%201%3A18-19&version=NKJV)), indicating
 direct contact with eyewitnesses and family members of Jesus. These are not abstract theological
@@ -205,12 +205,12 @@ claims but grounded in a shared understanding of Jesus' historical person.
 
 #### The Gospels
 (Mark c. 65-70 AD, Matthew and Luke c. 80-90 AD, John c. 90-100 AD) The four canonical Gospels
-present detailed accounts of Jesus' life, ministry, crucifixion, and resurrection. While their
+present detailed accounts of Jesus' life, ministry, crucifixion and resurrection. While their
 primary purpose is theological, they contain numerous elements consistent with first-century Judean
 life. Scholars note the Gospels' familiarity with:
 
-- Geographical details: Accurate descriptions of towns, regions, and physical features of ancient Israel (e.g., Nazareth, Capernaum, Jerusalem, Sea of Galilee).
-- Cultural practices: References to Jewish customs, religious festivals, and social norms of the period.
+- Geographical details: Accurate descriptions of towns, regions and physical features of ancient Israel (e.g., Nazareth, Capernaum, Jerusalem, Sea of Galilee).
+- Cultural practices: References to Jewish customs, religious festivals and social norms of the period.
 - Political figures: Mentions of Roman governors like Pontius Pilate and local rulers like Herod Antipas, whose historical existence is independently attested.
 - Personal names: The prevalence of names common in first-century Judea among Jesus' followers and contemporaries.
 
@@ -239,9 +239,9 @@ Capernaum, on the northern shore of the Sea of Galilee, plays a key role in the 
 Jesus settled after leaving Nazareth
 ([Mat 4:13](https://www.biblegateway.com/passage/?search=Matthew%204%3A13&version=NKJV)).
 It is the setting for several of his miracles such as
-healing a paralytic ([Mark 2:1–12](https://www.biblegateway.com/passage/?search=Mark%202%3A1%E2%80%9312&version=NKJV))
-and the centurion's servant ([Mat 8:5–13](https://www.biblegateway.com/passage/?search=Matt%208%3A5%E2%80%9313&version=NKJV)) and where he called several
-disciples who were fishermen ([Mat 4:18–19](https://www.biblegateway.com/passage/?search=Matt%204%3A18%E2%80%931&version=NKJV)).
+healing a paralytic ([Mark 2:1-12](https://www.biblegateway.com/passage/?search=Mark%202%3A1%E2%80%9312&version=NKJV))
+and the centurion's servant ([Mat 8:5-13](https://www.biblegateway.com/passage/?search=Matt%208%3A5%E2%80%9313&version=NKJV)) and where he called several
+disciples who were fishermen ([Mat 4:18-19](https://www.biblegateway.com/passage/?search=Matt%204%3A18%E2%80%931&version=NKJV)).
 
 Once considered obscure, Capernaum's biblical significance has been affirmed by extensive archaeological
 excavations since the late 19th century. Archaeological finds at Capernaum, identified as Jesus'
@@ -269,7 +269,7 @@ worship during Jesus' time, consistent with Gospel accounts.
 #### Jerusalem
 
 Extensive archaeological work in Jerusalem has uncovered structures and artifacts dating to the
-Second Temple period (including Jesus' time), such as the Pool of Bethesda, the Pool of Siloam, and
+Second Temple period (including Jesus' time), such as the Pool of Bethesda, the Pool of Siloam and
 the Temple Mount area, all mentioned in the Gospels. The discovery of the Caiaphas ossuary, containing
 the bones of a high priest named Caiaphas (who presided over Jesus' trial), further anchors the Gospel
 accounts in historical reality.
@@ -314,7 +314,7 @@ One major line of evidence is that Jesus fulfilled Old Testament prophecies writ
 Messianic prophecies predicted that the Messiah would be born in Bethlehem, descend from David, arrive from Galilee,
 enter Jerusalem on a donkey, be betrayed for 30 pieces of silver, be silent before His accusers, have pierced hands
 and feet, have His garments cast lots, be buried with the rich, not have His bones broken, suffer for others' sins,
-be crucified, given vinegar to drink, forsaken by His disciples, resurrect three days later, and ascend into heaven
+be crucified, given vinegar to drink, forsaken by His disciples, resurrect three days later and ascend into heaven
 and more. [Jesus Christ fulfilled more than 350 prophecies](../../jesus/crediblilty/prophecies-fulfilled.md) - no one
 in all of history has that track record or even close to it.
 
@@ -356,7 +356,7 @@ invites discussion, collectively they create a compelling historical picture.
 Though you may still question the supernatural elements (miracles, resurrection) - you should by now at
 least see the historical foundations of Jesus' life, death, impact and the preservation of eyewitness
 testimony - are solid. At its core, the best explanation for these converging evidences is that Jesus
-was not a myth - but a real person who lived, died, and was raised, witnessed by many.
+was not a myth - but a real person who lived, died and was raised, witnessed by many.
 
 Perhaps instead of the question *"What evidence is there that Jesus existed?"*, the more important
 question is ***"What would cause the Son of Man to do the unthinkable? What made
@@ -366,7 +366,7 @@ The long and the short of it is you and me - more specifically our sin which has
 paid the ultimate place of shedding His life to pay the price for our sin. At the cross, we witness both God's profound
 love but also the seriousness with which He regards our sin. God doesn't forgive us by turning a blind eye to our sin
 or by overlooking it. God being just, had to render justice
-([Rom 3:25–26](https://www.biblegateway.com/passage/?search=Rom%203%3A25%E2%80%9326&version=NKJV)) and the price was
+([Rom 3:25-26](https://www.biblegateway.com/passage/?search=Rom%203%3A25%E2%80%9326&version=NKJV)) and the price was
 the sacrifice of Jesus. **People are made right with God when they believe that Jesus sacrificed his life,
 shedding his blood** 
 

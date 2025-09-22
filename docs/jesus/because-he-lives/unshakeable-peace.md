@@ -34,14 +34,14 @@ relationally and eternally.
 ## Freedom from Fear, Worry and Anxiety
 
 Fear is one of the enemy's greatest tools. It paralyzes, distorts truth and robs people of joy. But through Jesus,
-we are set free from fear because He has conquered death – the greatest fear of all. His resurrection assures us
+we are set free from fear because He has conquered death - the greatest fear of all. His resurrection assures us
 that death is not the end, but the beginning of eternal life! He said *and lo, I am with you always, even to the
 end of the age* ([Mat 28:20](https://www.biblegateway.com/passage/?search=Mat%2028%3A20&version=NKJV)). You are never alone!
 He gives us authority over darkness *For God has not given us a spirit of fear, but of power and of love and of a sound mind*
 ([2 Tim 1:7](https://www.biblegateway.com/passage/?search=2%20tim%201%3A7&version=NKJV)). *He has made peace with God for us*
 ([Rom 5:1](https://www.biblegateway.com/passage/?search=rom%205%3A1&version=NKJV))
 
-Jesus never promised a life without storms. But He promised peace in the midst of them. The storm didn’t unsettle
+Jesus never promised a life without storms. But He promised peace in the midst of them. The storm didn't unsettle
 Jesus because peace was already inside Him. What He carried, He released. As followers of Christ, we are called
 to do the same. He gives us authority to use and speak to the storms of life as He did. 
 It is the assurance that no matter what we face, we are secure in His love and protected by His grace.
@@ -89,7 +89,7 @@ When we invite Jesus into our lives, we don't receive calm or positivity; we rec
 Unlike philosophies that encourage escape or detachment, Jesus empowers us to overcome the world through His peace: *In the world you will have tribulation; but be of good cheer, I have overcome the world* ([John 16:33](https://www.biblegateway.com/passage/?search=John%2016%3A33&version=NKJV)). Fear no longer dominates. Worry no longer drives our decisions. Anxiety no longer
 owns our future. **The peace of Jesus transforms how we think, live and move through life**.
 
-Paul reminds us in ([Phil 4:6–7](https://www.biblegateway.com/passage/?search=Phil%204%3A6%E2%80%937&version=NKJV))
+Paul reminds us in ([Phil 4:6-7](https://www.biblegateway.com/passage/?search=Phil%204%3A6%E2%80%937&version=NKJV))
 that God's peace, is beyond understanding and guards our hearts and minds when we trust Him. It's not born of denial,
 but of surrender to God's steadfast faithfulness. Peace isn't found in the absence of trouble, but in the presence of
 Christ. True freedom from fear comes not by striving, but by trusting. *You will keep him in perfect peace,

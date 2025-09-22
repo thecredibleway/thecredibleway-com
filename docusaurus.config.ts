@@ -10,13 +10,17 @@ const config: Config = {
   favicon: 'img/favicon.ico',
   url: 'https://thecredibleway.com',
   baseUrl: '/',
+  trailingSlash: false,
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
   },
+  markdown:{
+    hooks:{
+      onBrokenMarkdownLinks: 'warn'
+    }
+  },
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  trailingSlash: false,
   plugins: [
     // this plugin is needed because TimelineJs3 compiles with less
     [
@@ -63,7 +67,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           sidebarCollapsible: true,
-          sidebarCollapsed: false,
+          // sidebarCollapsed: false,
           // editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         blog: {

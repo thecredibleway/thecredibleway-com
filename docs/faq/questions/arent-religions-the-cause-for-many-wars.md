@@ -4,13 +4,13 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Aren't Religions the Cause of Wars? | Christian Apologetics
 sidebar_label: Aren't Religions the Cause of Wars?
-description: Is religion the cause for many wars? We challenge this common claim, exploring historical evidence, the nature of atheistic regimes, and the link between faith and objective morality.
+description: Is religion the cause for many wars? We challenge this common claim, exploring historical evidence, the nature of atheistic regimes and the link between faith and objective morality.
 keywords: ["Aren't religions the cause of wars?","Aren't religions the cause for so many wars","religion and war","Christianity and violence","atheism and morality","moral relativism","conscience and God","is religion dangerous"]
 ---
 
 # Aren't Religions the Cause of Wars? 
 
-This is a common objection to religion in general, and Christianity in particular. Critics argue
+This is a common objection to religion in general and Christianity in particular. Critics argue
 that religion is inherently divisive and violent, claiming it has caused more wars and bloodshed than any
 other human endeavor. At first glance, this accusation *seems* plausible - history has its share of
 conflicts involving religious factions. But when we look beyond slogans and headlines and into historical
@@ -29,7 +29,7 @@ the Rwandan Genocide - **none** *were religious conflicts.*
 
 It's also worth highlighting that atheistic regimes (and not religion) have been responsible for the most
 catastrophic mass killings in human history. Joseph Stalin, leading an explicitly atheistic Soviet Union,
-is estimated to have caused the deaths of up to 60 million people through purges, famines, and gulags.
+is estimated to have caused the deaths of up to 60 million people through purges, famines and gulags.
 Mao Zedong's communist regime in China is responsible for an estimated 40 million deaths. Vladimir Lenin,
 another atheist revolutionary, was responsible for around 5 million deaths during the Russian Civil War
 and the Red Terror. 
@@ -41,7 +41,7 @@ that religion is uniquely violent.
 ## Misusing Religion vs. Religion Itself
 
 It's important to make a distinction between people misusing religion and the actual teachings of religion.
-Christianity, at its core, teaches love for one's neighbor, turning the other cheek, and peace with all
+Christianity, at its core, teaches love for one's neighbor, turning the other cheek and peace with all
 people as far as it depends on you
 ([Rom 12:18](https://www.biblegateway.com/passage/?search=Rom%2012%3A18&version=NKJV)). *Yes, there have
 been some wars started in the name of Christianity - **but not because Christ told them to or taught them to**; but
@@ -59,7 +59,7 @@ Jesus said, *"Put your sword back into its place. For all who take the sword wil
 ([Mat 26:52](https://www.biblegateway.com/passage/?search=Mat%2026%3A52&version=NKJV)). That's not the
 rallying cry of a warlord; it's the wisdom of a peacemaker.
 
-## Atheism, Moral Relativism, and the Capacity for Evil
+## Atheism, Moral Relativism and the Capacity for Evil
 
 One of the dangerous implications of atheism, as a worldview, is its rejection of objective moral values.
 If there is no God - no transcendent source of right and wrong - then morality becomes subjective and
@@ -95,33 +95,33 @@ personal, righteous God who created us in His image.
 *Can we perhaps be moral without God?* This is another form of the objection. Many say, *"I don't need
 religion to be moral."* And to an extent, that's true -a person can live a relatively moral life without
 believing in God. **But the deeper question is, can morality itself exist without God?** If God does not
-exist, are good and evil real things, or just preferences? Without God, moral laws become social
+exist, are good and evil real things or just preferences? Without God, moral laws become social
 contracts or evolutionary instincts - they might help survival, but they carry no obligation. Why should
 I follow the herd's morality if it doesn't benefit me? And who says the herd is right?
 
 :::tip[Building on the rock of Christianity]
 
 Christianity offers a solid foundation - a personal, holy God who created humans with value, gave us free
-will, and expects us to love others as He has loved us. 
+will and expects us to love others as He has loved us. 
 
-That framework gives us not only a reason to be moral but also hope for justice, forgiveness, and redemption.
+That framework gives us not only a reason to be moral but also hope for justice, forgiveness and redemption.
 
 :::
 
 ## Responsibility and Human Sin, Not Religion
 
 **The claim that religion causes most wars is a myth clearly unsupported by history.** The vast majority
-of human conflict arises from greed, power, pride, ethnic division, and ideological extremism - not genuine
+of human conflict arises from greed, power, pride, ethnic division and ideological extremism - not genuine
 religious conviction!
 
 In fact, some of the bloodiest regimes in history were founded on atheistic principles, not religious ones.
 And while people have done evil in the name of religion, this reflects more on human nature than on the
-religion itself - especially when the core teachings of that religion promote true peace, love, and justice.
+religion itself - especially when the core teachings of that religion promote true peace, love and justice.
 
 Human beings are capable of great evil - not because they're religious or irreligious, but because of sin.
 Christianity doesn't deny this - it confronts it head on. Jesus came not to establish a worldly empire,
 [but to change hearts](../../jesus/because-he-lives/salvation-and-redemption.md), offering a path of
-[reconciliation between God and man](../../jesus/crediblilty/why-jesus-came.md), and between man and
+[reconciliation between God and man](../../jesus/crediblilty/why-jesus-came.md) and between man and
 his fellow man.
 
 Ultimately, peace won't come by rejecting religion, but by embracing the

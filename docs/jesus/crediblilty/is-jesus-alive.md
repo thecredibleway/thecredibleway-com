@@ -30,7 +30,7 @@ In particular we have :
 ## Where is He now?
 
 After forty days of appearing to His disciples, Jesus ascended into heaven
-([Acts 1:9–11](https://www.biblegateway.com/passage/?search=Acts%201%3A9%E2%80%9311&version=NKJV)).
+([Acts 1:9-11](https://www.biblegateway.com/passage/?search=Acts%201%3A9%E2%80%9311&version=NKJV)).
 The Bible teaches that He now reigns at the right hand of God the Father, alive in glorified form.
 He is not gone or dead but is living in a transcendent, glorified state, interceding for believers
 ([Rom 8:34](https://www.biblegateway.com/passage/?search=Romans%208%3A34&version=NKJV)) and governing His
@@ -52,7 +52,7 @@ one of the primary ways that Jesus continues to speak and lead people.
 #### Through the Holy Spirit
 
 Jesus promised that after His ascension, the Holy Spirit - the *Comforter* or *Advocate* would come
-([John 14:16–17](https://www.biblegateway.com/passage/?search=John%2014%3A16%E2%80%9317&version=NKJV)). The Holy Spirit
+([John 14:16-17](https://www.biblegateway.com/passage/?search=John%2014%3A16%E2%80%9317&version=NKJV)). The Holy Spirit
 came to dwell within believers - guiding, convicting and empowering them to live according to God's will. 
 
 #### In the Church
@@ -85,7 +85,7 @@ and the eternal nature of His Kingdom.
 
 :::
 
-**Jesus is alive today!** Not just as a memory, an ideal, or moral teacher, but as the resurrected Son
+**Jesus is alive today!** Not just as a memory, an ideal or moral teacher, but as the resurrected Son
 of God who reigns in heaven and is present through the Holy Spirit. This is reality. Jesus lives in
 and through His people, His Church and His continuing mission in the world. 
 

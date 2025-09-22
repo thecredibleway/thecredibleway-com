@@ -30,7 +30,7 @@ They never loved you enough to suffer and die for your sins and sickness, nor di
 price to restore your back to relationship with God - only Jesus Christ did! If Jesus is credible,
 then what He said is also credible! I have to believe what He says. It is no longer about my
 personal opinion. The resurrection of Jesus, the miracles He performed, the consistency
-of eyewitness testimony, and the internal witness of the Holy Spirit all provide a
+of eyewitness testimony and the internal witness of the Holy Spirit all provide a
 cumulative case for believing that death is not the end. 
 
 :::tip[Eternity]
@@ -52,7 +52,7 @@ never broken a promise yet!**
 Skeptics often ask *Can anything beyond religious texts suggest the possibility of life after
 death?* While Scripture provides the most direct revelation, other avenues also support belief in eternity.
 Thousands of cases have been documented where people have clinically died and later been revived,
-often reporting remarkably consistent themes - heaven, hell, light, peace, awareness, or even
+often reporting remarkably consistent themes - heaven, hell, light, peace, awareness or even
 seeing deceased loved ones. While NDEs are not definitive proof of the afterlife, they point to
 the fact that there is life after that - a reason for the soul. Some experiences have included accurate
 descriptions of events or conversations that happened while the individual was clinically brain-dead.
@@ -115,7 +115,7 @@ something truly extraordinary? The rapid spread of Christianity throughout the R
 Empire, despite severe persecution, suggests a powerful underlying conviction,
 inexplicable by natural means alone. The [early Christians were not only willing to die for
 their belief in eternal life](../../jesus/crediblilty/the-martyrs.md); they lived
-sacrificially, generously, and courageously. Why? **Because they believed death was not the end.**
+sacrificially, generously and courageously. Why? **Because they believed death was not the end.**
 
 [**Publius Tacitus**](../../jesus/crediblilty/the-resurrection.md#tacitus-publius-cornelius-tacitus)
 (56 - 120 AD), is widely regarded as one of Rome's greatest historians. He came from the wealthy
@@ -136,19 +136,19 @@ the first source of the evil, but even in Rome, where all things hideous and sha
 of the world find their centre and become popular. Accordingly, an arrest was first made of all who
 pleaded guilty; then, upon their information, an immense multitude was convicted, not so much of the
 crime of firing the city, as of hatred against mankind. Mockery of every sort was added to their
-deaths. Covered with the skins of beasts, they were torn by dogs and perished, or were nailed to
-crosses, or were doomed to the flames and burnt, to serve as a nightly illumination, when daylight
+deaths. Covered with the skins of beasts, they were torn by dogs and perished or were nailed to
+crosses or were doomed to the flames and burnt, to serve as a nightly illumination, when daylight
 had expired. 
 
 :::
 
-To this day, countless believers of Christ find peace, courage, and even joy in the face of
+To this day, countless believers of Christ find peace, courage and even joy in the face of
 death - not because they deny its reality, but because they know it is not final. As Paul wrote
 in [2 Corinthians 5:1](https://www.biblegateway.com/passage/?search=2%20Corinthians%205%3A1&version=NKJV),
 "For we know that if the earthly tent we live in is destroyed, we have a building from God,
 an eternal house in heaven... ". This peace is not the result of emotional denial - it flows
 from a genuine relationship with the risen Christ. The change in how believers view life,
-suffering, and death itself is evidence that they are living in the light of eternity.
+suffering and death itself is evidence that they are living in the light of eternity.
 
 ## The Resurrection of Jesus Christ 
 
@@ -190,7 +190,7 @@ These weren't just ordinary men-they were legal experts and could think for them
 and provincial governors. **If anything, their testimony as hostile sources, is especially valuable and
 considered the most credible since they had no reason to favor Jesus or His followers.**
 
-The Romans were certainly no friends of Jesus Christ, or His followers - quite the opposite in fact!
+The Romans were certainly no friends of Jesus Christ or His followers - quite the opposite in fact!
 They scourged Jesus, gave Him a crown of thorns, mocked Him, crucified Him and later persecuted
 His followers the same way. And yet, their own historical records [acknowledge Jesus Christ, the early church,
 and the surprising spread of Christianity].
@@ -209,7 +209,7 @@ a respected Roman-Jewish historian, offers near-eyewitness quality in his writin
 and he offers insights into the era's cultural context. His major works, *Jewish Antiquities* and 
 *The Wars of the Jews*, detail Hebrew history and the Roman destruction of Jerusalem, including the
 fall of Masada in 73 AD. Josephus's access to Roman imperial resources, backed by Emperors
-Vespasian, Titus, and Domitian, allowed for detailed records beyond those of the Gospel writers.
+Vespasian, Titus and Domitian, allowed for detailed records beyond those of the Gospel writers.
 
 :::info[[Antiquities of the Jews 18:63-64 - The accounts of Flavius Josephus about Jesus Christ](https://lexundria.com/j_aj/18.63-64/wst)]
 
@@ -334,26 +334,26 @@ reinforce the hope of eternal life.
 **Lazarus** - In [John 11](https://www.biblegateway.com/passage/?search=john%2011&version=NKJV). Jesus
 waits four days before going to Lazarus' tomb. Why? *To show that death had done its full
 work.* Lazarus wasn't merely unconscious or recently deceased - he had been buried for days.
-Yet, Jesus calls him forth, and Lazarus walks out alive. Jesus proclaims before raising him,
+Yet, Jesus calls him forth and Lazarus walks out alive. Jesus proclaims before raising him,
 *"I am the resurrection and the life. The one who believes in me will live, even though they die."*
 ([John 11:25](https://www.biblegateway.com/passage/?search=john%2011%3A25&version=NKJV)). This event,
 witnessed by many, was a powerful demonstration of Jesus' authority over life and death.
 
-**The Widow of Zarephath’s son**
-([1 Kings 17:17–24](https://www.biblegateway.com/passage/?search=1%20Kings%2017%3A17%E2%80%9324&version=NKJV))
+**The Widow of Zarephath's son**
+([1 Kings 17:17-24](https://www.biblegateway.com/passage/?search=1%20Kings%2017%3A17%E2%80%9324&version=NKJV))
 Raised through the prophet Elijah, showing God's power over mortality.
 
 **The Shunammite woman's son**
-([2 Kings 4:18–37](https://www.biblegateway.com/passage/?search=2%20Kings%204%3A18%E2%80%9337&version=NKJV))
-Raised by Elisha, again testifying to God’s care for individuals.
+([2 Kings 4:18-37](https://www.biblegateway.com/passage/?search=2%20Kings%204%3A18%E2%80%9337&version=NKJV))
+Raised by Elisha, again testifying to God's care for individuals.
 
-**The widow’s son at Nain**
-([Luke 7:11–17](https://www.biblegateway.com/passage/?search=Luke%207%3A11%E2%80%9317&version=NKJV))
+**The widow's son at Nain**
+([Luke 7:11-17](https://www.biblegateway.com/passage/?search=Luke%207%3A11%E2%80%9317&version=NKJV))
 Raised by Jesus in public view, moving the crowd to glorify God.
 
 **Jairus daughter**
-([Mark 5:35–43](https://www.biblegateway.com/passage/?search=Mark%205%3A35%E2%80%9343&version=NKJV))
-A young girl brought back to life by Christ’s word, witnessed by her parents and disciples.
+([Mark 5:35-43](https://www.biblegateway.com/passage/?search=Mark%205%3A35%E2%80%9343&version=NKJV))
+A young girl brought back to life by Christ's word, witnessed by her parents and disciples.
 
 Peter raised **Tabitha (Dorcas)** in [Acts 9](https://www.biblegateway.com/passage/?search=%5BActs%209&version=NKJV)
 and Paul raised **Eutychus** in [Acts 20](https://www.biblegateway.com/passage/?search=%5BActs%2020&version=NKJV).
@@ -362,10 +362,10 @@ solidify the biblical claim of divine intervention in the face of death. They sh
 power demonstrated by Jesus was not limited to him alone but was also at work through his
 apostles, signifying the continuation of God's redemptive plan.
 
-Each instance speaks not only to God’s ability to defeat death, but His willingness to do so. They are not only acts
+Each instance speaks not only to God's ability to defeat death, but His willingness to do so. They are not only acts
 of compassion, but previews of what eternity holds for those who trust in Him.
 
 **You have a choice and only you can decide what you want for your life and for eternity**. We really hope you
 choose life! ([Deut 30:15-20](https://www.biblegateway.com/passage/?search=Deuteronomy%2030%3A15-20&version=NKJV)).
-Only Jesus can break the power of sin that we are born into, and [give you life](../../jesus/because-he-lives/i-can-face-tomorrow.md).
+Only Jesus can break the power of sin that we are born into and [give you life](../../jesus/because-he-lives/i-can-face-tomorrow.md).
 

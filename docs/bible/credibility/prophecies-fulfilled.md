@@ -174,7 +174,7 @@ infinite, that go beyond what we might expect or calculate!
 
 ## Daniel's Prophecies and the Rise and Fall of Empires
 
-The book of Daniel, written around 600–530 BC, contains prophetic visions of world empires that align
+The book of Daniel, written around 600-530 BC, contains prophetic visions of world empires that align
 precisely with post-Daniel history.
 
 #### Daniel 2 - Four Empires
@@ -193,7 +193,7 @@ of the empires that rule the earth! *Thats not coincidence.*
 
 #### Daniel 9 - The 70 Weeks Prophecy and the Timing of the Messiah
 
-Perhaps the most astonishing is [Daniel 9:24–27](https://www.biblegateway.com/passage/?search=Daniel%209%3A24%E2%80%9327&version=NKJV),
+Perhaps the most astonishing is [Daniel 9:24-27](https://www.biblegateway.com/passage/?search=Daniel%209%3A24%E2%80%9327&version=NKJV),
 which gives a time prophecy:
 *"From the issuing of the decree to restore and rebuild Jerusalem until the Anointed One (Messiah) comes,
 there will be seven 'sevens' and sixty-two 'sevens'... " (v.25)*
@@ -202,7 +202,7 @@ Using Jewish prophetic reckoning (a 'week' is 7 years), this gives:
 
 7 + 62 = 69 weeks = 483 years
 
-Starting point: decree to rebuild Jerusalem (~457 BC, [Ezra 7:11–26](https://www.biblegateway.com/passage/?search=Ezra%207%3A11%E2%80%9326&version=NKJV))
+Starting point: decree to rebuild Jerusalem (~457 BC, [Ezra 7:11-26](https://www.biblegateway.com/passage/?search=Ezra%207%3A11%E2%80%9326&version=NKJV))
 
 483 years later = AD 27, the approximate start of Jesus' public ministry
 
@@ -318,7 +318,7 @@ including the fulfillment of prophecies about Christ."*
 
 :::
 
-**Sir Lionel Alfred Luckhoo**, KCMG CBE QC (1914 – 1997) was a Guyanese politician, diplomat and lawyer,
+**Sir Lionel Alfred Luckhoo**, KCMG CBE QC (1914 - 1997) was a Guyanese politician, diplomat and lawyer,
 famed for his 245 consecutive successful defences in murder cases. Luckhoo was deeply skeptical and
 relied on evidence, more so given his law background. Prophecy was a key part of his conversion.
 
@@ -383,7 +383,7 @@ Fulfilled prophecy is the fingerprint of God on the pages of history
 
 :::
 
-Fulfilled prophecy shows that God is sovereign over history ([Isa 46:5,9–10](https://www.biblegateway.com/passage/?search=Isaiah%2046%3A5-10&version=NKJV)).
+Fulfilled prophecy shows that God is sovereign over history ([Isa 46:5,9-10](https://www.biblegateway.com/passage/?search=Isaiah%2046%3A5-10&version=NKJV)).
 It proves without a shadow of a doubt that the Bible is not a random compilation of thoughts,
 it's accurate down to the details! 
 

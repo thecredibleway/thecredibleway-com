@@ -22,7 +22,7 @@ the historical and textual evidence actually supports the reliability of the Gos
 ## Understanding the Gospel Accounts
 
 Before addressing specific allegations of contradictions, it is important to understand the nature of the Gospel
-accounts. The Gospels i.e., Matthew, Mark, Luke, and John are ancient biographies of Jesus Christ, each written
+accounts. The Gospels i.e., Matthew, Mark, Luke and John are ancient biographies of Jesus Christ, each written
 by different authors who had distinct perspectives and audiences. Matthew and John were eyewitnesses to many of
 the events they recorded, while Mark and Luke gathered their information from eyewitnesses and other sources.
 
@@ -35,7 +35,7 @@ of the same events often highlight different details depending on the author's g
 
 **Human memory is imperfect and varied so even when people witness the exact same event, their individual
 perceptions, recall and how they articulate what they saw or heard
-will naturally differ. Nuances in language, emphasis, and detail are expected.**
+will naturally differ. Nuances in language, emphasis and detail are expected.**
 
 ***This is exactly what we find in the Gospels, which lends to its credibility.***
 
@@ -76,7 +76,7 @@ about them!
 Another example is that critics point to differences in the timeline of events such as the cleansing of the temple.
 The Gospel of John places the event at the beginning of Jesus' ministry
 ([John 2:13-22](https://www.biblegateway.com/passage/?search=John%202%3A13-22&version=NKJV)), while the Synoptic Gospels
-- Matthew, Mark, and Luke place it at the end
+- Matthew, Mark and Luke place it at the end
 ([Matt. 21:12-17](https://www.biblegateway.com/passage/?search=Matt.%2021%3A12-17&version=NKJV),
 [Mark 11:15-19](https://www.biblegateway.com/passage/?search=Mark%2011%3A15-19&version=NKJV),
 [Luke 19:45-48](https://www.biblegateway.com/passage/?search=Luke%2019%3A45-48&version=NKJV)). This can be explained
@@ -95,18 +95,18 @@ simultaneously and could therefore take our place with the penalty of death and 
 
 The discovery of [the Dead Sea Scrolls in 1947](../../bible/credibility/acheological-support.mdx#the-dead-sea-scrolls)
 provided a remarkable insight into the accuracy of the Old Testament and the New Testament manuscripts. Among the
-scrolls were fragments of nearly every book of the Hebrew Bible, including copies of Isaiah, Psalms, and other Old
-Testament writings. The Dead Sea Scrolls were written centuries before the birth of Jesus, and their preservation has
+scrolls were fragments of nearly every book of the Hebrew Bible, including copies of Isaiah, Psalms and other Old
+Testament writings. The Dead Sea Scrolls were written centuries before the birth of Jesus and their preservation has
 allowed scholars to compare ancient manuscripts with modern copies of the Bible.
 
 One of the most significant findings was **the consistency of the Hebrew Bible texts over thousands of years.** Scholars
-have noted that the differences between the Dead Sea Scrolls and later manuscripts are minimal, and no substantial changes
+have noted that the differences between the Dead Sea Scrolls and later manuscripts are minimal and no substantial changes
 have been found that affect the meaning of the texts. This suggests that the transmission of the Old Testament was highly
 accurate and that the Gospel manuscripts, which were copied much later, would have also been carefully preserved.
 
 While the Dead Sea Scrolls are not directly related to the Gospels, they provide strong evidence for the accuracy of the
 overall manuscript tradition that extends to the New Testament. The meticulous care with which scribes copied ancient
-manuscripts is well-documented, and the consistency of the textual tradition suggests that the Gospels have been faithfully
+manuscripts is well-documented and the consistency of the textual tradition suggests that the Gospels have been faithfully
 transmitted. In fact there are over 5800 Greek manuscripts and a total of greater than 25000 copies of text to verify the
 New Testament. The greatest Roman historian of that period `Tacitus` and his works Annals only has 20 copies, but is
 taken as fact which is surprising.
@@ -139,12 +139,12 @@ by textual variants in the manuscript tradition of the New Testament.**
 The Gospel writers were not simply creating religious narratives for later generations but were also attempting to record
 real historical events. This was not uncommon in ancient biography, as authors sought to provide accurate accounts of the
 lives of prominent figures. The Gospels are filled with historical references, such as the reign of specific Roman emperors,
-the names of Jewish rulers like Pontius Pilate and Herod, and even obscure details such as the location of Jesus' birth in
+the names of Jewish rulers like Pontius Pilate and Herod and even obscure details such as the location of Jesus' birth in
 Bethlehem ([Matt 2:1-6](https://www.biblegateway.com/passage/?search=Matt%202%3A1-6&version=NKJV),
 [Luke 2:4-7](https://www.biblegateway.com/passage/?search=Luke%202%3A4-7&version=NKJV)). These references suggest that the
 Gospel writers were concerned with grounding their accounts in real historical events.
 
-Moreover, early Christian apologists such as Justin Martyr, Irenaeus, and Tertullian often cited the Gospels as authoritative
+Moreover, early Christian apologists such as Justin Martyr, Irenaeus and Tertullian often cited the Gospels as authoritative
 records of Jesus' life. Their emphasis on the historical reliability of the Gospels reflects the fact that the early church
 took the accuracy of these documents seriously. It is also worth noting that the Gospels were written within a few decades
 of Jesus' death and resurrection, a time when eyewitnesses were still alive and could have disputed any inaccuracies.
@@ -156,9 +156,9 @@ times, biographies often included differences in the details of events, but thes
 contradiction. The focus of ancient biography was often on the overall themes, rather than precise chronological details.
 
 Additionally, the Gospels were based on oral traditions that had been passed down by Jesus' disciples and other eyewitnesses.
-Oral transmission of stories was a well-established practice in the ancient world, and scholars agree that the Gospels were
+Oral transmission of stories was a well-established practice in the ancient world and scholars agree that the Gospels were
 based on reliable oral traditions. While oral traditions are subject to variation over time, the core message of the
-Gospels - the life, death, and resurrection of Jesus—remains consistent across all four accounts.
+Gospels - the life, death and resurrection of Jesus—remains consistent across all four accounts.
 
 :::info[Oral Tradition]
 
@@ -189,7 +189,7 @@ Bible? With such venom and skepticism? With such thoroughness and erudition? Upo
 **[Scholars in areas like archaeology, philosophy and science continue to explore and affirm the truths found in Scripture](../../bible/credibility/prophecies-fulfilled.md#what-scholars-say)**
 
 In the end, the Gospels offer us a trustworthy account of the most important events in history. Rather than being full
-of contradictions, they are rich, complex, and profoundly consistent in their message. It invites you to [meet the person 
+of contradictions, they are rich, complex and profoundly consistent in their message. It invites you to [meet the person 
 who is truth - Jesus Christ](../../jesus/because-he-lives/i-can-face-tomorrow.md)
 
 What will you choose to do?

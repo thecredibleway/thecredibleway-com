@@ -15,7 +15,7 @@ In fact, society is often marked by the blending of different religious ideas an
 inclusivity. People are left to wonder - how do we decide which path to follow? How can one
 religion, Christianity, be the *only true religion* amidst so many competing beliefs?
 
-The answer begins with examining the nature of faith, the credibility of Christianity, and
+The answer begins with examining the nature of faith, the credibility of Christianity and
 how it stands apart from other religious systems. It requires looking not just at philosophy
 but also at historical evidence and the unique claims made by Jesus Christ. Let's explore
 how Christianity can be considered the only true religion in light of evidence, reason and
@@ -36,13 +36,13 @@ In the Gospel of John, in
 [John 20:30-31](https://www.biblegateway.com/passage/?search=John%2020%3A30-31&version=NKJV) we
 see the basis for faith in Jesus Christ, *"Jesus did many other signs in the presence of his
 disciples, which are not written in this book; but these are written that you may believe that
-Jesus is the Messiah, the Son of God, and that by believing you may have life in his name."*
+Jesus is the Messiah, the Son of God and that by believing you may have life in his name."*
 John did not simply invent a story; he recorded events that he and others had witnessed. 
 These were real historical occurrences that invite us to investigate their truth. Some might
 argue that John's writings are biased because they are part of the Bible. However, we must
 recognize that John did not know the Bible would be canonized in the way we understand it today,
 nor did He know that his letters would be part of the Bible. The truth is however, he was simply
-an eyewitness, a real person who experienced historical events, and he recorded those events
+an eyewitness, a real person who experienced historical events and he recorded those events
 so that others might believe. The evidence presented by the New Testament, including the
 resurrection of Jesus Christ, stands up to scrutiny and invites honest investigation.
 
@@ -62,9 +62,9 @@ salvation.
 
 ## The Key Question - How Is Relationship with God Determined?
 
-Most of the world's religions, whether it's Hinduism, Islam, or Buddhism, offer a system of
+Most of the world's religions, whether it's Hinduism, Islam or Buddhism, offer a system of
 merit-based salvation. This means that a person must live a life of good deeds to *earn* 
-their way to God, heaven, nirvana, or some other form of ultimate peace. In these systems, when
+their way to God, heaven, nirvana or some other form of ultimate peace. In these systems, when
 you die, there is an ultimate judgment where your good works are weighed against your bad works;
 i.e. you are accepted at the *end*, if the good outweighs the bad.
 The question is - how can anyone be sure they have done enough good to pass the judgment and
@@ -74,12 +74,12 @@ only consequences with no chance of redemption, for all eternity.
 Think of it like this - you go through life as a student in a university, learning from
 professors and taking courses. But when it comes time for the final exam, not one of those professors
 can guarantee that you will pass. It is up to you alone, with your merits, to secure your future.
-Similarly, most religions place the burden of salvation on your own actions, and the result is
+Similarly, most religions place the burden of salvation on your own actions and the result is
 uncertainty. 
 
 Christianity, however, is radically different. Christianity teaches that salvation is not based
 on merit but on relationship. The relationship with God starts at the very beginning, not at the
-end, and the assurance of eternal life is given freely, not earned. Acceptance comes from the
+end and the assurance of eternal life is given freely, not earned. Acceptance comes from the
 moment you accept Jesus Christ and let Him be your Lord and Savior. Jesus Christ did not come
 to simply teach moral lessons or give us a set of guidelines for how to live; He came to provide
 the way for humans to be reconciled with God. The Apostle John writes that *"whoever believes
@@ -101,7 +101,7 @@ Steven Kang who was a devout Buddhist who prayed 8 hours of day and wanted to re
 instead finds hell and then finds Jesus after a Near Death Experience. [He tells his story and
 what led him to Christ](https://www.youtube.com/watch?v=FnmUbPouvHk).
 
-Audio recording of a book by Sir Lionel Luckhoo, who was twice knighted by Queen Elizabeth, and
+Audio recording of a book by Sir Lionel Luckhoo, who was twice knighted by Queen Elizabeth and
 the only person to be Ambassador to two nations for the UK. An expert lawyer who holds the 
 Guinness Book of World Records for the Guinness Book of World Records for the largest number
 of successive murder acquittals - 245. [He decided to investigate Jesus Christ and became a
@@ -124,12 +124,12 @@ holiness and humanity's sinfulness. The idea of merit-based salvation is fundame
 flawed because no one can ever do enough good works to make themselves righteous before 
 a perfectly holy God. If salvation were based on our own works, no one would have any hope.
 
-Buddhism, Islam, and other major religious systems offer philosophical teachings and
+Buddhism, Islam and other major religious systems offer philosophical teachings and
 moral guidelines. But none offer a solution to the central problem of human existence - how
 can we be made right with a perfectly holy God? 
 Christianity offers a unique solution - God Himself became human in the person of Jesus
 Christ. Jesus lived the perfect life that we could not live, died the death that we
-deserved, and rose again to conquer sin and death. This is what Christianity calls
+deserved and rose again to conquer sin and death. This is what Christianity calls
 *the atonement* - the reconciliation of humanity with God through Jesus Christ's sacrifice.
 
 :::tip[The old rugged cross]
@@ -155,7 +155,7 @@ problem of human sin - a relationship with God made possible through Jesus Chris
 
 :::tip[The perfect solution]
 
-No other religious figure - whether Buddha, Muhammad, or anyone else - has made such a
+No other religious figure - whether Buddha, Muhammad or anyone else - has made such a
 claim or offered such a solution for salvation.
 
 Buddha said he was a *seeker of truth*, Muhammed said he was a *prophet of truth*,
@@ -171,7 +171,7 @@ Christianity, through the person of Jesus Christ,
 but also the assurance of that life, based on a relationship with God rather than our own merit.
 
 So, while many religions claim to be the true path, Christianity stands apart. Its claims 
-are rooted in historical events, its solution to human brokenness is unique, and its offer
+are rooted in historical events, its solution to human brokenness is unique and its offer
 of salvation is freely given, not earned. The evidence is clear - Christianity is the only
 faith that offers a legitimate solution to the problem of sin and the way to eternal life with God.
 

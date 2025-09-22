@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Distinctive Character | Origins of the Bible
 sidebar_label: Distinctive Character
-description: What sets the Bible apart - it's unparalleled coherence across centuries, authors, and cultures, coupled with its profound influence, moral authority, and global impact, makes it a truly unique book.
+description: What sets the Bible apart - it's unparalleled coherence across centuries, authors and cultures, coupled with its profound influence, moral authority and global impact, makes it a truly unique book.
 keywords: ["Divine inspiration","Distinctive Nature of the Bible","Uniqueness of the Bible","The Bible's Unmatched Qualities","moral authority of the bible", "influence of the bible"]
 ---
 
@@ -130,7 +130,7 @@ in passages such as [Gen 1:26](https://www.biblegateway.com/passage/?search=Gen%
 [1 Cor 2:10-11](https://www.biblegateway.com/passage/?search=1%20Cor%202%3A10-11&version=NKJV),
 [John 3:5-7](https://www.biblegateway.com/passage/?search=John%203%3A5-7&version=NKJV) and many more.
 This was later formalized at councils such as Nicaea (325 AD ) and Constantinople (381 AD) and professed
-in confessions such as The Articles of Religion (1571) and The Westminster Confession of Faith (1643–1646), is the understanding
+in confessions such as The Articles of Religion (1571) and The Westminster Confession of Faith (1643-1646), is the understanding
 of the ontology of God that can only be described as unique.
 
 ### Deity and Atonement
@@ -155,7 +155,7 @@ satisfaction for human sin, a concept that is without real parallel in other sys
 
 While many religious systems emphasize moral effort or ritual to attain salvation or divine favor, the Bible uniquely
 teaches that [salvation is by grace through faith, not earned by works](../../jesus/because-he-lives/salvation-and-redemption.md)
-([Eph 2:8–9](https://www.biblegateway.com/passage/?search=Eph%202%3A8%E2%80%939&version=NKJV),
+([Eph 2:8-9](https://www.biblegateway.com/passage/?search=Eph%202%3A8%E2%80%939&version=NKJV),
 [Titus 3:5](https://www.biblegateway.com/passage/?search=Titus%203%3A5&version=NKJV)). **This grace based salvation
 underscores human inability to reach God by works; God therefore reaches up by His complete provision through Christ.**
 

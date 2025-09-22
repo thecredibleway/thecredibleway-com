@@ -6,14 +6,14 @@ title: Privacy Policy
 # Privacy Policy
 
 ## Introduction
-We value your privacy. This Privacy Policy explains how we collect, use, and protect your personal information when you visit our website.
+We value your privacy. This Privacy Policy explains how we collect, use and protect your personal information when you visit our website.
 
 By accessing or using our website, you agree to the terms outlined in this Privacy Policy.
 
 ## Information We Collect
 We do not collect any personally identifiable information unless you voluntarily provide it (such as through a contact form etc.). The information we may collect includes:
 
-- **Usage Data**: We collect information about how you interact with our website, such as which pages you visit, how long you stay on pages, and what links you click. This data is **anonymous** and cannot be used to personally identify you.
+- **Usage Data**: We collect information about how you interact with our website, such as which pages you visit, how long you stay on pages and what links you click. This data is **anonymous** and cannot be used to personally identify you.
 
 ## How We Use Your Data
 We use the information we collect to:
@@ -22,7 +22,7 @@ We use the information we collect to:
 - Monitor the performance of our website and troubleshoot technical issues.
 
 ## Google Analytics
-We use **Google Analytics** to gather anonymous information about how visitors use our website. Google Analytics collects data on page visits, user engagement, and other non-personally identifiable interactions. 
+We use **Google Analytics** to gather anonymous information about how visitors use our website. Google Analytics collects data on page visits, user engagement and other non-personally identifiable interactions. 
 
 - **Important Note**: We do not collect IP addresses or any other personally identifiable information through Google Analytics.
 - **IP Anonymization**: Google Analytics anonymizes the data it collects by masking the last portion of users' IP addresses before storing or processing them. This ensures that no personally identifiable information is stored or used for tracking purposes.
@@ -46,7 +46,7 @@ We may use third-party services (like Google Analytics) to help us analyze websi
 Please refer to our [Cookie Policy](./cookie-policy.md)
 
 ## Data Security
-We take reasonable precautions to protect your data. However, no method of data transmission or storage is 100% secure, and we cannot guarantee absolute security.
+We take reasonable precautions to protect your data. However, no method of data transmission or storage is 100% secure and we cannot guarantee absolute security.
 
 ## Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. When we do, we will post the updated policy on this page and update the "Effective Date" at the top of this policy.

@@ -34,7 +34,7 @@ unified message pointing to Jesus Christ as Lord and Savior.
 This is not just a philosophical claim. The Bible contains supernatural insight - knowledge about the future, the human heart,
 and the eternal realm - something that no ordinary human could manufacture. Consider
 [the hundreds of fulfilled prophecies](../../bible/credibility/prophecies-fulfilled.md), including specific predictions about
-[the life, death, and resurrection of Jesus](../../jesus/crediblilty/prophecies-fulfilled.md), written centuries before He was
+[the life, death and resurrection of Jesus](../../jesus/crediblilty/prophecies-fulfilled.md), written centuries before He was
 born. **These were not the guesses of religious philosophers - they were revelations from the mind of God.**
 
 As [2 Peter 1:21](https://www.biblegateway.com/passage/?search=2%20peter%201%3A21&version=NKJV) says, *"Prophecy never had its
@@ -43,7 +43,7 @@ element is real, but it is the Spirit of God who guided their words.
 
 This is in stark contrast to other religions which teach the opposite - skeptics often claim that *[All religions are paths to
 the same god](./arent-all-religions-paths-to-the-same-god.md)*; however [nothing is further than the truth](./arent-all-religions-paths-to-the-same-god.md#the-nature-of-god---personal-vs-impersonal). Some like Buddhism deny the existence of God and focus on enlightenment
-by good deeds. Islam teaches a different god in Allah altogether, and Hinduism teaches of 330 million gods.
+by good deeds. Islam teaches a different god in Allah altogether and Hinduism teaches of 330 million gods.
 
 ## The Bible's Power to Transform
 
@@ -66,7 +66,7 @@ People often assume that trusting the Bible is a form of blind faith. But that's
 a married person doesn't question the existence of their spouse simply because they can't offer *"scientific proof"* of
 their love, the Christian walks in daily relationship with God. This is not irrational - it's relational. Jesus said in
 [John 17:3](https://www.biblegateway.com/passage/?search=john%2017%3A3&version=NKJV), *"Now this is eternal life - that
-they may know you, the only true God, and Jesus Christ whom you have sent."*
+they may know you, the only true God and Jesus Christ whom you have sent."*
 
 :::tip[Knowing God]
 
@@ -92,12 +92,12 @@ sets us free.
 ## Addressing Misunderstandings About Scripture
 
 Skeptics often point to verses that seem confusing or troubling, but that is because they are taken out of context.
-One common example is [Deuteronomy 22:28–29](https://www.biblegateway.com/passage/?search=deut%2022%3A28-29&version=NKJV),
+One common example is [Deuteronomy 22:28-29](https://www.biblegateway.com/passage/?search=deut%2022%3A28-29&version=NKJV),
 which many claim teaches that a woman must marry her rapist. This is a gross misunderstanding due to lack of context.
 
-The verses just before ([Deut. 22:25–27](https://www.biblegateway.com/passage/?search=deut%2022%3A25-27&version=NKJV))
+The verses just before ([Deut. 22:25-27](https://www.biblegateway.com/passage/?search=deut%2022%3A25-27&version=NKJV))
 clearly state that **a man who rapes a woman is to be put to death.** The man, not the woman, bore the consequences for
-rape. The passage in verses 28–29 however refer to a different scenario - consensual premarital sex, and not rape. We know
+rape. The passage in verses 28-29 however refer to a different scenario - consensual premarital sex and not rape. We know
 this from v.29 *"... and they are found out,..."* not and *he or she was found out*, implying that both were guilty. The
 command to marry was not about punishing the woman, but about taking responsibility in a culture where her future
 security would be at risk. In our language today we'd call this a *Shotgun wedding*. 
@@ -105,7 +105,7 @@ security would be at risk. In our language today we'd call this a *Shotgun weddi
 :::tip[Context is important]
 
 The Bible does not condone evil - it reveals God's heart for justice and love. The Bible's moral law is
-clear - love your neighbor as yourself! And love does not rape, kill, or exploit. 
+clear - love your neighbor as yourself! And love does not rape, kill or exploit. 
 
 **Scripture is consistent when read in the light of its full message and intent. And that's why context matters!**
 
@@ -125,9 +125,9 @@ it doesn't remove our desire for joy, it redirects it to something eternal.
 ## Ask the Author directly
 
 No other book in human history even compares to the Bible. It's a unified message across millennia, filled with
-prophecy, moral wisdom, and divine power. It doesn't just tell us what to do - it changes who we are. If it were merely
-the product of man, it would reflect man's flaws, limited knowledge, and shifting moral compass. But instead, we find in
-its pages eternal truths that have outlasted kingdoms, cultures, and critics.
+prophecy, moral wisdom and divine power. It doesn't just tell us what to do - it changes who we are. If it were merely
+the product of man, it would reflect man's flaws, limited knowledge and shifting moral compass. But instead, we find in
+its pages eternal truths that have outlasted kingdoms, cultures and critics.
 
 [Hebrews 4:12](https://www.biblegateway.com/passage/?search=heb%204%3A12&version=NKJV) declares, *"The word of God is alive
 and active, sharper than any double-edged sword... it judges the thoughts and attitudes of the heart."* 
@@ -141,7 +141,7 @@ find in its pages not just information, but transformation!
 :::
 
 When skeptics question the Bible, they often do so without ever asking the true Author what He meant. The Holy Spirit, who
-inspired the Scriptures, is still present today to guide, convict, and reveal truth to those who seek it.
+inspired the Scriptures, is still present today to guide, convict and reveal truth to those who seek it.
 
 Rather than dismissing the Bible as a product of men, why not ask God to open your eyes as He did ours and many more? Just as
 we were taken from darkness into light, so too can you encounter the living

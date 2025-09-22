@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Salvation and Redemption | Because He Lives
 sidebar_label: Salvation and Redemption
-description: Because Jesus lives, I am saved from sin and death through His blood. Salvation is the foundation and ultimate reason Jesus came, died, and rose again.
+description: Because Jesus lives, I am saved from sin and death through His blood. Salvation is the foundation and ultimate reason Jesus came, died and rose again.
 keywords: ["salvation","salvation through Jesus","eternal life","forgiveness of sins","Freedom from death","Jesus saves","rescued from sin and death","the cross and the empty tomb","made right with God","saved by grace through faith"]
 ---
 
@@ -13,7 +13,7 @@ keywords: ["salvation","salvation through Jesus","eternal life","forgiveness of 
 ## The Cost of Redemption
 
 Redemption means "to buy back" or "to pay the ransom for freedom". Humanity was enslaved to sin, cursed by the law,
-and cut off from God’s presence. But Jesus, the spotless Lamb, gave Himself to redeem us.
+and cut off from God's presence. But Jesus, the spotless Lamb, gave Himself to redeem us.
 [Ephesians 1:7](https://www.biblegateway.com/passage/?search=Ephesians%201%3A7&version=NKJV) says 
 *"In Him we have redemption through His blood, the forgiveness of sins, according to the riches of His grace"*
 

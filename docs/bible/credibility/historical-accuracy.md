@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Historical Accuracy | The Bible is Credible
 sidebar_label: Historical Accuracy
-description: The Bible consistently aligns with known historical facts, including places, rulers, events, and cultural details, demonstrating remarkable historical accuracy.
+description: The Bible consistently aligns with known historical facts, including places, rulers, events and cultural details, demonstrating remarkable historical accuracy.
 keywords: ["Bible history","historical evidence","archaeology and the Bible","biblical accuracy","manuscript reliability","ancient history","fulfilled prophecy","Roman Empire","historical Jesus"]
 ---
 
@@ -105,7 +105,7 @@ Examples of Luke's accuracy include:
 - Correct titles for political leaders in various regions (e.g., calling the governor of Cyprus *"proconsul"* in [Acts 13:7](https://www.biblegateway.com/passage/?search=Acts%2013%3A7&version=NKJV)).
 - Precise locations and customs, such as Philippi being a Roman colony ([Acts 16:12](https://www.biblegateway.com/passage/?search=acts%2016%3A12&version=NKJV)).
 - The accurate depiction of travel routes and shipwreck details in
-[Acts 27–28](https://www.biblegateway.com/passage/?search=acts%2027-28&version=NKJV), consistent with known nautical knowledge of the time.
+[Acts 27-28](https://www.biblegateway.com/passage/?search=acts%2027-28&version=NKJV), consistent with known nautical knowledge of the time.
 
 **No fictional account of the 1st century could maintain this level of geographical, political and cultural
 accuracy without direct access to the events or firsthand witnesses**
@@ -127,12 +127,12 @@ problematic, these variations reflect independent testimonies - like multiple wi
 perspectives on the same event. If the gospels were colluded or invented, one would expect identical
 phrasing. Instead, we get a coherent but varied portrait of Jesus.
 
-Scholars generally date Mark to around 65–70 AD, with Matthew and Luke following soon after.
+Scholars generally date Mark to around 65-70 AD, with Matthew and Luke following soon after.
 That places the gospels within one generation of the events they describe. Even more striking,
 much of their content - such as hymns, sayings and parables - likely existed in oral form within the
 early Christian community just years after Jesus' death. Passages like the Christ hymn in
-[Phil 2:6–11](https://www.biblegateway.com/passage/?search=Phil%202%3A6%E2%80%9311&version=NKJV)
-or the resurrection creed in [1 Cor 15:3–8](https://www.biblegateway.com/passage/?search=1%20Cor%2015%3A3%E2%80%938&version=NKJV)
+[Phil 2:6-11](https://www.biblegateway.com/passage/?search=Phil%202%3A6%E2%80%9311&version=NKJV)
+or the resurrection creed in [1 Cor 15:3-8](https://www.biblegateway.com/passage/?search=1%20Cor%2015%3A3%E2%80%938&version=NKJV)
 are believed to be very early traditions - likely from the 30s AD.
 Paul writes in [1 Cor 15](https://www.biblegateway.com/passage/?search=1%20Cor%2015&version=NKJV)
 *"For what I received I passed on to you as of first importance: that Christ died for our sins... that He
@@ -145,7 +145,7 @@ of his life and resurrection - not decades later, but within a few years.
 
 The New Testament authors frequently appeal to eyewitnesses of Jesus' life and resurrection. Luke opens his
 gospel by stating that he has *"carefully investigated everything from the beginning"* and consulted
-*"those who from the first were eyewitnesses"* ([Luke 1:1–4](https://www.biblegateway.com/passage/?search=Luke%201%3A1%E2%80%934&version=NKJV)).
+*"those who from the first were eyewitnesses"* ([Luke 1:1-4](https://www.biblegateway.com/passage/?search=Luke%201%3A1%E2%80%934&version=NKJV)).
 
 John writes, *"The Word became flesh...we have seen his glory"* and closes with the statement, *"This
 is the disciple who testifies... and we know his testimony is true"*
@@ -166,12 +166,12 @@ Some critics argue that even if the original texts were accurate, centuries of c
 may have introduced errors. However, textual criticism - the scholarly field that studies ancient
 manuscripts - gives us confidence in the integrity of the New Testament text.
 
-We possess over 5800 Greek manuscripts of the New Testament, many dating to within 100–200 years of the
+We possess over 5800 Greek manuscripts of the New Testament, many dating to within 100-200 years of the
 originals. Comparatively, we have far fewer manuscripts for other classical works
 (e.g., only 10 for Caesar's Gallic Wars, most over 1000 years later).
 
 Moreover, the differences between manuscripts (known as textual variants) are mostly minor - spelling errors,
-word order changes, or repetitions. No major doctrine or historical claim of the Bible depends on a disputed text.
+word order changes or repetitions. No major doctrine or historical claim of the Bible depends on a disputed text.
 
 With the discovery of the [Dead Sea Scrolls](./acheological-support#the-dead-sea-scrolls) These ancient
 manuscripts, dating from approximately 250 BC. to 68 AD, contain fragments from every book of the

@@ -182,7 +182,7 @@ infinite, that go beyond what we might expect or calculate!
 | 46| The Lord shall judge the ends of the earth (1 Sam 2:10) | 1105 - 1011 BC | Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth .... the Lord Jesus Christ, who will judge the living and the dead (Mat 28:18, John 12:15, 2 Tim 4:1, 1 Pet 4:5) |
 | 47| I will raise me up a Faithful Priest	(1 Sam 2:35) | 1105 - 1011 BC | Jesus is our merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people (Heb 2:17, 3:1-3, 7:24-25) |
 | 48| Seed of David (2 Sam 7:12)  | 1011 - 971 BC | David is in the genealogy of Jesus (Mat 1:1) |
-| 49| His Kingdom is everlasting (2 Sam 7:13)  | 1011 - 971 BC | We have an entrance to the everlasting kingdom of our Lord and Savior Jesus Christ (2 Pet 1:11) |
+| 49| His kingdom is everlasting (2 Sam 7:13)  | 1011 - 971 BC | We have an entrance to the everlasting kingdom of our Lord and Savior Jesus Christ (2 Pet 1:11) |
 | 50| I will be his Father and he shall be My son (2 Sam 7:14a) | 1011 - 971 BC | He will be great and will be called the Son of the Highest; and the Lord God will give Him the throne of His father David (Luke 1:32, Rom 1:3-4, Mat 3:17, Mark 9:7, Luke 9:35) |
 | 51| David's house and throne established forever (2 Sam 7:16) | 1011 - 971 BC | David is in the genealogy of Jesus (Luke 3:31, Rev 22:16) |
 | 52| Elijah taken into heaven - the bodily ascension to heaven illustrated (2 Ki 2:11) | 850 - 560 BC | Jesus blesses them and ascends into heaven (Luke 24:51) |
@@ -275,7 +275,7 @@ infinite, that go beyond what we might expect or calculate!
 |139| They stood afar off and watched (Psa 88:8) | 1410 - 430 BC | But all His acquaintances and the women who followed Him from Galilee, stood at a distance, watching these things	(Luke 23:49) |
 |140| Firstborn (Psa 89:27) | 1410 - 430 BC | He is the image of the invisible God, the firstborn over all creation (Col 1:15-18) |
 |141| Emmanuel to be higher than earthly kings (Psa 89:27) | 1410 - 430 BC | And He will reign over the house of Jacob forever and of His kingdom there will be no end.(Luke 1:32-33) |
-|142| David's Seed, throne, kingdom endure forever (Psa 89:35-37) | 1410 - 430 BC | and the Lord God will give Him the throne of His father David (Luke 1:32-33) |
+|142| David's Seed, throne, kngdom endure forever (Psa 89:35-37) | 1410 - 430 BC | and the Lord God will give Him the throne of His father David (Luke 1:32-33) |
 |143| His character - Faithfulness (Psa 89:36-37) | 1410 - 430 BC | and from Jesus Christ, the faithful witness, the firstborn from the dead and the ruler over the kings of the earth (Rev 1:5, 19:11) |
 |144| He is from everlasting (Micah 5:2) (Psa 90:2) | 1410 - 430 BC | In the beginning was the Word and the Word was with God and the Word was God (John 1:1) |
 |145| Identified as Messianic (Psa 91:11-12) | 1410 - 430 BC | He shall give His angels charge over you, To keep you (Luke 4:10-11) |

@@ -20,13 +20,13 @@ you love yourself ([Mark 12:30-31](https://www.biblegateway.com/passage/?search=
 ## The Kingdom of God 
 
 Jesus' mission was not political revolution, but a spiritual and moral transformation
-that spreads through people and communities like yeast in dough - the *Kingdom of God*. 
+that spreads through people and communities like yeast in dough - the *kingdom of God*. 
 Rather than a political realm, Jesus came to usher in a kingdom where God's will is done,
 and accessible to all who repent and believe. The Christian life is not merely about waiting
 for heaven but actively participating in and reflecting God's reign here and now, even
 as we await it's full realization.
 
-:::note[[Luke 17:20–21](https://www.biblegateway.com/passage/?search=Luke%2017%3A20%E2%80%9321&version=NKJV)]
+:::note[[Luke 17:20-21](https://www.biblegateway.com/passage/?search=Luke%2017%3A20%E2%80%9321&version=NKJV)]
 
 The kingdom of God does not come with observation...For indeed, the kingdom of God is within you
 
@@ -54,7 +54,7 @@ to self. It is not about power or glory of self. Jesus' own life revealed what t
 justice for the oppressed, mercy for the broken, peace amidst chaos and righteousness that transforms
 from the inside out. Through His parables, Jesus likens the Kingdom to a tiny seed growing into a large tree,
 symbolizing exponential spiritual growth in the parable of the mustard seed
-([Mat 13:31–32](https://www.biblegateway.com/passage/?search=Mat%2013%3A31%E2%80%9332&version=NKJV)). In the
+([Mat 13:31-32](https://www.biblegateway.com/passage/?search=Mat%2013%3A31%E2%80%9332&version=NKJV)). In the
 parable of the hidden treasure, Jesus illustrates the Kingdom's supreme value
 ([Mat 13:44](https://www.biblegateway.com/passage/?search=Mat%2013%3A44&version=NKJV)).
 
@@ -124,9 +124,10 @@ first loved us and sent Jesus to die for us to reconcile us back together with H
 
 ## The Sermon on the Mount
 
-By far this was the ethics lesson the likes of which has never been seen before or since. The Sermon
-on the Mount (Mat 5–7) encapsulates Jesus' moral and spiritual teachings. It begins with the
-Beatitudes typically seen as weak or unfortunate.
+By far, this was the ethics lesson the likes of which the world has never been seen before or since.
+The Sermon on the Mount ([Mat 5-7](https://www.biblegateway.com/passage/?search=Matthew%205-7&version=NKJV))
+encapsulates Jesus' moral and spiritual teachings. It begins with the Beatitudes typically seen
+as weak or unfortunate.
 
 #### The Beatitudes
 
@@ -162,7 +163,7 @@ came to fulfill it.** He then went on to interpret the Law of Moses with deeper 
 :::note[[Mat 5](https://www.biblegateway.com/passage/?search=Mat%205&version=NKJV)]
 
 You have heard... 'Do not murder'... But I say... anyone angry with a brother will be subject to judgment
-(v21–22)
+(v21-22)
 
 First be reconciled to your brother and then come and offer your gift to God (v24)
 
@@ -215,24 +216,24 @@ Jesus frequently taught in parables - short, vivid and symbolic stories that con
 moral truths. These parables were not merely illustrations or allegories; they were invitations into
 the Kingdom of God, requiring attentive hearts and responsive spirits. They were layered, accessible
 to the humble who had open hearts, yet veiled to the hardened and prideful
-([Mat 13:10–17](https://www.biblegateway.com/passage/?search=Mat%2013%3A10%E2%80%9317&version=NKJV)).
+([Mat 13:10-17](https://www.biblegateway.com/passage/?search=Mat%2013%3A10%E2%80%9317&version=NKJV)).
 They provoked reflection - not just didactic rules but open-ended and meant to prompt self examination -
 they didn't just impart information; but they called for repentance, faith and a reoriented life under
 God's rule.
 
 These are some of the key parables and their meanings
-- The Good Samaritan ([Luke 10:25–37](https://www.biblegateway.com/passage/?search=Luke%2010%3A25%E2%80%9337&version=NKJV)):
+- The Good Samaritan ([Luke 10:25-37](https://www.biblegateway.com/passage/?search=Luke%2010%3A25%E2%80%9337&version=NKJV)):
 True neighborly love transcends ethnicity or religion. Jesus redefines the question from *Who is my neighbor?* to
 *What does it mean to be a neighbor?*
-- The Prodigal Son ([Luke 15:11–32](https://www.biblegateway.com/passage/?search=Luke%2015%3A11%E2%80%9332&version=NKJV)):
+- The Prodigal Son ([Luke 15:11-32](https://www.biblegateway.com/passage/?search=Luke%2015%3A11%E2%80%9332&version=NKJV)):
 God's mercy embraces even the most wayward who repent. It contrasts two spiritual postures: the repentant younger son and
 the self-righteous elder brother. The father's grace transcends both failure and pride. It reminds us that no one is beyond
 the reach of God's mercy and that God longs for restoration more than punishment. 
-- The Sower and the Seed ([Mark 4:1–20](https://www.biblegateway.com/passage/?search=Mark%204%3A1%E2%80%9320&version=NKJV)):
+- The Sower and the Seed ([Mark 4:1-20](https://www.biblegateway.com/passage/?search=Mark%204%3A1%E2%80%9320&version=NKJV)):
 The receptivity of human hearts determines spiritual growth. God's truth is always powerful - but the soil (the heart)
-varies. Distractions, shallow faith, or hardness can prevent growth. However, a receptive heart yields abundant fruit.
+varies. Distractions, shallow faith or hardness can prevent growth. However, a receptive heart yields abundant fruit.
 Jesus emphasizes the need for ongoing discipleship, depth and attentiveness to God's voice.
-- The Lost Sheep ([Luke 15:3–7](https://www.biblegateway.com/passage/?search=Luke%2015%3A3%E2%80%937&version=NKJV)):
+- The Lost Sheep ([Luke 15:3-7](https://www.biblegateway.com/passage/?search=Luke%2015%3A3%E2%80%937&version=NKJV)):
 God pursues each lost soul with personal care. It's a portrait of divine love that is individual and intentional. It tells
 us that God knows each of us by name and that heaven rejoices more over one repentant sinner than ninety nine who think
 they have no need of repentance. It's a powerful image of God's initiating grace and the value of every soul.
@@ -304,9 +305,9 @@ Not seven times, but seventy-seven times
 He didn't place a cap on forgiveness; rather, it represents a boundless, ongoing attitude.
 Jesus calls His followers to practice extravagant mercy - not because others always deserve it,
 but because forgiveness is the heartbeat of God's Kingdom. Those who have been forgiven much
-are called to forgive much. Holding onto bitterness, vengeance, or resentment is not only
+are called to forgive much. Holding onto bitterness, vengeance or resentment is not only
 destructive to relationships but it places us at odds with the very mercy of God
-([Mat 18:23–35](https://www.biblegateway.com/passage/?search=Mat%2018%3A23%E2%80%9335&version=NKJV)).
+([Mat 18:23-35](https://www.biblegateway.com/passage/?search=Mat%2018%3A23%E2%80%9335&version=NKJV)).
 Jesus also modeled forgiveness on the cross, forgiving and praying for the people that
 were crucifying him:
 
@@ -337,7 +338,7 @@ Your faith has healed you
 :::
 
 Faith unlocks divine power. In the passage above the lady's trust was not in a formula but in Jesus Himself.
-Time and again - whether it was a Roman centurion, a blind man, or a Canaanite woman - Jesus acknowledged
+Time and again - whether it was a Roman centurion, a blind man or a Canaanite woman - Jesus acknowledged
 that faith moved His hand. 
 
 :::tip[Faith]
@@ -349,21 +350,21 @@ before seeing the outcome.
 
 :::
 
-Jesus lived a life saturated with prayer. Whether alone in the wilderness, on the mountain, or in the early
+Jesus lived a life saturated with prayer. Whether alone in the wilderness, on the mountain or in the early
 morning hours, He consistently withdrew to pray. In doing so, He demonstrated that prayer is the lifeline
 of the believer and how we commune with the Father.
 
 When His disciples asked how to pray, He gave them what has come to be known as The Lord's Prayer:
-The Lord's Prayer ([Mat 6:9–13](https://www.biblegateway.com/passage/?search=Mat%206%3A9%E2%80%9313&version=NKJV)) encapsulates this:
+The Lord's Prayer ([Mat 6:9-13](https://www.biblegateway.com/passage/?search=Mat%206%3A9%E2%80%9313&version=NKJV)) encapsulates this:
 
-- Reverence for God's Name: *Hallowed be Your name* – acknowledging God's holiness and majesty.
-- Alignment with God's Will: *Your will be done* – surrendering our plans and desires to God's greater purposes.
-- Dependence on God for Daily Needs: *Give us this day our daily bread* – trusting in God's provision, day by day.
-- Relational Forgiveness: *Forgive us... as we forgive...* – linking our forgiveness from God with our willingness to forgive others.
-- Spiritual Protection: *Deliver us from evil* – recognizing our need for God's help in the face of temptation and evil.
+- Reverence for God's Name: *Hallowed be Your name* - acknowledging God's holiness and majesty.
+- Alignment with God's Will: *Your will be done* - surrendering our plans and desires to God's greater purposes.
+- Dependence on God for Daily Needs: *Give us this day our daily bread* - trusting in God's provision, day by day.
+- Relational Forgiveness: *Forgive us... as we forgive...* - linking our forgiveness from God with our willingness to forgive others.
+- Spiritual Protection: *Deliver us from evil* - recognizing our need for God's help in the face of temptation and evil.
 
 Jesus often told His followers to pray with perseverance, not because God is reluctant, but because He desires relationship and trust.
-([Luke 18:1–8](https://www.biblegateway.com/passage/?search=Luke%2018%3A1%E2%80%938&version=NKJV)) because God is a loving Father
+([Luke 18:1-8](https://www.biblegateway.com/passage/?search=Luke%2018%3A1%E2%80%938&version=NKJV)) because God is a loving Father
 eager to answer.
 Jesus portrayed God not as a distant deity, but as **Abba Father**
 ([Mark 14:36](https://www.biblegateway.com/passage/?search=Mark%2014%3A36&version=NKJV)). This image invites believers into
@@ -416,7 +417,7 @@ For I have given you an example, that you should do as I have done to you.
 Servanthood in the Kingdom of God is not a stepping stone to power - it is power. It is not about menial
 tasks but about a heart posture of love, availability and self-sacrifice. To be a servant, in Christ's terms,
 is to lift others up without seeking reward, meet needs quietly and joyfully and to put the interests of others
-before our own ([Phil 2:3–4](https://www.biblegateway.com/passage/?search=%28Phil%202%3A3%E2%80%934&version=NKJV))
+before our own ([Phil 2:3-4](https://www.biblegateway.com/passage/?search=%28Phil%202%3A3%E2%80%934&version=NKJV))
 
 ## Wealth and Detachment
 
@@ -426,17 +427,17 @@ both ancient and modern, is that wealth is a sign of divine blessing or success.
 spoke of the love of wealth as a potential barrier to spiritual life and entrance into the Kingdom of God.
 
 Jesus often warned about the spiritual dangers of loving wealth above God. In the story of
-the Rich Young Ruler [Mark 10:17–31](https://www.biblegateway.com/passage/?search=Mark%2010%3A17-31&version=NKJV)], he said:
+the Rich Young Ruler [Mark 10:17-31](https://www.biblegateway.com/passage/?search=Mark%2010%3A17-31&version=NKJV)], he said:
 
-:::note[[Mark 10:17–31](https://www.biblegateway.com/passage/?search=Mark%2010%3A17-31&version=NKJV)]
+:::note[[Mark 10:17-31](https://www.biblegateway.com/passage/?search=Mark%2010%3A17-31&version=NKJV)]
 
 It is easier for a camel to go through the eye of a needle than for someone who is rich to
-enter the kingdom of God
+enter the Kingdom of God.
 
 :::
 
 **This wasn't an outright condemnation of riches but a warning against greed and misplaced
-priorities.** He urged storing up *treasures in heaven ([Mat 6:19–21](https://www.biblegateway.com/passage/?search=Mat%206%3A19%E2%80%9321&version=NKJV))*
+priorities.** He urged storing up *treasures in heaven ([Mat 6:19-21](https://www.biblegateway.com/passage/?search=Mat%206%3A19%E2%80%9321&version=NKJV))*
 and trusting in God rather than the false security, pride and self-sufficiency that accompany wealth.
 Jesus warned, *You cannot serve both God and money* ([Mat 6:24](https://www.biblegateway.com/passage/?search=Mat%206%3A24&version=NKJV)).
 Wealth can subtly become a rival deity - a source of identity, security and power that replaces God. 
@@ -490,5 +491,5 @@ as oneself. They challenge individuals to transform their inner life, serve othe
 Though delivered over 2000 years ago, Jesus words continue to resonate globally because they have life
 ([John 10:10](https://www.biblegateway.com/passage/?search=John%2010%3A10&version=NKJV)).
 They inspire acts of mercy, guide moral reflection and call believers to embody the
-Kingdom of God in everyday life. Whether viewed through a theological, philosophical, or historical lens,
+Kingdom of God in everyday life. Whether viewed through a theological, philosophical or historical lens,
 the teachings of Jesus stand as a beacon of light in the human spiritual journey!

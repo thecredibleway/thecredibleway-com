@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: I Can Face Tomorrow | Because He Lives
 sidebar_label: I Can Face Tomorrow
-description: Because Jesus lives, I have hope for the future and can freely share it! This is a declaration of hope, resilience, and purpose rooted in the living Christ. It echoes the heart of the famous hymn 'Because He Lives'
+description: Because Jesus lives, I have hope for the future and can freely share it! This is a declaration of hope, resilience and purpose rooted in the living Christ. It echoes the heart of the famous hymn 'Because He Lives'
 keywords: ["hope for the future","because He lives","Christian hope","strength for today, hope for tomorrow","living without fear","faith in uncertain times","anchored in the resurrection","Jesus is alive - so I can keep going"]
 ---
 
@@ -23,16 +23,16 @@ In today's world, it's easy to lose sight of this reality. Surrounded by denomin
 traditions and cultural Christianity, it's vital to clarify what we believe and where we
 place our trust. Our faith is not in Christianity as an institution, nor in churches, leaders,
 or personal passion. It is not ideology; nor is it anchored in how passionately we
-worship, how much doctrine we know, or how many church services we attend. **Our faith
+worship, how much doctrine we know or how many church services we attend. **Our faith
 is in Jesus Christ alone** - the one who lived, died and rose again. 
 
-Our hope is not rooted in our sincerity, which can waver, or in our feelings, which fluctuate.
+Our hope is not rooted in our sincerity, which can waver or in our feelings, which fluctuate.
 It is anchored in the unchanging credibility of the One we believe in. Jesus is trustworthy.
 [Jesus Christ is extremely credible](../crediblilty/is-jesus-alive.md) and can therefore be taken at His Word!
 
 :::tip[Because Jesus came...]
 
-The story of our lives is no longer defined by sin, shame, or separation. It's now marked by grace,
+The story of our lives is no longer defined by sin, shame or separation. It's now marked by grace,
 renewal and resurrection power!
 
 :::

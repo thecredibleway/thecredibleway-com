@@ -18,14 +18,14 @@ At the heart of this discussion is a crucial understanding of God's nature - He 
 judge of the universe, God owes no one anything except justice. If He were to solely act in accordance with His
 perfect justice, no one could stand before Him, for all have sinned and fall short of the glory of God
 ([Rom 3:23](https://www.biblegateway.com/passage/?search=Romans%203%3A23&version=NKJV)). The Bible teaches that
-the wages of sin is death, and this includes eternal separation from God in hell
+the wages of sin is death and this includes eternal separation from God in hell
 ([Rom 6:23](https://www.biblegateway.com/passage/?search=Romans%206%3A23&version=NKJV)). The reality
 is clear - every person, whether they have heard the Gospel or not, is under the judgment of God because of sin.
 
 Yet, God is not merely a judge who seeks retribution. The Bible reveals that God is also rich in mercy
-([Eph 2:4](https://www.biblegateway.com/passage/?search=eph%202%3A4&version=NKJV)), and **in His mercy, He chose
+([Eph 2:4](https://www.biblegateway.com/passage/?search=eph%202%3A4&version=NKJV)) and **in His mercy, He chose
 to step down from His heavenly throne to take the penalty for our sins upon Himself.** This was accomplished
-through the life, death and resurrection of Jesus Christ. Jesus is the way, the truth and the life, and no one
+through the life, death and resurrection of Jesus Christ. Jesus is the way, the truth and the life and no one
 comes to the Father except through Him
 ([John 14:6](https://www.biblegateway.com/passage/?search=john%2014%3A6&version=NKJV)). But the question
 remains - What about those who have never heard the message of Christ? How does this fit into the bigger
@@ -33,17 +33,17 @@ picture of God's justice and mercy?
 
 ## The Justice of God - Accountability to His Moral Law
 
-The Bible is clear that all people, regardless of their geographical location, race, or culture are accountable
+The Bible is clear that all people, regardless of their geographical location, race or culture are accountable
 to God's moral law. This law is not limited to those who have received the written Scriptures or the message of
 the Gospel. According to [Romans 2:12-16](https://www.biblegateway.com/passage/?search=Romans%202%3A12-16&version=NKJV),
 all people are judged according to the law written on their hearts. The moral law is known through conscience,
 and this is true for every human being, whether they live in the heart of Africa, a remote village in the
-Amazon rainforest, or a bustling city in America.
+Amazon rainforest or a bustling city in America.
 
 In [Romans 2:12-16](https://www.biblegateway.com/passage/?search=Romans%202%3A12-16&version=NKJV), Paul explains
-that *"those who sin without the law will also perish without the law, and those who sin under the law will be
+that *"those who sin without the law will also perish without the law and those who sin under the law will be
 judged by the law."* Humanity, in its entirety, is responsible for its actions. The standard of judgment is
-God's law, and all people - whether they've heard the Gospel or not - are accountable to that law.
+God's law and all people - whether they've heard the Gospel or not - are accountable to that law.
 
 [James 2:12](https://www.biblegateway.com/passage/?search=jam%202%3A12&version=NKJV) adds to this understanding
 by declaring that we will all be judged by the law of liberty, the moral law that reflects God's character.
@@ -85,7 +85,7 @@ cross he told one thief that got saved, that he would join Him in *Paradise*
 went to hell, where He won the victory. On His exit back to heaven; He preached to the people in Paradise to let them choose
 ([1 Pet 3:19](https://www.biblegateway.com/passage/?search=1%20Pet%203%3A19&version=NKJV)) and took those that accepted
 the truth to heaven [Eph 4:8-10](https://www.biblegateway.com/passage/?search=Ephesians%204%3A8-10&version=NLT). It says,
-*"When he ascended to the heights, He led a crowd of captives, and gave gifts to His people."*. **Clearly, showing that
+*"When he ascended to the heights, He led a crowd of captives and gave gifts to His people."*. **Clearly, showing that
 God is a good just God who is also merciful - He sent Jesus for us because He loved us.**
 
 ## The Urgency of the Great Commission
@@ -108,7 +108,7 @@ The truth of eternal damnation in hell, though uncomfortable, should motivate Ch
 and urgently share the Gospel. Hell is not just a theological concept - it is a place of real and eternal suffering
 ([Mark 9:43](https://www.biblegateway.com/passage/?search=Mark%209%3A43&version=NKJV)). Empathy demands that we
 feel the terror of those who face judgment for every human being, whether they live in the heart of Africa,
-a remote village in the Amazon rainforest, or a bustling city in America. We must act on the compassion we have
+a remote village in the Amazon rainforest or a bustling city in America. We must act on the compassion we have
 for them by sharing the Gospel.
 
 ## Trust God's Justice and Mercy

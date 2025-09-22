@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Born Without Choice, Yet Doomed for Not Choosing God | Christian Apologetics
 sidebar_label: Born Without Choice, Yet Doomed for Not Choosing God?
-description: I didn't choose to be born, so why am I accountable and potentially doomed without God? We delve into free will, God's justice, and human responsibility from a Christian perspective.
+description: I didn't choose to be born, so why am I accountable and potentially doomed without God? We delve into free will, God's justice and human responsibility from a Christian perspective.
 keywords: [" I didn't choose to be born and if I don't choose God Im doomed?","I didn't choose to be born. So why am I held accountable for what I do here?","Free Will & God's Sovereignty","Justice of God","Human Responsibility","Problem of Evil ","Eternal Destiny","Predestination vs. Choice"]
 ---
 
@@ -17,7 +17,7 @@ and about what seems fair to them. Underneath it though, lies a moral question -
 to be placed in a world they didn't ask to be in, only to face judgment for what they do here?"*
 
 To begin addressing this, we need to look at several key issues: free will, moral accountability,
-the nature of rescue, and God's provision for salvation.
+the nature of rescue and God's provision for salvation.
 
 ## Moral Standards and the Problem of Judgment
 
@@ -49,7 +49,7 @@ your worldview, one fact is universal - you didn't ask to exist, but here you ar
 So the question really isn't, *"Did I choose to be born?"* but *"Now that I'm here, what am I going to do about it?"*
 
 Let's use an analogy. Suppose your parents take you on a boat trip. You didn't choose to go; they simply brought
-you along. Then, out of nowhere, the boat starts to sink. Panic sets in. It's scary, chaotic, and entirely out
+you along. Then, out of nowhere, the boat starts to sink. Panic sets in. It's scary, chaotic and entirely out
 of your control. But just as things seem hopeless, a Coast Guard rescue boat  pulls up beside you, ready to
 rescue everyone including you. **Now you have a choice.**
 
@@ -61,7 +61,7 @@ Or, you can step into the rescue boat.
 **So what do you choose?**
 
 This is the core of the Christian message. God sees that we are all on the sinking ship of a broken world. We were born
-into a system marred by sin, suffering, and death. **And God, in His mercy, sends a Savior - Jesus Christ**. He offers rescue.
+into a system marred by sin, suffering and death. **And God, in His mercy, sends a Savior - Jesus Christ**. He offers rescue.
 **Not because we deserve it. Not because we asked for it. But because He loves us.**
 
 So the problem isn't that you didn't choose to be born. The problem is, now that you're here and in trouble, will
@@ -82,17 +82,17 @@ God gave us all free will. He didn't want robots, He wants children!
 :::
 
 In fact, even atheistic or evolutionary worldviews can't escape this reality - once you're alive, you have choices
-to make. Whether you think your brain is just neurons firing due to natural selection, or that you're a soul given
+to make. Whether you think your brain is just neurons firing due to natural selection or that you're a soul given
 life by God, either way, you're still faced with decisions and more importantly consequences. 
 
 **So, it's not about how you got here. It's about what you do with what you've been given.**
 
 ## The Foundation you can choose to build on
 
-Jesus tells a powerful parable in [Matthew 7:24–27](https://www.biblegateway.com/passage/?search=Matthew%207%3A24-27&version=NKJV).
+Jesus tells a powerful parable in [Matthew 7:24-27](https://www.biblegateway.com/passage/?search=Matthew%207%3A24-27&version=NKJV).
 He says that everyone who hears His words and puts them into practice is like a wise man who built his house on the rock.
 When the storm came, the house stood strong. But the one who hears His words and doesn't put them into practice is like a
-foolish man who built his house on sand. The storm came, and the house fell, with a great crash.
+foolish man who built his house on sand. The storm came and the house fell, with a great crash.
 
 What's Jesus saying?
 
@@ -105,7 +105,7 @@ because *it's your best and only option.*
 
 ## Why Not Take the Rescue?
 
-This brings us to the final, and perhaps most challenging, part of the real question - **"If God sends a Savior, why would I reject Him?"**
+This brings us to the final and perhaps most challenging, part of the real question - **"If God sends a Savior, why would I reject Him?"**
 
 It's a fair question - and it gets to the heart of human pride. Sometimes people don't want to be rescued. Sometimes it's
 because they don't believe they're in danger. Other times it's because they don't want to owe anyone. Or maybe they

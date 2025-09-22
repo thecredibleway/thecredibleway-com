@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Would a Loving God Send Good People to Hell? | Christian Apologetics
 sidebar_label: Would a Loving God Send Good People to Hell?
-description: If God is love, why do "good" people deserve hell? We explore God's perfect love and justice, examining hell within the context of free will, sin's seriousness, and the choice to accept or reject God's grace. God does not condemn anyone to hell but allows individuals to make a choice by rejecting the salvation offered through Jesus Christ. 
+description: If God is love, why do "good" people deserve hell? We explore God's perfect love and justice, examining hell within the context of free will, sin's seriousness and the choice to accept or reject God's grace. God does not condemn anyone to hell but allows individuals to make a choice by rejecting the salvation offered through Jesus Christ. 
 keywords: ["Why would a loving God send good people to hell?","The nature of hell","Justice and love of God","Free will and salvation","Good people and hell","Biblical understanding of hell","Eternal separation from God","God's grace and judgment","God's justice and mercy","Hell and rejection of Jesus","Christianity and salvation","Why a loving God allows hell","God's love and free will","Why does God allow people to reject Him?","God's desire for all to be saved","Eternal separation from God"]
 ---
 
@@ -37,7 +37,7 @@ an active and sacrificial love that seeks the well-being of His creation. This l
 in the life, death and resurrection of Jesus Christ.
 
 However, God's justice and holiness also demand that sin be punished. Sin is not merely *bad behavior* - it
-is a rebellion against the Creator, a rejection of God's rightful authority, and a distortion of His perfect
+is a rebellion against the Creator, a rejection of God's rightful authority and a distortion of His perfect
 will for the world. [Romans 6:23](https://www.biblegateway.com/passage/?search=rom%206%3A23&version=NKJV) says,
 *"For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord"*. The consequence
 of sin is spiritual death and eternal separation from God.
@@ -48,7 +48,7 @@ it. This brings us to the role of Jesus Christ in God's plan of salvation.
 ## Jesus Christ - The Way to Reconciliation
 
 The central message of the Bible is that God, in His love, sent Jesus Christ to pay the penalty for sin on
-behalf of humanity. Jesus' death on the cross was a sacrifice to satisfy God's justice, and His resurrection
+behalf of humanity. Jesus' death on the cross was a sacrifice to satisfy God's justice and His resurrection
 offers the promise of eternal life. The gospel message is simple yet profound - salvation is available to anyone
 who believes in Jesus Christ, repents of sin and accepts the forgiveness He offers.
 
@@ -103,7 +103,7 @@ not wanting anyone to perish, but everyone to come to repentance."***
 
 :::info[God's desire for everyone]
 
-God's desire is for all people to come to know Him, to repent, and to receive the salvation He offers
+God's desire is for all people to come to know Him, to repent and to receive the salvation He offers
 through Jesus Christ.
 
 :::
@@ -111,11 +111,11 @@ through Jesus Christ.
 The reality is that people choose to remain outside of God's grace when they reject Jesus. **God doesn't
 send people to hell; He allows them to make a choice**. Those who choose to reject Jesus essentially choose
 a path that leads to eternal separation from Him. But even in this, God's love is evident, for He allows
-people to have free will, and He did not create robots. **He gave humans the gift of free will - the
+people to have free will and He did not create robots. **He gave humans the gift of free will - the
 capacity to love, obey and trust Him or to rebel.**
 This freedom was necessary for a genuine relationship, because love that is not freely given is not love
 at all. What if you forced your spouse to love you? Would that be genuine love? No, because genuine love
-for a spouse requires a choice of free will to say *yes* to one, and *no* to all others.
+for a spouse requires a choice of free will to say *yes* to one and *no* to all others.
 
 ## The Question of Good People and Hell
 
