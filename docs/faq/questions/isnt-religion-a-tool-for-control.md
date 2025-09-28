@@ -19,9 +19,9 @@ or is it something far deeper i.e., can genuine faith truly liberate and transfo
 
 ## Historical Use and Abuse of Religious Power
 
-It's crucial to begin by acknowledging the painful truth - religion has been used as a tool for control, and it continues to be. Throughout
+It's crucial to begin by acknowledging the painful truth - religion has been used as a tool for control and it continues to be. Throughout
 history, individuals and institutions wielding religious authority have indeed manipulated beliefs, invoked divine sanction for their own
-agendas, and exerted coercive power over populations. Ancient pharaohs in Egypt *declared themselves divine* to solidify their rule. Medieval
+agendas and exerted coercive power over populations. Ancient pharaohs in Egypt *declared themselves divine* to solidify their rule. Medieval
 European monarchs often claimed a *divine right* to rule, making rebellion against them a sin against God. The Catholic Church, at various
 points in history, wielded immense political power; sometimes leading to the suppression of dissent and the enforcement of conformity
 through harsh means. More recently, cult leaders and abusive pastors have twisted religious teachings to exploit
@@ -51,8 +51,8 @@ He came as a servant, emphasizing humility, self-sacrifice and love**. His inter
 consistently demonstrate a respect for individual freedom and choice. Jesus never sought to use power for personal gain. 
 Instead, He modeled servant leadership. He said in 
 [Mark 10:42-45](https://www.biblegateway.com/passage/?search=Mark%2010%3A42-45&version=NKJV), *"You know that those who are
-regarded as rulers of the Gentiles lord it over them, and their high officials exercise authority over them. Not so with you.
-Instead, whoever wants to become great among you must be your servant, and whoever wants to be first must be slave of all."* Here, 
+regarded as rulers of the Gentiles lord it over them and their high officials exercise authority over them. Not so with you.
+Instead, whoever wants to become great among you must be your servant and whoever wants to be first must be slave of all."* Here, 
 **Jesus teaches that true greatness comes not from controlling others but from serving them.** This is the complete opposite of the
 idea that religion is primarily about exercising control over others.
 
@@ -69,7 +69,8 @@ He came as a servant, emphasizing humility, self-sacrifice and love.
 
 Jesus repeatedly invited people to follow Him, never compelling them. *"If anyone would come after me,"* He said, *"let him deny himself
 and take up his cross and follow me"* ([Matt 16:24](https://www.biblegateway.com/passage/?search=Matthew%2016%3A24&version=NKJV)). The emphasis
-is on ***"if anyone would"*** highlighting personal choice, not under compulsion. His parables often present choices and consequences,
+is on ***"if anyone would"*** highlighting personal choice, not under compulsion.
+[His parables](../../jesus/life/parables/index.md) often present choices and consequences,
 leaving individuals to decide their response. The very concept of faith, requires a willing trust, not a coerced submission.
 
 #### Emphasis on Inner Transformation
@@ -83,7 +84,7 @@ our neighbor as we do ourselves, the question of control never arises. We are to
 
 #### Servant Leadership
 
-Jesus explicitly redefined leadership, stating, *"You know that the rulers of the Gentiles lord it over them, and their great
+Jesus explicitly redefined leadership, stating, *"You know that the rulers of the Gentiles lord it over them and their great
 ones exercise authority over them. It shall not be so among you. But whoever would be great among you must be your servant"*
 ([Matt 20:25-26](https://www.biblegateway.com/passage/?search=Matt%2020%3A25-26&version=NKJV)). This radical call to servant
 leadership directly challenges hierarchical power structures that seek to dominate and control. In fact later in the New Testament,
@@ -108,7 +109,7 @@ as tools for tyrannical control.
 #### Critique of Earthly Power
 
 Throughout the Bible, there is a consistent critique of human power structures that become oppressive. Prophets
-condemned corrupt kings, and Jesus Himself challenged the religious and political establishments of His day. The early church
+condemned corrupt kings and Jesus Himself challenged the religious and political establishments of His day. The early church
 often stood in opposition to the Roman Empire's demands for worship, highlighting a loyalty to a higher authority that
 transcended earthly control.
 
@@ -120,14 +121,14 @@ force people to follow Him. Instead, [He offers an invitation to love God and lo
 not out of compulsion but out of personal conviction.
 
 In [Matthew 11:28-30](https://www.biblegateway.com/passage/?search=Matthew%2011%3A28-30&version=NKJV), Jesus offers a kind
-of freedom that liberates, not burdens. *"Come to me, all you who are weary and burdened, and I will give you rest. Take my
-yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke
+of freedom that liberates, not burdens. *"Come to me, all you who are weary and burdened and I will give you rest. Take my
+yoke upon you and learn from me, for I am gentle and humble in heart and you will find rest for your souls. For my yoke
 is easy and my burden is light"*. This invitation is not to a life of control and oppression but to one of peace, rest and
 freedom from the heavy burdens of sin, guilt and fear.
 
 :::tip[What are you worth]
 
-Christianity teaches that each individual is **made in the image of God**, with **intrinsic value**, and is **invited into a personal
+Christianity teaches that each individual is **made in the image of God**, with **intrinsic value** and is **invited into a personal
 relationship with the Creator**.
 
 This relationship does not seek to control but to transform, offering a sense of dignity and
@@ -143,17 +144,17 @@ Christian abolitionists like William Wilberforce in England as well as Frederick
 played a pivotal role in the movement to end slavery, driven by a conviction that all individuals are created equal in God's image and
 possess inherent dignity. They believed that slavery was a sin that needed to be eradicated.
 
-Christianity's emphasis on love, justice, and mercy has consistently led believers to challenge systems of oppression.
+Christianity's emphasis on love, justice and mercy has consistently led believers to challenge systems of oppression.
 Rather than being a tool for control, Christianity has served as a foundation for the liberation of individuals and societies
 from injustice and inequality.
 
 #### Charitable Works and Social Welfare
-Historically, many of the world's hospitals, orphanages and educational institutions originated from Christian charitable
+Historically, many of the world's hospitals orphanages and educational institutions originated from Christian charitable
 initiatives, demonstrating a commitment to serving the vulnerable rather than controlling them. 
 
 #### Civil Rights Movements
 The American Civil Rights Movement, led by figures like Martin Luther King Jr., was deeply rooted in Christian principles
-of love, justice, and non-violent resistance, demonstrating how faith can be a liberating force against oppressive systems.
+of love, justice and non-violent resistance, demonstrating how faith can be a liberating force against oppressive systems.
 
 #### Advocacy for the Marginalized
 Throughout its history, genuine Christian faith has motivated individuals and communities to advocate for the poor, the
@@ -170,7 +171,7 @@ of control. The Bible itself encourages critical thinking and examination, *"Tes
 ([1 Thes 5:21](https://www.biblegateway.com/passage/?search=1%20Thes%205%3A21%5D&version=NKJV)). **It calls believers to evaluate
 teachings against the standard of Scripture, rather than blindly following charismatic leaders**.
 
-Institutions, whether religious, political, or economic, are susceptible to corruption because they are run by imperfect
+Institutions, whether religious, political or economic, are susceptible to corruption because they are run by imperfect
 humans. When people, driven by greed, ego or a desire for power, co-opt religious language and structures for their own
 ends, it is an abuse of religion - not an inherent quality of the faith itself. It is a perversion of the message, not its essence.
 One of the major critiques of religion as a tool for control is its historical involvement with political power. It's undeniable
@@ -179,9 +180,9 @@ this connection between religion and politics has often been a source of tension
 
 In the early Church, Christians were persecuted by political authorities because their message challenged the status quo. Jesus' message
 of the Kingdom of God was seen as a threat to earthly rulers. In fact, Christianity teaches that Christians are ultimately citizens
-of a heavenly kingdom, and their allegiance to earthly governments is secondary to their allegiance to God. In
+of a heavenly kingdom and their allegiance to earthly governments is secondary to their allegiance to God. In
 [Matt 22:21](https://www.biblegateway.com/passage/?search=Matt%2022%3A21&version=NKJV), Jesus says, *"Give back to Caesar what is
-Caesar's, and to God what is God's"* This teaching distinguishes between the authority of earthly rulers and the supreme authority of God.
+Caesar's and to God what is God's"* This teaching distinguishes between the authority of earthly rulers and the supreme authority of God.
 
 **Christianity's teaching on the separation of church and state has been a foundation for modern democratic societies**. The idea that
 religious faith should be a matter of personal conviction, not state-enforced conformity, is a principle that has led to greater
@@ -194,7 +195,7 @@ the [essence of Christianity](../../jesus/because-he-lives/new-identity-in-chris
 or [the true purpose of faith](../../jesus/crediblilty/why-jesus-came.md). Rather than being a tool for control,
 Christianity has been a force for liberation and social change. By focusing
 on the [teachings of Jesus](../../jesus/crediblilty/teachings-of-jesus.md) - who emphasized servant leadership,
-love for enemies, and the dignity of every person - Christianity offers a 
+love for enemies and the dignity of every person - Christianity offers a 
 liberating message that [invites all people to live with greater freedom, purpose and hope](../../jesus/because-he-lives/i-can-face-tomorrow.md).
 
 Ultimately, the claim that religion is just a tool for control often serves as a convenient dismissal for those who wish to avoid considering
@@ -204,7 +205,7 @@ ignoring the profound, positive transformations in individuals and societies tha
 For those who embrace it, true Christian faith is not a tool of control, but a path to liberation.
 
 True Christianity is not about being controlled by others, but about surrendering to the loving sovereignty of God, which paradoxically
-leads to the deepest freedom. It's the freedom from sin, from self-centeredness, and from the futility of a life without ultimate meaning.
-This surrender is a choice, an act of faith, and it is meant to empower individuals to live lives of purpose, love, and service, not to
+leads to the deepest freedom. It's the freedom from sin, from self-centeredness and from the futility of a life without ultimate meaning.
+This surrender is a choice, an act of faith and it is meant to empower individuals to live lives of purpose, love and service, not to
 diminish their autonomy or bind them in chains of human manipulation.
 

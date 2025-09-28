@@ -58,7 +58,7 @@ prejudices of his people and age?
 
 Jesus had multiple opportunities to take advantage of people around Him, yet didn't. He was not
 looking for power - quite the opposite; He modeled serving others
-([John 13:1–16](https://www.biblegateway.com/passage/?search=John%2013%3A1%E2%80%9316&version=NKJV);
+([John 13:1-16](https://www.biblegateway.com/passage/?search=John%2013%3A1%E2%80%9316&version=NKJV);
 [15:13](https://www.biblegateway.com/passage/?search=John%2015%3A13&version=NKJV)) and
 giving without expecting anything in return, even to the wicked and ungrateful
 ([Luke 6:35-36](https://www.biblegateway.com/passage/?search=Luke%206%3A35-36&version=NKJV)).

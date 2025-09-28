@@ -11,7 +11,8 @@ keywords: ["why did Jesus come","purpose of Jesus' life","mission of Jesus Chris
 # The Martyrs
 
 People were drawn to Jesus Christ because it wasn't just empty teaching - His message had life, hope,
-love and salvation! He preached with authority and miracles followed! People heard His parables and
+love and salvation! He preached with authority and miracles followed! People heard
+[His parables](../life/parables/index.md) and
 recognized Him as the promised Messiah. Jesus said *the Spirit of the Lord is upon Me, because He has
 anointed Me To preach the gospel to the poor; He has sent Me to heal the brokenhearted, to proclaim
 liberty to the captives and recovery of sight to the blind, to set at liberty those who are
@@ -104,7 +105,7 @@ I have commanded you; and lo, I am with you always, even to the end of the age."
 
 Stephen, known as the first Christian martyr, played a vital role in the early Church as one of
 the seven deacons appointed by the apostles to assist in distributing food and aid to widows and
-the needy ([Acts 6:1–6](https://www.biblegateway.com/passage/?search=Acts%206%3A1%E2%80%936&version=NKJV)).
+the needy ([Acts 6:1-6](https://www.biblegateway.com/passage/?search=Acts%206%3A1%E2%80%936&version=NKJV)).
 Described as a man *full of faith and the Holy Spirit,* Stephen also
 demonstrated remarkable wisdom and power in preaching, performing miracles and boldly defending 
 the gospel of Jesus Christ.
@@ -121,7 +122,7 @@ the beginning of widespread persecution of Christians in Jerusalem.
 
 #### Paul
 
-Paul the Apostle, originally known as Saul of Tarsus, was a devout Pharisee and fierce persecutor
+Paul the Apostle originally known as Saul of Tarsus, was a devout Pharisee and fierce persecutor
 of early Christians. Born in Tarsus (modern-day Turkey), he was highly educated in Jewish law
 and initially saw the Jesus movement as a threat to Judaism. On his way to Damascus to arrest
 Christians, Paul saw the resurrected Jesus ([1 Cor 15:8](https://www.biblegateway.com/passage/?search=1%20Cor%2015%3A8&version=NKJV))
@@ -145,14 +146,14 @@ transformation and devotion to Christ.
 
 Barnabas, whose name means *son of encouragement*, was an important leader in the early
 church. Born a Levite from Cyprus, his original name was Joseph, but he was given the name Barnabas
-by the apostles due to his generous and uplifting nature ([Acts 4:36–37](https://www.biblegateway.com/passage/?search=Acts%204%3A36%E2%80%9337&version=NKJV)).
+by the apostles due to his generous and uplifting nature ([Acts 4:36-37](https://www.biblegateway.com/passage/?search=Acts%204%3A36%E2%80%9337&version=NKJV)).
 He is first mentioned in the Book of Acts as a faithful believer who sold his land and gave the proceeds to the apostles
 for the support of the church.
 
 Barnabas played a crucial role in the integration of Paul (formerly Saul) into the Christian
 community after Paul's dramatic conversion. When the other disciples were hesitant to accept
 Paul due to his past persecution of Christians, Barnabas vouched for him and introduced him to
-the apostles ([Acts 9:26–27](https://www.biblegateway.com/passage/?search=Acts%209%3A26%E2%80%9327&version=NKJV)).
+the apostles ([Acts 9:26-27](https://www.biblegateway.com/passage/?search=Acts%209%3A26%E2%80%9327&version=NKJV)).
 Barnabas later joined Paul on his first missionary journey, traveling
 through Cyprus and parts of Asia Minor to spread the gospel. He was instrumental in preaching to
 both Jews and Gentiles, helping establish new churches. Although he and Paul later parted ways
@@ -162,7 +163,7 @@ Barnabas was martyred in Cyprus, where he was stoned and then burned for his fai
 
 #### Simon Peter
 
-Simon Peter, originally from Bethsaida, was a fisherman with his brother Andrew
+Simon Peter originally from Bethsaida, was a fisherman with his brother Andrew
 ([John 1:44](https://www.biblegateway.com/passage/?search=John%201%3A44&version=NKJV);
 [Mat 4:18](https://www.biblegateway.com/passage/?search=mat%204%3A18&version=NKJV)).
 He was married and witnessed Jesus heal his mother-in-law
@@ -175,7 +176,7 @@ He was also divinely inspired of God and declared Jesus as the Messiah (Christ),
 ([Mat 16:16](https://www.biblegateway.com/passage/?search=Matt%2016%3A16&version=NKJV)).
 
 After Jesus' ascension, Peter led the early church, delivering key sermons
-([Acts 2–3](https://www.biblegateway.com/passage/?search=Acts%202%E2%80%933&version=NKJV)) and
+([Acts 2-3](https://www.biblegateway.com/passage/?search=Acts%202%E2%80%933&version=NKJV)) and
 performing miracles ([Acts 3, 5, 9, etc](https://www.biblegateway.com/passage/?search=Acts%203%20-9&version=NKJV)).
 He was repeatedly arrested and imprisoned by Herod for preaching the good news of Jesus Christ but was
 miraculously freed by angels ([Acts 4, 5, 12](https://www.biblegateway.com/passage/?search=Acts%204-5%2C12&version=NKJV)). 
@@ -272,7 +273,7 @@ the governor so much that he had him tortured and crucified.
 Bartholomew, also known as Nathanael in the Gospel of John and is often remembered for his
 honest and sincere character. Upon first meeting Jesus, Bartholomew was amazed that Jesus
 knew him intimately, prompting his immediate belief
-([John 1:45–51](https://www.biblegateway.com/passage/?search=John%201%3A45%E2%80%9351&version=NKJV)).
+([John 1:45-51](https://www.biblegateway.com/passage/?search=John%201%3A45%E2%80%9351&version=NKJV)).
 After the resurrection and ascension of Christ, Bartholomew traveled extensively to spread the Gospel
 in Mesopotamia, Persia, Arabia and then India, where he is credited with bringing Christianity and leaving
 behind a copy of the gospel of Matthew.
@@ -343,7 +344,7 @@ a continuous thread of people who would not give up Jesus Christ and faith in Hi
 After the apostolic age, persecution became more systematic under Roman rule, particularly during
 the reigns of emperors such as Trajan, Decius and Diocletian. Christians were accused of atheism for
 refusing to worship Roman gods and were often executed in brutal ways - burned alive, thrown to wild
-beasts, or crucified. 
+beasts or crucified. 
 
 :::info[**Polycarp of Smyrna**]
 
@@ -410,7 +411,7 @@ Lord! Open the King of England's eyes!
 Just a few years later, his prayer was answered. King Henry VIII authorized an English Bible - largely based on
 Tyndale's work - to be read in churches all across England.
 
-Many Christians, Protestants and Catholics alike were burned, drowned, or beheaded during the turbulent
+Many Christians, Protestants and Catholics alike were burned, drowned or beheaded during the turbulent
 upheavals of the 16th and 17th centuries.
 
 ### The Modern Era (20th Century to Present)
@@ -420,7 +421,7 @@ ideological persecution. ***The 20th century has been labeled by some scholars a
 with more Christians reportedly dying for their faith than in all previous centuries combined.*
 
 Under totalitarian regimes like the Soviet Union, Nazi Germany and Communist China, countless Christians
-were imprisoned, tortured, or killed for practicing or spreading their faith. For example, **Dietrich Bonhoeffer**,
+were imprisoned, tortured or killed for practicing or spreading their faith. For example, **Dietrich Bonhoeffer**,
 a German pastor, was executed for opposing Hitler and participating in a plot to overthrow him. Countless clergy
 under the Communist rule have suffered imprisonment, torture and death.
 

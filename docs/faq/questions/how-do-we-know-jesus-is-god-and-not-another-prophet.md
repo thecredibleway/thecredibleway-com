@@ -4,13 +4,13 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: How Do We Know Jesus is God and Not Just Another Prophet? | Christian Apologetics
 sidebar_label: How Do We Know Jesus is God and Not Just Another Prophet?
-description: Explore the compelling evidence for Jesus' divinity, distinguishing Him from mere prophets. Examines biblical claims, fulfilled prophecies, His miraculous power, the resurrection, and historical accounts to demonstrate how we know Jesus is God.
+description: Explore the compelling evidence for Jesus' divinity, distinguishing Him from mere prophets. Examines biblical claims, fulfilled prophecies, His miraculous power, the resurrection and historical accounts to demonstrate how we know Jesus is God.
 keywords: ["How do we know Jesus is God and not just another prophet","Jesus is God","Christian apologetics","divinity of Jesus","Jesus vs prophets","evidence for Jesus' deity","Christ's divinity","Son of God","uniqueness of Jesus","fulfilled prophecy","Jesus' miracles","resurrection of Jesus","historical Jesus","theological arguments for Christ's deity","I AM statements, worship of Jesus"]
 ---
 
 # How Do We Know Jesus is God and Not Just Another Prophet?
 
-The claim that Jesus of Nazareth is not merely a wise teacher, a moral exemplar, or a significant
+The claim that Jesus of Nazareth is not merely a wise teacher, a moral exemplar or a significant
 prophet, but God incarnate, lies at the very heart of Christian faith. This audacious assertion sets
 Christianity apart from other religions and philosophies. For many, accepting Jesus as God seems
 like a leap of faith, yet Christian apologetics offers a robust body of evidence, inviting a rational
@@ -34,7 +34,7 @@ like *"I am the bread of life"* ([John 6:35](https://www.biblegateway.com/passag
 *"I am the light of the world"* ([John 8:12](https://www.biblegateway.com/passage/?search=John%208%3A32&version=NKJV)),
 *"I am the good shepherd"* ([John 10:11](https://www.biblegateway.com/passage/?search=John%2010%3A11&version=NKJV)),
 *"I am the resurrection and the life"* ([John 11:25](https://www.biblegateway.com/passage/?search=John%2011%3A25&version=NKJV))
-and *"I am the way, the truth, and the life"* ([John 14:6](https://www.biblegateway.com/passage/?search=John%2014%3A6&version=NKJV)),
+and *"I am the way, the truth and the life"* ([John 14:6](https://www.biblegateway.com/passage/?search=John%2014%3A6&version=NKJV)),
 all point to His unique, divine identity and indispensable role in salvation - privileges belonging only to God.
 
 #### Claims of Oneness with the Father
@@ -57,14 +57,14 @@ demonstrated His authority to forgive sins by also healing the man, directly lin
 over physical ailments to His divine power over spiritual ones. Jesus could forgive sins and heal; His
 death on the cross also covered both.
 [Isa 53:5](https://www.biblegateway.com/passage/?search=Is%2053%3A5&version=NKJV) says, *"But He was
-wounded for our transgressions, He was bruised for our iniquities; ..., And by His stripes we are healed."*
+wounded for our transgressions, He was bruised for our iniquities; ... and by His stripes we are healed."*
 
 #### Acceptance of Worship
 
 Unlike prophets who consistently refused worship, directing it only to God
 ([Acts 10:25-26](https://www.biblegateway.com/passage/?search=%20Acts%2010%3A25-26%29&version=NKJV)), Jesus
 accepted worship. The blind man whose sight was restored worshipped Jesus
-([John 9:38](https://www.biblegateway.com/passage/?search=John%209%3A38&version=NKJV)), and after
+([John 9:38](https://www.biblegateway.com/passage/?search=John%209%3A38&version=NKJV)) and after
 the resurrection, Thomas declared, *"My Lord and my God!"*
 ([John 20:28](https://www.biblegateway.com/passage/?search=John%2020%3A28&version=NKJV)), to which Jesus
 responded not with a rebuke, but an affirmation, *"Because you have seen me, you have believed; blessed
@@ -115,7 +115,7 @@ particularly those hinting at His divine nature, are difficult to explain as mer
 ## His Miraculous Power and Authority
 
 Jesus' miracles were not just isolated acts of wonder; they were demonstrations of divine power and authority
-over creation, disease, demons, and even death itself. Unlike prophets who performed miracles through the
+over creation, disease, demons and even death itself. Unlike prophets who performed miracles through the
 power of God, Jesus performed miracles by His own authority.
 
 #### Authority over Nature
@@ -161,7 +161,7 @@ These weren't just ordinary men-they were legal experts and could think for them
 and provincial governors. **If anything, their testimony as hostile sources, is especially valuable and
 considered the most credible since they had no reason to favor Jesus or His followers.**
 
-The Romans were certainly no friends of Jesus Christ, or His followers - quite the opposite in fact!
+The Romans were certainly no friends of Jesus Christ or His followers - quite the opposite in fact!
 They scourged Jesus, gave Him a crown of thorns, mocked Him, crucified Him and later persecuted
 His followers the same way. And yet, [their own historical records acknowledge Jesus Christ, the early church,
 and the surprising spread of Christianity](./how-do-we-know-jesus-rose-from-the-dead.md).
@@ -224,7 +224,7 @@ People die for their beliefs; but they never willingly die for what they know to
 
 The early church councils, understanding the profound implications of Jesus' identity, consistently
 affirmed His full deity (the Council of Nicaea in 325 AD, which articulated the doctrine of the Trinity and
-the *homoousios* i.e., of the same substance – with the Father). This wasn't an invention, but a
+the *homoousios* i.e., of the same substance - with the Father). This wasn't an invention, but a
 formalization of beliefs already present from the apostolic age, rooted in Jesus' own claims and the
 experiences of His followers.
 
@@ -267,8 +267,8 @@ and Savior, worthy of faith and adoration.
 :::
 
 To accept Jesus as merely a good teacher or prophet while dismissing Him as God creates an untenable
-position, as C.S. Lewis who was once a stoic atheist, famously argued *"Either this man was, and is,
-the Son of God, or else a madman or something worse"*. 
+position, as C.S. Lewis who was once a stoic atheist, famously argued *"Either this man was and is,
+the Son of God or else a madman or something worse"*. 
 While faith remains an essential component of Christian belief, this faith is not blind. It is a faith
 grounded in historical inquiry and supported by a robust body of evidence. The fact that Jesus is God
 is not merely a theological doctrine; it is a historical event that profoundly altered the course of

@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Why are There so Many Hypocrites in Churches? | Christian Apologetics
 sidebar_label: Why are There so Many Hypocrites in Churches?
-description: Explore a biblical and honest answer that confronts hypocrisy in Christianity, the danger of self-deception, and God's call to righteousness over happiness.
+description: Explore a biblical and honest answer that confronts hypocrisy in Christianity, the danger of self-deception and God's call to righteousness over happiness.
 keywords: ["Why are there so many types of churches","Christian hypocrisy","hypocrites in church","Christian self-examination","double life Christianity","righteousness vs happiness","Christian apologetics","fake Christians","truth in love","examine yourself","faith test"]
 ---
 
@@ -32,7 +32,7 @@ thirst after righteousness, for they will be filled"*
 looking for personal happiness alone, they will be disappointed - and perhaps tempted to fake faith for social
 or emotional benefits. 
 
-Temptation, trials, and suffering often bring the truth of a person's character to the surface. Scripture exhorts us to
+Temptation, trials and suffering often bring the truth of a person's character to the surface. Scripture exhorts us to
 *"examine yourselves to see whether you are in the faith"*
 ([2 Cor 13:5](https://www.biblegateway.com/passage/?search=2%20Corinthians%2013%3A5&version=NKJV)). And life provides
 ample opportunity for that test - How do we react when we don't get what we want? Do we walk by the Spirit or in the
@@ -68,8 +68,8 @@ Another sad truth is that sometimes people remain in church, not because they've
 to Christ, but because it provides community, status or comfort. They mistakenly believe they can 
 serve both God and the world - sit in church on Sunday and live for self the rest of the week.
 Jesus himself warned about those who would *call* Him *"Lord, Lord"* *but not do the will of His Father*
-([Matt 7:21-23](https://www.biblegateway.com/passage/?search=Matthew%207%3A21-23&version=NKJV)). The parable of
-the weeds among the wheat
+([Matt 7:21-23](https://www.biblegateway.com/passage/?search=Matthew%207%3A21-23&version=NKJV)). The [parable of
+the weeds among the[wheat](../../jesus/life/parables/kingdom-of-god.md#wheat-and-tares)
 ([Matt 13:24-30](https://www.biblegateway.com/passage/?search=Matt%2013%3A24-30&version=NKJV))
 illustrates this point perfectly - both true believers (wheat) and false professors (weeds) will coexist
 within the visible church until the final judgment. These *weeds* may adopt the language and outward
@@ -115,11 +115,11 @@ about David's feelings or a better life plan. He spoke directly about sin, right
 
 Likewise, when the apostle Paul preached to Governor Felix
 ([Acts 24:25](https://www.biblegateway.com/passage/?search=Acts%2024%3A25&version=NKJV)), he reasoned about
-*"righteousness, self-control, and the coming judgment"*. Felix trembled - not because he was promised happiness, but
+*"righteousness, self-control and the coming judgment"*. Felix trembled - not because he was promised happiness, but
 because he was confronted with truth.
 
 That kind of preaching is rare today. Many try to reshape Jesus to fit the culture - as a life coach, a therapist
-or a happiness guru. The truth however is that Jesus is the same yesterday, today, and forever
+or a happiness guru. The truth however is that Jesus is the same yesterday, today and forever
 ([Heb 13:8](https://www.biblegateway.com/passage/?search=Hebrews%2013%3A8&version=NKJV)) - regardless of culture,
 creed, race or region. His message hasn't changed - repent, believe and live. We should preach the same thing if we
 truly call ourselves Christians.

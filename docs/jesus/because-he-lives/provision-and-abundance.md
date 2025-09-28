@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Provision and Abundance | Because He Lives
 sidebar_label: Provision and Abundance
-description: Because Jesus lives, I have life more abundantly! This establishes the believer's identity and authority, revealing the fullness and richness of life in Christ—spiritually, emotionally, and even materially.
+description: Because Jesus lives, I have life more abundantly! This establishes the believer's identity and authority, revealing the fullness and richness of life in Christ—spiritually, emotionally and even materially.
 keywords: ["Abundance","Freedom from Poverty","abundant life","blessings in Christ","fullness of life","life to the full","divine provision","overflow of grace","spiritual riches in Jesus","more than enough"]
 ---
 
@@ -49,8 +49,8 @@ Throughout His ministry, Jesus constantly demonstrated that lack bows to divine 
 - He multiplied loaves and fish to feed thousands ([Mark 6:41](https://www.biblegateway.com/passage/?search=Mark%206%3A41&version=NKJV))
 - He provided temple tax money from the mouth of a fish ([Mat 17:27](https://www.biblegateway.com/passage/?search=Mat%2017%3A27&version=NKJV))
 - He turned water into wine at a wedding feast ([John 2:1-11](https://www.biblegateway.com/passage/?search=John%202&version=NKJV)
-- He told His followers not to worry about what they would eat, drink, or wear, but to trust their
-Father who knows their needs ([Mat 6:25–33](https://www.biblegateway.com/passage/?search=Mat%206%3A25%E2%80%9333&version=NKJV))
+- He told His followers not to worry about what they would eat, drink or wear, but to trust their
+Father who knows their needs ([Mat 6:25-33](https://www.biblegateway.com/passage/?search=Mat%206%3A25%E2%80%9333&version=NKJV))
 
 ## What Provision Includes
 
@@ -59,7 +59,7 @@ but of trust in the limitless provision of a loving Father. Biblical abundance i
 pursuing luxury. It is about having more than enough to fulfill God's calling, bless others and establish His
 Kingdom on earth. *And God is able to make all grace abound toward you, that you, always having all sufficiency in
 all things, may have an abundance for every good work* ([2 Cor 9:8](https://www.biblegateway.com/passage/?search=2%20Cor%209%3A8&version=NKJV)).
-This is kingdom abundance a life where your needs are met and your overflow becomes someone else's miracle.
+This is Kingdom abundance a life where your needs are met and your overflow becomes someone else's miracle.
 Abundance in the Kingdom is accessed not through striving, but through faith, obedience and stewardship. 
 Provision in Christ is holistic. 
 
@@ -78,7 +78,7 @@ Through Him, we receive comfort, joy and peace that surpasses understanding
 #### Material Provision
 
 Scripture affirms God's care for our practical needs - *"Do not worry... your heavenly Father
-knows that you need all these things."* — [Mat 6:31–32](https://www.biblegateway.com/passage/?search=Matthew%206%3A31%E2%80%9332&version=NKJV)
+knows that you need all these things."* — [Mat 6:31-32](https://www.biblegateway.com/passage/?search=Matthew%206%3A31%E2%80%9332&version=NKJV)
 
 We are not called to anxiety, but to confident trust in the One who provides.
 
@@ -101,7 +101,7 @@ For with the same measure that you use, it will be measured back to you"*.
 
 #### Ask in Faith
 
-God delights in our asking. We don’t beg—we boldly request what He has already promised in Christ.
+God delights in our asking. We don't beg—we boldly request what He has already promised in Christ.
 
 [James 4:2](https://www.biblegateway.com/passage/?search=james%204%3A2&version=NKJV) says *"You have not because you ask not"*.
 

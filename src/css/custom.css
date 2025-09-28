@@ -89,3 +89,15 @@
   display: none !important;
 }  */
 
+/* Sidebar menu items sizes */
+/* Top-level items */
+.menu__list > .menu__list-item > .menu__link {
+  font-size: 0.85rem;
+}
+
+/* Second-level items (children) */
+.menu__list .menu__list .menu__link {
+  font-size: 0.85rem;
+  padding-top: 0.2rem;
+  padding-bottom: 0.2rem;
+}

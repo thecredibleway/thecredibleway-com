@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Does the Bible Allow Slavery? | Christian Apologetics
 sidebar_label: Does the Bible Allow Slavery?
-description: Explore what the Bible really says about slavery. Understand the historical context, God's permissive will, and the transformative message of equality in Christ.
+description: Explore what the Bible really says about slavery. Understand the historical context, God's permissive will and the transformative message of equality in Christ.
 keywords: ["Does the Bible allow slavery","Bible and slavery","Christian apologetics slavery","slavery in the Bible","Philemon and Onesimus","biblical context slavery","God's permissive will","biblical equality","slavery vs servanthood"]
 ---
 
@@ -13,8 +13,8 @@ keywords: ["Does the Bible allow slavery","Bible and slavery","Christian apologe
 Slavery is one of the most emotionally and morally charged subjects in any discussion about
 the Bible. Critics often point to biblical texts mentioning slavery to claim that Scripture
 condones or promotes it. However, a careful study reveals a more nuanced reality - one that
-distinguishes between God's perfect will and His permissive will, and that ultimately points
-toward dignity, freedom, and equality in Christ.
+distinguishes between God's perfect will and His permissive will and that ultimately points
+toward dignity, freedom and equality in Christ.
 
 ## Understanding the Historical Context
 
@@ -27,7 +27,7 @@ servitude was voluntary and temporary. According to the Old Testament law
 slaves were to be set free after six years of service, *"If you buy a Hebrew servant, he is
 to serve you for six years. But in the seventh year, he shall go free, without paying anything."*
 [Slaves were to be treated fairly, receive their just wages, were not to work during the
-Sabbath, and not to be treated harshly or severely harmed](https://www.dbu.edu/mitchell/early-modern-resources/biblesla.html)
+Sabbath and not to be treated harshly or severely harmed](https://www.dbu.edu/mitchell/early-modern-resources/biblesla.html)
 ([Exod 20:10](https://www.biblegateway.com/passage/?search=Exo%2020%3A10&version=NKJV),
  [Job 31:13-15](https://www.biblegateway.com/passage/?search=Job%2031%3A13-15&version=NKJV),
  [Deut 24:14-15](https://www.biblegateway.com/passage/?search=Deut%2024%3A14-15&version=NKJV),
@@ -80,7 +80,7 @@ for you are all one in Christ Jesus."*
 
 :::
 
-This statement was revolutionary. It shattered social, ethnic, and economic barriers,
+This statement was revolutionary. It shattered social, ethnic and economic barriers,
 declaring that in Christ, all believers are equal. Paul didn't just preach this idea - he lived it.
 
 # Paul, Philemon and Onesimus: A New Way Forward
@@ -89,7 +89,7 @@ is found in Paul's letter to Philemon. In this brief epistle, Paul appeals to Ph
 slave owner, regarding a runaway slave named Onesimus.
 Paul writes *"Perhaps the reason he was separated from you for a little while was that you might have
 him back, **no longer as a slave, but better than a slave, as a dear brother**"*
-([Philemon 15–16](https://www.biblegateway.com/passage/?search=Philemon%201&version=NKJV)).
+([Philemon 15-16](https://www.biblegateway.com/passage/?search=Philemon%201&version=NKJV)).
 
 Paul doesn't call for an armed rebellion or immediate abolition, but his approach subverts
 the institution at its core. He calls Philemon to view Onesimus; **not as property, but as a dear brother
@@ -106,7 +106,7 @@ Jesus Christ is fundamentally incompatible with the ownership and exploitation o
 :::info[The Gospel]
 
 The power of the gospel didn't only bring spiritual salvation; it reshaped societal norms and human
-relationships. It reminded the world that no one is superior to another based on race, status, or wealth.
+relationships. It reminded the world that no one is superior to another based on race, status or wealth.
 
 :::
 
@@ -116,4 +116,4 @@ plan for humanity, just as divorce was not. But God worked within human brokenne
 toward something better.
 
 And that *something better* is found in Jesus Christ, where every human being - is valued,
-cherished, and made one in Him.
+cherished and made one in Him.

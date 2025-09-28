@@ -14,9 +14,9 @@ Many voices in our contemporary world echo a persistent critique of religious be
 Christian faith - they say it is nothing more than a *blind belief*, a surrender to unreasoned conviction.
 Others say that faith is a mere *psychological crutch for the weak*. Critics often suggest
 that individuals turn to religion not because of truth, but out of a desperate need for comfort
-or meaning, especially when confronted with suffering, uncertainty, or the vastness of human
+or meaning, especially when confronted with suffering, uncertainty or the vastness of human
 existence. But is this really an accurate representation of biblical faith? Is Christian faith truly
-blind, or is it a confident trust grounded in evidence, reason and personal experience with the
+blind or is it a confident trust grounded in evidence, reason and personal experience with the
 living God?
 
 ## Understanding Biblical Faith
@@ -93,12 +93,12 @@ Every worldview, whether explicitly religious or not, ultimately requires a degr
 Even the most ardent skeptic operates on foundational assumptions that cannot be empirically
 proven. For instance, the belief in the reliability of human reason, the existence of objective
 morality (even if one argues it's socially constructed, that construction itself implies a faith
-in shared societal understanding), or the consistency of natural laws upon which scientific
+in shared societal understanding) or the consistency of natural laws upon which scientific
 inquiry depends - these are all fundamental tenets that are accepted by faith, i.e., they are
 foundational beliefs rather than testable hypotheses in every instance. 
 
 Atheism, for instance, requires faith in several unseen and unprovable assumptions,
-such as the belief that the universe had no creator, or that morality is purely a human
+such as the belief that the universe had no creator or that morality is purely a human
 construct without any objective basis. Atheists trust in the idea that reason and logic,
 which cannot be directly observed, are the best tools to understand the universe. The
 origins of the universe itself remain a mystery and yet many atheists trust in scientific
@@ -139,7 +139,7 @@ like Paul engaged in reasoned arguments, appealing to historical facts and logic
 
 The Bible, particularly the New Testament, presents itself as a divinely inspired and historically
 reliable account. Scholars from various disciplines have examined its textual transmission, historical
-accuracy, and internal consistency. While debates persist, the vast majority of biblical scholars,
+accuracy and internal consistency. While debates persist, the vast majority of biblical scholars,
 including many who are not Christian, acknowledge the remarkable preservation of its texts and its
 value as an ancient historical document. The [sheer volume of manuscripts](../../bible/credibility/manuscript-evidence.mdx),
 the early dating of key texts and the consistency of the message across diverse authors and centuries provide compelling
@@ -176,19 +176,19 @@ and indeed global history is undeniable.
 
 ### The Evidence of Creation
 
-For many, the intricate design, order, and beauty of the universe point to an intelligent Creator.
+For many, the intricate design order and beauty of the universe point to an intelligent Creator.
 From the fine-tuning of cosmic constants that allow for life to exist, to the astounding complexity
 of biological systems, arguments from design suggest a mind behind the cosmos. While scientific
 inquiry explains how the universe operates, it does not necessarily answer why it exists or why
-it possesses such inherent order and elegance. For many, the existence of a rational, ordered
+it possesses such inherent order and elegance. For many, the existence of a rational ordered
 universe is more consistent with the existence of a rational Creator than with pure randomness.
 
 ### The Uniqueness of Jesus Christ
 
 At the heart of Christianity is the person of Jesus of Nazareth. His life, [teachings](../../jesus/crediblilty/teachings-of-jesus.md),
 miracles and divinity stand unparalleled in human history. He is God, He demonstrated power over nature,
-disease and even death, and offered a [radical message of love, forgiveness and redemption](../../jesus/crediblilty/teachings-of-jesus.md#the-beatitudes).
-His moral teachings continue to inspire and challenge humanity, and his impact on billions of lives
+disease and even death and offered a [radical message of love, forgiveness and redemption](../../jesus/crediblilty/teachings-of-jesus.md#the-beatitudes).
+His moral teachings continue to inspire and challenge humanity and his impact on billions of lives
 over two millennia is undeniable. The historical evidence for his existence and the extraordinary
 claims made about him are a cornerstone for Christian belief. For many, Jesus isn't just a great
 moral teacher, but truly God incarnate, providing a unique bridge between humanity and the divine.
@@ -220,7 +220,7 @@ greater courage, resilience and compassion. Throughout history, individuals of p
 been catalysts for [social justice](./does-the-bible-allow-slavery.md),
 [scientific advancement](./how-can-you-believe-in-miracles-in-a-scientific-age.md), artistic flourishing and
 [acts of selfless service](../../bible/origins/impact-on-civilization.md). 
-They have [faced persecution, poverty, and suffering](../../jesus/crediblilty/the-martyrs.md)
+They have [faced persecution, poverty and suffering](../../jesus/crediblilty/the-martyrs.md)
 not with resignation, but with an inner strength and hope derived from their convictions. Think of figures like Martin 
 Luther King Jr., who drew immense strength from his faith in the face of overwhelming opposition,
 or countless missionaries and aid workers like Mother Teresa or Heidi Baker who willingly put their
@@ -240,7 +240,7 @@ from nothing.
 
 Biblical faith is not naivety, nor is it an escape from reality. It is a confident trust in God.
 Rather than being a crutch for the weak, faith in Christ provides a sturdy foundation for life,
-empowering individuals to live with purpose, courage, and hope in a world that often seems devoid
+empowering individuals to live with purpose, courage and hope in a world that often seems devoid
 of both. It is a faith that is both reasonable and profoundly transformative.
 
 You have a choice to [put your faith in Jesus Christ](../../jesus/because-he-lives/new-identity-in-christ.mdx).

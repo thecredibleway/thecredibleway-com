@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Impact on Civilization | Origins of the Bible
 sidebar_label: Impact on Civilization
-description: What sets the Bible apart - its profound influence on Western civilization, shaping laws, human rights, education, art, and moral values, makes it a truly unique and impactful book.
+description: What sets the Bible apart - its profound influence on Western civilization, shaping laws, human rights, education, art and moral values, makes it a truly unique and impactful book.
 keywords: ["Bible and civilization","biblical influence","Bible and culture","Western values","moral foundations","social reform","human rights","biblical ethics","Christian heritage","Scripture and society"]
 ---
 
@@ -22,7 +22,7 @@ and rigid social hierarchies. The message of the New Testament that is centered 
 Christ spread rapidly, offering a radically different vision of human worth, divine justice and community.
 
 The Bible's emphasis on love, forgiveness and the equal value of every soul challenged Roman norms of class. The idea that
-**"there is neither Jew nor Greek, slave nor free… for you are all one in Christ Jesus"**
+**"there is neither Jew nor Greek, slave nor free... for you are all one in Christ Jesus"**
 ([Gal 3:28](https://www.biblegateway.com/passage/?search=Galatians%203%3A28&version=NKJV)) offered a new
 vision of human equality.
 
@@ -58,7 +58,7 @@ in conversation with biblical texts.
 The invention of the printing press (circa 1455 AD) by Johannes Gutenberg was a turning point. The first major book printed
 was the Latin Bible, but soon translations into vernacular languages spread across Europe. 
 
-The Reformation (1517–1648 AD), sparked by Martin Luther, was deeply rooted in the Bible. Luther's insistence on 
+The Reformation (1517-1648 AD), sparked by Martin Luther, was deeply rooted in the Bible. Luther's insistence on 
 **Sola Scriptura (Scripture alone)** redefined religious authority and emphasized personal access to God's Word.
 
 Luther's German Bible and William Tyndale's English translation brought Scripture into the hands of common people. It also
@@ -95,7 +95,7 @@ inspired entire movements for justice.
 :::
 
 Missionaries and Bible societies spread literacy, education and healthcare worldwide. Inspired by biblical commands to care for
-the poor and oppressed, they founded schools to teach reading through the Bible. Hospitals, orphanages and shelters were built on
+the poor and oppressed, they founded schools to teach reading through the Bible. Hospitals orphanages and shelters were built on
 biblical compassion and even continue to this day!
 
 ## 20th to 21st Century: Global Reach and Enduring Relevance
@@ -152,7 +152,7 @@ Ideas of justice, mercy, humility and service have molded both public and privat
 
 It has motivated peace movements, charity and reconciliation efforts across nations.
 
-Even non Christian societies have absorbed the Bible's moral vocabulary, whether through colonization, education, or literature.
+Even non Christian societies have absorbed the Bible's moral vocabulary, whether through colonization, education or literature.
 
 ## The Living Impact of the Bible
 

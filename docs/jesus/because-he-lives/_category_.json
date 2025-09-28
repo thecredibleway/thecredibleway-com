@@ -1,6 +1,8 @@
 {
   "label": "Because He Lives",
   "position": 3,
+  "collapsed": false,
+  "collapsible": true,
   "link": {
     "type": "generated-index",
     "description": "The effects of the sacrifice of Jesus - what does that mean for me?"

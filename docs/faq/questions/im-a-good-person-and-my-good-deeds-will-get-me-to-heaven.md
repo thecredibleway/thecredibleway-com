@@ -12,13 +12,13 @@ keywords: ["I'm a good person and good deeds will get me to heaven","Salvation b
 
 In a world that often values personal achievement and moral uprightness, the idea that *being a good person*
 or performing *good deeds* can secure one's place in heaven is a deeply ingrained belief for many. On the surface,
-this seems both reasonable and appealing - *if you live a life of kindness, generosity, and honesty, surely that
+this seems both reasonable and appealing - *if you live a life of kindness, generosity and honesty, surely that
 should be enough to earn divine favor?* This idea resonates across many cultures and spiritual paths and
 it offers a comforting framework for understanding life, purpose and the afterlife. *However* as intuitive as
 it may seem, this perspective raises several critical questions. For instance, **how much good is enough? Is there
-a threshold that must be crossed, and if so, who defines it?** Equally important is the question of standards - **what
+a threshold that must be crossed and if so, who defines it?** Equally important is the question of standards - **what
 exactly qualifies as good?** Morality can vary widely between individuals, cultures and belief systems. What one
-person considers virtuous, another might view quite differently. *Many of history’s greatest atrocities have been
+person considers virtuous, another might view quite differently. *Many of history's greatest atrocities have been
 committed by individuals or groups who believed they were doing good.* **Without a clear and universal benchmark, the
 idea of earning heaven through good behavior becomes subjective and uncertain.** Christianity, however presents a
 radically different answer, one that often challenges our human understanding of justice and merit.
@@ -57,12 +57,12 @@ is utterly insufficient for the magnitude of the problem.**
 ## The Insufficiency of Human Goodness
 
 We are often quick to compare ourselves to others, judging our *goodness* relative to those we perceive as
-*worse*. *"I'm not a murderer, I help my neighbors, I donate to charity"* we might think, and these are indeed
+*worse*. *"I'm not a murderer, I help my neighbors, I donate to charity"* we might think and these are indeed
 good things! But God's standard is not relative; it is absolute. **He doesn't compare us to each other - He
 compares us to Himself - His perfect holiness.**
 
 Furthermore, the motivation behind our good deeds matters. Are they performed out of genuine love for God
-and neighbor, or are they subtly motivated by a desire for recognition, self-satisfaction, or even a subconscious
+and neighbor or are they subtly motivated by a desire for recognition, self-satisfaction or even a subconscious
 attempt to earn favor with God? The Bible teaches that even our *righteous acts* are like *filthy rags* in God's
 sight when they are tainted by self-righteousness or a lack of true devotion
 ([Isaiah 64:6](https://www.biblegateway.com/passage/?search=Isaiah%2064%3A6&version=NKJV)). If our good deeds
@@ -124,9 +124,9 @@ or a moral example; He is the exclusive path to God.
 This relationship is characterized by forgiveness, as our sins are genuinely forgiven and we are declared
 righteous in God's sight because of Christ. It involves reconciliation, where the broken relationship with
 God is restored and we are adopted into His family as His children. It also brings about transformation, as
-the Holy Spirit comes to dwell within believers, empowering them to live a new life, grow in holiness, and
+the Holy Spirit comes to dwell within believers, empowering them to live a new life, grow in holiness and
 become more like Christ. **This transformation naturally leads to good works - not as a means to earn
-salvation, but as a joyful overflow of a changed heart and a desire to honour God.**
+salvation, but as a joyful overflow of a changed heart and a desire to honor God.**
 
 ## The True Place of Good Deeds
 
@@ -140,7 +140,7 @@ immediately following the verses on salvation by grace through faith, says, *"Fo
 Christ Jesus to do good works, which God prepared in advance for us to do"*.
 
 These good works include acts of charity, kindness, justice and living a morally upright life. They are evidence
-of a genuine faith, a demonstration of God's love to the world, and a means by which God uses us to bless others.
+of a genuine faith, a demonstration of God's love to the world and a means by which God uses us to bless others.
 They are done out of gratitude for what God has already done, not as a desperate attempt to earn something we cannot.
 Most times they go unnoticed or uncelebrated, but they are a testament to the transformative power of the Gospel.
 We wouldn't have missionaries or real humanitarian aid today if it were not for the likes of these genuine
@@ -169,13 +169,13 @@ made available through the [sacrificial love of Jesus Christ](../../jesus/credib
 
 Heaven is not a reward for good behavior, but a destination for those who have been reconciled to God through
 faith in His Son. It is a gift received, not a prize won. This understanding invites us into a dynamic, personal
-relationship with our Creator, where transformation is empowered by His Spirit, and good deeds flow naturally from
+relationship with our Creator, where transformation is empowered by His Spirit and good deeds flow naturally from
 a heart overflowing with gratitude and love. It is a message of hope, not based on our flawed performance, but on
 the perfect work of Jesus Christ.
 
 **You have a choice and only you can decide what you want for your life and for eternity**. We really hope you
 choose life and a relationship with God! ([Deut 30:15-20](https://www.biblegateway.com/passage/?search=Deuteronomy%2030%3A15-20&version=NKJV)).
-Only Jesus can break the power of sin that we are born into, and [give you life](../../jesus/because-he-lives/i-can-face-tomorrow.md).
+Only Jesus can break the power of sin that we are born into and [give you life](../../jesus/because-he-lives/i-can-face-tomorrow.md).
 
 
 ## Suggested Additional Resources

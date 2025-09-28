@@ -26,7 +26,7 @@ This authority wasn't just about teaching - it included power over sickness, sin
 ## Authority Restored Through Christ
 
 Adam and Eve were originally given authority and dominion over the earth
-([Gen 1:26–28](https://www.biblegateway.com/passage/?search=Gen%201%3A26%E2%80%9328&version=NKJV)),
+([Gen 1:26-28](https://www.biblegateway.com/passage/?search=Gen%201%3A26%E2%80%9328&version=NKJV)),
 but this was forfeited when they sinned. Satan, described as *the god of this age*
 ([2 Cor 4:4](https://www.biblegateway.com/passage/?search=2%20Cor%204%3A4&version=NKJV)), gained
 legal control over humanity. However, Jesus came to reverse this curse.
@@ -62,7 +62,7 @@ authority. It implies a position of rest, power and legal right in the spiritual
 
 The authority of the believer is not for vain self glory or control over people. It exists to advance the gospel.
 Authority empowers believers to preach with boldness and signs following
-([Mark 16:17–18](https://www.biblegateway.com/passage/?search=Mark%2016%3A17%E2%80%9318&version=NKJV)).
+([Mark 16:17-18](https://www.biblegateway.com/passage/?search=Mark%2016%3A17%E2%80%9318&version=NKJV)).
 Jesus said He came to proclaim liberty to the captives
 ([Luke 4:18](https://www.biblegateway.com/passage/?search=luke%204%3A18&version=NKJV)) - believers continue
 this work. As Jesus taught, in [Matthew 6:10](https://www.biblegateway.com/passage/?search=Matthew%206%3A10&version=NKJV) *"Your kingdom come, your will be done on earth

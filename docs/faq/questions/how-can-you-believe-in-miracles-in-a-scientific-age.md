@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: How can You Believe in Miracles in a Scientific Age? | Christian Apologetics
 sidebar_label: How can You Believe in Miracles in a Scientific Age?
-description: Explore how belief in miracles including the virgin birth, resurrection and supernatural healings - can coexist with science, historical reasoning, and philosophical inquiry in today's world.
+description: Explore how belief in miracles including the virgin birth, resurrection and supernatural healings - can coexist with science, historical reasoning and philosophical inquiry in today's world.
 keywords: ["How can you believe in miracles in a scientific age?","Miracles and science","belief in miracles","Christian apologetics","scientific age","God and science","supernatural events","resurrection of Jesus","historical evidence for miracles","natural laws","divine intervention","faith and reason","scientific worldview","argument for miracles"]
 ---
 
@@ -14,7 +14,7 @@ In our scientific age, miracles may feel outdated. We live in an age defined by 
 where natural explanations are diligently sought for everything from the intricate workings of the cosmos
 to the complexities of human biology and every unknown phenomenon sooner or later has a natural explanation.
 So how can one seriously entertain the notion of virgin births, resurrections from the dead or supernatural
-healings? Is belief in miracles a relic of intellectual immaturity, or is there a coherent way to reconcile
+healings? Is belief in miracles a relic of intellectual immaturity or is there a coherent way to reconcile
 faith in the miraculous with a commitment to scientific understanding?
 
 Christianity does not reject science - it embraces it. Pioneers like Isaac Newton, Johannes Kepler, Leonhard Euler,
@@ -25,7 +25,7 @@ definition exceptions - rare, purposeful acts of God intervening supernaturally.
 ## Science as a Description of Regularity, Not a Rulebook on the Impossible
 
 Science studies how the world usually behaves. It describes regularities but does not declare what is
-point–blank impossible. Declaring miracles impossible because they don't follow natural laws is like dismissing
+point-blank impossible. Declaring miracles impossible because they don't follow natural laws is like dismissing
 surprise parties because people don't throw them every day. Philosopher William Lane Craig cautions against
 viewing nature as a *Newtonian world‑machine* i.e., something that God sets in motion and never touches
 again - this is a view born of *Enlightenment-era deism*, **not** science. 
@@ -57,7 +57,7 @@ passionately defended Christian faith.
 ## Defining Miracles - Exceptions, Not Contradictions to Natural Laws
 
 The core of the perceived conflict often lies in a misunderstanding of what a miracle is. Science explains how the
-world usually works. Natural laws (like gravity, thermodynamics, or the laws of biology) describe patterns and
+world usually works. Natural laws (like gravity, thermodynamics or the laws of biology) describe patterns and
 regularities we observe in the universe. They are descriptive, not prescriptive in the sense of being an ultimate,
 unbreakable force in themselves.
 
@@ -79,12 +79,12 @@ Does that mean none of those exist? Or perhaps that they should not exist just b
 :::
 
 Christians believe that God created the universe and its natural laws. These laws didn't come about because just
-because we found them - they exist because they were established by a rational, ordered Creator. For example, Sir
+because we found them - they exist because they were established by a rational ordered Creator. For example, Sir
 Isaac Newton, discovered gravity circa 1666, then studied motion and the heavens and finally created his famous 
 *Principia Mathematica* in 1687 AD, where he elaborates his laws of motion and his law of universal gravitation. 
 This doesn't mean that gravity didn't exist before then and things just floated in the air. **The laws were
 established by God when He created everything; and because He established these laws, He is also capable of
-suspending, overriding, or adding to them for a specific purpose.** This is not a violation of the laws but a
+suspending, overriding or adding to them for a specific purpose.** This is not a violation of the laws but a
 demonstration of His power over the laws by their very Author. As C.S. Lewis, who was a stoic atheist, once
 argued in [Miracles: A Preliminary Study](https://www.amazon.com/Miracles-A-Preliminary-Study/dp/B0006D6NES),
 *A miracle is not an event that contradicts nature, but an event that contradicts what we know about nature
@@ -113,7 +113,7 @@ of Jesus Christ. These weren't just ordinary men-they were legal experts and cou
 and provincial governors. **If anything, their testimony as hostile sources, is especially valuable and
 considered the most credible since they had no reason to favor Jesus or His followers.**
 
-The Romans were certainly no friends of Jesus Christ, or His followers - quite the opposite in fact!
+The Romans were certainly no friends of Jesus Christ or His followers - quite the opposite in fact!
 They scourged Jesus, gave Him a crown of thorns, mocked Him, crucified Him and later persecuted
 His followers the same way. And yet, their own historical records acknowledge Jesus Christ, the early church,
 and the surprising spread of Christianity.
@@ -159,7 +159,7 @@ In fact, there's more historical evidence for Jesus of Nazareth than for Roman E
 and they both lived at the same period in history! Others argue that these were hallucinations, however, 
 these appearances occurred in various settings, to different people, individually and in groups, over a
 period of 40 days. The sheer number and diversity of these testimonies make the *hallucination theory*
-incredibly difficult to sustain. Hallucinations are typically individual, subjective, and don't manifest
+incredibly difficult to sustain. Hallucinations are typically individual, subjective and don't manifest
 to large groups simultaneously in consistent ways.
 
 #### Radical Transformation of the Disciples
@@ -167,7 +167,7 @@ to large groups simultaneously in consistent ways.
 Perhaps one of the most powerful pieces of evidence for the resurrection is the radical transformation
 of Jesus's disciples. After Jesus's crucifixion, they were terrified, scattered and in hiding. Peter,
 who had boldly declared his loyalty, denied Jesus three times. Their hopes were shattered, their leader
-dead, and their movement seemingly extinguished.
+dead and their movement seemingly extinguished.
 
 Yet, within weeks, these same fearful individuals were boldly proclaiming Jesus's resurrection in the very
 city where he had been executed, facing ridicule, persecution and ultimately, death. This dramatic shift
@@ -180,9 +180,9 @@ risen Christ.
 
 Beyond the resurrection, other biblical miracles are presented not as arbitrary acts but as purposeful
 divine interventions. These miracles served multiple critical functions. They acted as a validation of God's
-messengers, authenticating the divine commission of figures like Moses, Elijah, and Jesus' apostles.
+messengers, authenticating the divine commission of figures like Moses, Elijah and Jesus' apostles.
 Furthermore, they were demonstrations of God's character, revealing His compassion through healings,
-His sovereignty by calming storms, and His provision through providing food. Many miracles also
+His sovereignty by calming storms and His provision through providing food. Many miracles also
 fulfilled prophecy, showcasing God's foreknowledge and control over history. Ultimately, these events
 acted as points of revelation, unveiling aspects of God's nature and His plan for humanity that could
 not be understood through natural means alone.
@@ -223,4 +223,4 @@ the limitless power of the God who created both science and the universe it expl
 - [Jesus and the Eyewitnesses](https://www.amazon.com/Jesus-Eyewitnesses-Richard-Bauckham/dp/0802863906) by Richard Bauckham
 - [Reasonable Faith: Christian Truth and Apologetics](https://www.amazon.com/Reasonable-Faith-Christian-Truth-Apologetics/dp/1433501155) by William Craig
 - [Miracles: A Preliminary Study](https://www.amazon.com/Miracles-Preliminary-C-S-Lewis/dp/B001E1XTQ6) by C. S. Lewis (Philosophical argument for the possibility and nature of miracles)
-- [Where the Conflict Really Lies: Science, Religion, and Naturalism](https://www.amazon.com/Where-Conflict-Really-Lies-Naturalism/dp/0199812098) by Alvin Plantinga (Explores the relationship between science, religion, and naturalism, arguing against inherent conflict)
+- [Where the Conflict Really Lies: Science, Religion and Naturalism](https://www.amazon.com/Where-Conflict-Really-Lies-Naturalism/dp/0199812098) by Alvin Plantinga (Explores the relationship between science, religion and naturalism, arguing against inherent conflict)

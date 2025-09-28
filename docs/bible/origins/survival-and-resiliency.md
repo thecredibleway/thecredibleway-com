@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Survival and Resiliency | Origins of the Bible
 sidebar_label: Survival and Resiliency
-description: Despite centuries of persecution, censorship, and criticism, the Bible has survived intact, remaining the most widely read and distributed book in history, testifying to its enduring relevance and divine preservation.
+description: Despite centuries of persecution, censorship and criticism, the Bible has survived intact, remaining the most widely read and distributed book in history, testifying to its enduring relevance and divine preservation.
 keywords: ["Bible resilience","Bible survival","persecution of Scripture","preservation of the Bible","indestructible Bible","enduring Scripture","Bible through history","banned books","historical survival","divine protection"]
 ---
 
@@ -130,7 +130,7 @@ Today, the Bible is more accessible than ever thanks to digital platforms. Apps 
 BibleGateway and thousands of online ministries make it possible to read, search and share Scripture from
 almost any device.
 
-However, censorship remains. Some countries block Bible websites, remove religious apps from app stores, or
+However, censorship remains. Some countries block Bible websites, remove religious apps from app stores or
 monitor online religious activity. In places like North Korea, even owning a Bible is punishable by death,
 and Christians often memorize Scripture in secret to avoid detection.
 

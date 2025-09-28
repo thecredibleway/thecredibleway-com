@@ -17,9 +17,9 @@ Grace is the divine fuel of the christian life.
 ## Grace Saves and Empowers
 
 The apostle Paul describes both sides of grace beautifully in
-[Ephesians 2:8–9](https://www.biblegateway.com/passage/?search=Ephesians%202%3A8%E2%80%939&version=NKJV)
+[Ephesians 2:8-9](https://www.biblegateway.com/passage/?search=Ephesians%202%3A8%E2%80%939&version=NKJV)
 *"For by grace you have been saved through faith... not of works, lest anyone should boast"*.
-This is the grace that saves us. We didn't earn it, deserve it, or qualify for it. It is God's unmerited favor
+This is the grace that saves us. We didn't earn it, deserve it or qualify for it. It is God's unmerited favor
 poured out through Jesus. But in the very next verse, Paul adds *"For we are His workmanship, created
 in Christ Jesus for good works, which God prepared beforehand..."* Grace saves you and sets you in motion.
 It transforms you and gives you a new purpose.
@@ -50,7 +50,7 @@ Grace changes our desires. It rewires our hearts. It makes obedience become joyf
 Sin is not just a behavior problem or a mistake - it is a heart condition; a destructive power that separates
 us from God, enslaves the soul ([Rom 3:23](https://www.biblegateway.com/passage/?search=rom%203%3A23&version=NKJV)),
 *and the wages of sin is death* ([Rom 6:23](https://www.biblegateway.com/passage/?search=rom%206%3A23&version=NKJV))
-And no amount of self-effort, religion, or morality can remove it's stain or break.
+And no amount of self-effort, religion or morality can remove it's stain or break.
 But the good news of the Gospel is that Jesus Christ did not leave humanity trapped in sin. Through the cross,
 He provided a way not only for forgiveness, but for total freedom. His work gives us grace to be forgiven and power
 to live holy. 
@@ -64,7 +64,7 @@ The Christian life is not self-help. It is Spirit-empowered living, by grace.
 Grace is not weak. Grace is powerful. It breaks chains, opens prison doors and invites us to live in freedom and holiness.
 *For the grace of God that brings salvation has appeared to all men, teaching us that, denying ungodliness and worldly lusts,
 we should live soberly, righteously and godly in the present age*
-([Titus 2:11–12](https://www.biblegateway.com/passage/?search=Titus%202%3A11%E2%80%9312&version=NKJV)).
+([Titus 2:11-12](https://www.biblegateway.com/passage/?search=Titus%202%3A11%E2%80%9312&version=NKJV)).
 **Jesus didn't just die to make us forgiven - He died to make us holy and live to righteousness!**
 ([1 Pet 2:24](https://www.biblegateway.com/passage/?search=1%20Pet%202%3A24&version=NKJV))
 

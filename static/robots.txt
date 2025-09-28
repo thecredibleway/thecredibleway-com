@@ -1,2 +1,21 @@
 User-agent: *
 Disallow:
+
+# Allow specific AI bots explicitly
+User-agent: GPTBot
+Disallow:
+
+User-agent: Google-Extended
+Disallow:
+
+User-agent: ChatGPT-User
+Disallow:
+
+User-agent: ClaudeBot
+Disallow:
+
+User-agent: CCBot
+Disallow:
+
+User-agent: anthropic-ai
+Disallow:

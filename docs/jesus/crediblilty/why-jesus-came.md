@@ -59,9 +59,9 @@ Jesus came not just to offer forgiveness - but to proclaim and establish the rei
 At the heart of His message was the declaration that God's Kingdom had broken into the world through Him -
 a present spiritual reality with a future global fulfillment.
 
-:::note[The kingdom of God has come near]
+:::note[The Kingdom of God has come near]
 
-The time has come... The kingdom of God has come near. Repent and believe the good news!
+The time has come... The Kingdom of God has come near. Repent and believe the good news!
 ([Mark 1:15](https://www.biblegateway.com/passage/?search=mk%201%3A15&version=NKJV)) 
 
 :::
@@ -71,14 +71,15 @@ of God wherever His authority is acknowledged, His will is done and His presence
 It begins in hearts and homes and will ultimately encompass all creation.
 
 Jesus' teachings revealed what life in this Kingdom looks like: justice for the oppressed, mercy for the broken,
-peace amidst chaos and righteousness that transforms from the inside out. Through His parables, He described
-it as a mustard seed ([Mat 13:31-32](https://www.biblegateway.com/passage/?search=Matthew%2013%3A31-32&version=NKJV)) - small but powerful; as yeast ([Mat 13:33](https://www.biblegateway.com/passage/?search=Matthew%2013%3A33&version=NKJV)) - quiet but unstoppable; as a hidden treasure ([Mat 13:44](https://www.biblegateway.com/passage/?search=Matthew%2013%3A44&version=NKJV)) - worth sacrificing everything to possess.
+peace amidst chaos and righteousness that transforms from the inside out.
+Through [His parables](../life/parables/index.md), He described it as [a mustard seed](../life/parables/kingdom-of-god.md#the-mustard-seed)
+([Mat 13:31-32](https://www.biblegateway.com/passage/?search=Matthew%2013%3A31-32&version=NKJV)) - small but powerful; as yeast ([Mat 13:33](https://www.biblegateway.com/passage/?search=Matthew%2013%3A33&version=NKJV)) - quiet but unstoppable; as [a hidden treasure](../life/parables/kingdom-of-god.md#hidden-treasure) ([Mat 13:44](https://www.biblegateway.com/passage/?search=Matthew%2013%3A44&version=NKJV)) - worth sacrificing everything to possess.
 
 His miracles were not just acts of compassion, but signs of the Kingdom's power overturning darkness:
 healing the sick, raising the dead, casting out demons and restoring what was lost. Every act of love demonstrated
 that His Kingdom takes dominion over evil and begins to reverse the curse of sin.
 
-:::tip[Jesus lived the kingdom of God]
+:::tip[Jesus lived the Kingdom of God]
 
 Jesus taught Gospel of the Kingdom, the Authority that Accompanies the Kingdom,
 and Union (fellowship and relationship with God) and that **believers would do the same works
@@ -162,7 +163,7 @@ Through Him, the enemy is a defeated foe and death is no longer the end, just a 
 ## To Call to Discipleship
 
 Jesus didn't come just to save isolated individuals - He came to call together a new kind of people,
-not by ethnicity, class, or culture or the color of their skin - but by a shared commitment to follow Him.
+not by ethnicity, class or culture or the color of their skin - but by a shared commitment to follow Him.
 
 :::note[Jesus came to disciple]
 

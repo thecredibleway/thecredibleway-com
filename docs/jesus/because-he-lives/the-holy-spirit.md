@@ -4,7 +4,7 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Holy Spirit | Because He Lives
 sidebar_label: Holy Spirit
-description: Because Jesus lives, we have the amazing Holy Spirit! Explore how Jesus gave us the Spirit, His transformative role in believers' lives, and the access we have through Him.
+description: Because Jesus lives, we have the amazing Holy Spirit! Explore how Jesus gave us the Spirit, His transformative role in believers' lives and the access we have through Him.
 keywords: ["Who is the Holy Spirit","The role of the Holy Spirit","What the Holy Spirit does","Jesus and the Holy Spirit","The gift of the Holy Spirit","What does the Holy Spirit do for believers","Living a Spirit-filled life","How to walk in the Spirit","Power of the Holy Spirit in believers","Receiving the Holy Spirit","What it means to be filled with the Holy Spirit","How the Holy Spirit guides us","Empowered by the Holy Spirit","Holy Spirit and spiritual warfare","Abiding in the Spirit","Hearing the Holy Spirit","Holy Spirit transformation"]
 ---
 
@@ -12,7 +12,7 @@ keywords: ["Who is the Holy Spirit","The role of the Holy Spirit","What the Holy
 
 Before Jesus ascended to heaven, He made a powerful and world changing promise *"And I will ask the Father and He
 will give you another Helper, that He may be with you forever - the Spirit of truth"*
-([John 14:16–17](https://www.biblegateway.com/passage/?search=John%2014%3A16%E2%80%9317&version=NKJV)). 
+([John 14:16-17](https://www.biblegateway.com/passage/?search=John%2014%3A16%E2%80%9317&version=NKJV)). 
 
 :::info[The promise of the Holy Spirit]
 
@@ -118,7 +118,7 @@ He helps us discern truth from error and lights the path ahead.
 #### The Spirit Sanctifies
 
 The Holy Spirit transforms believers into the image of Christ.
-[Galatians 5:22–23](https://www.biblegateway.com/passage/?search=Galatians%205%3A22%E2%80%9323&version=NKJV) describes
+[Galatians 5:22-23](https://www.biblegateway.com/passage/?search=Galatians%205%3A22%E2%80%9323&version=NKJV) describes
 the fruit of the Spirit - love, joy, peace, patience, kindness, goodness, faithfulness, gentleness and self-control.
 These are not the result of willpower, but of the Spirit's work within.
 
@@ -136,14 +136,14 @@ As we yield to Him, He conforms us to the character of Christ.
 #### Access to God's Presence
 
 Through the Spirit, believers enjoy unhindered access to the presence of God. There is no need for a priest,
-a temple, or a ritual. We can boldly approach the throne of grace
+a temple or a ritual. We can boldly approach the throne of grace
 ([Heb 4:16](https://www.biblegateway.com/passage/?search=Heb%204%3A16&version=NKJV)), knowing the Spirit dwells within us.
 
 #### Spiritual Gifts
 
 The Holy Spirit distributes gifts to believers for the building up of the Church. These include wisdom, knowledge,
 healing, miracles, prophecy, tongues, interpretation and more
-([1 Cor 12:4–11](https://www.biblegateway.com/passage/?search=1%20Cor%2012%3A4%E2%80%9311&version=NKJV)). Every
+([1 Cor 12:4-11](https://www.biblegateway.com/passage/?search=1%20Cor%2012%3A4%E2%80%9311&version=NKJV)). Every
 believer has a unique gifting for the common good.
 
 :::info[Gifts for all]
@@ -195,7 +195,7 @@ to hear Him - by being still, soaking in the Word and removing distractions. A S
 
 #### Use the Gifts
 
-Don't bury what the Spirit has given you. Whether you have a gift of teaching, healing, encouragement, or
+Don't bury what the Spirit has given you. Whether you have a gift of teaching, healing, encouragement or
 discernment; use it. Step out in faith and let the Spirit work through you for the edification of others.
 
 #### In the Community and Mission
@@ -204,7 +204,7 @@ The early church was a Spirit empowered community. They devoted themselves to fe
 bread and prayer ([Acts 2:42](https://www.biblegateway.com/passage/?search=Acts%202%3A42&version=NKJV)).
 They saw miracles, shared everything and lived with bold mission.
 
-Today, the Holy Spirit continues to shape communities that reflect God's kingdom. He unites believers, heals
+Today, the Holy Spirit continues to shape communities that reflect God's Kingdom. He unites believers, heals
 divisions and propels the Church into the world with power and compassion.
 
 Through the Spirit, we are not just saved - we are sent to the world.

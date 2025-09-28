@@ -182,7 +182,7 @@ infinite, that go beyond what we might expect or calculate!
 | 46| The Lord shall judge the ends of the earth (1 Sam 2:10) | 1105 - 1011 BC | Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth .... the Lord Jesus Christ, who will judge the living and the dead (Mat 28:18, John 12:15, 2 Tim 4:1, 1 Pet 4:5) |
 | 47| I will raise me up a Faithful Priest	(1 Sam 2:35) | 1105 - 1011 BC | Jesus is our merciful and faithful high priest in things pertaining to God, to make reconciliation for the sins of the people (Heb 2:17, 3:1-3, 7:24-25) |
 | 48| Seed of David (2 Sam 7:12)  | 1011 - 971 BC | David is in the genealogy of Jesus (Mat 1:1) |
-| 49| His Kingdom is everlasting (2 Sam 7:13)  | 1011 - 971 BC | We have an entrance to the everlasting kingdom of our Lord and Savior Jesus Christ (2 Pet 1:11) |
+| 49| His kingdom is everlasting (2 Sam 7:13)  | 1011 - 971 BC | We have an entrance to the everlasting kingdom of our Lord and Savior Jesus Christ (2 Pet 1:11) |
 | 50| I will be his Father and he shall be My son (2 Sam 7:14a) | 1011 - 971 BC | He will be great and will be called the Son of the Highest; and the Lord God will give Him the throne of His father David (Luke 1:32, Rom 1:3-4, Mat 3:17, Mark 9:7, Luke 9:35) |
 | 51| David's house and throne established forever (2 Sam 7:16) | 1011 - 971 BC | David is in the genealogy of Jesus (Luke 3:31, Rev 22:16) |
 | 52| Elijah taken into heaven - the bodily ascension to heaven illustrated (2 Ki 2:11) | 850 - 560 BC | Jesus blesses them and ascends into heaven (Luke 24:51) |
@@ -267,7 +267,7 @@ infinite, that go beyond what we might expect or calculate!
 |131| The corn of wheat to fall into the Ground	(Psa 72:16)	 | 1410 - 430 BC | The hour has come that the Son of Man should be glorified. Most assuredly, I say to you, unless a grain of wheat falls into the ground and dies, it remains alone; but if it dies, it produces much grain. (John 12:24-25) |
 |132| Belief on His name will produce offspring	(Psa 72:17)	 | 1410 - 430 BC | But as many as received Him, to them He gave the right to become children of God (John 1:12-13) |
 |133| All nations shall be blessed by Him	(Psa 72:17)	 | 1410 - 430 BC | preached the gospel to Abraham beforehand, saying, 'In you all the nations shall be blessed.' (Gal 3:8) |
-|134| He would teach in parables	(Psa 78:1-2)	 | 1410 - 430 BC | All these things Jesus spoke to the multitude in parables (Mat 13:34-35) |
+|134| He would teach in parables	(Psa 78:1-2)	 | 1410 - 430 BC | All these things Jesus spoke to the multitude in [parables](../life/parables/index.md) (Mat 13:34-35) |
 |135| To speak the Wisdom of God with authority	(Psa 78:2b)	 | 1410 - 430 BC | for He taught them as one having authority and not as the scribes (Mat 7:29) |
 |136| From the tribe of Judah (Psa 78:67-68) | 1410 - 430 BC | Judah is in the genealogy of Jesus (Luke 3:33) |
 |137| The Man of God's right hand (Psa 80:17) | 1410 - 430 BC | And you will see the Son of Man sitting at the right hand of the Power and coming with the clouds of heaven (Mark 14:61-62) |

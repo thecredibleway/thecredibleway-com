@@ -17,7 +17,7 @@ of Scripture - a love so profound that it leads to sacrifice. This type of love 
 of biblical characters like Abraham but is ultimately fulfilled in God's sacrifice of His own Son for the 
 of humanity.
 
-Let us dive deeper into what this sacrifice represents, how it shapes our understanding of God's love, and what our
+Let us dive deeper into what this sacrifice represents, how it shapes our understanding of God's love and what our
 response should be.
 
 ## Sacrificial Love - A Concept Rooted in Scripture
@@ -66,13 +66,13 @@ a sacrifice?
 The answer lies in the nature of Abraham's relationship with God. Abraham was not being asked to sacrifice Isaac
 because God needed a blood offering. Abraham's obedience was a reflection of the deep trust he had in God. God
 had promised Abraham that Isaac would be the father of a great nation
-([Gen 17:19](https://www.biblegateway.com/passage/?search=Gen%2017%3A19&version=NKJV)), and yet now God was
+([Gen 17:19](https://www.biblegateway.com/passage/?search=Gen%2017%3A19&version=NKJV)) and yet now God was
 asking him to give up the very child through whom that promise would be fulfilled. **This command, though harrowing,
 demonstrated the depth of Abraham's trust in God's character and His ability to keep His promises.** 
 
 :::info[Abraham's faith in God]
 
-Abraham knew that God was good, that He was faithful, and that He was capable of bringing life even from death.
+Abraham knew that God was good, that He was faithful and that He was capable of bringing life even from death.
 
 :::
 
@@ -87,8 +87,8 @@ The sacrifice of Isaac was not only a test of Abraham's faith but also a prophec
 Just as Abraham was willing to offer his beloved son, so would God offer His only Son to die on behalf of humanity.
 This act would not be for an individual family or nation, but for the salvation of the entire world.
 
-**Abraham's love for Isaac, and his willingness to give him up, was a display of the right order of affections.**
-For Abraham, God was the ultimate priority, and Isaac was a gift given to him by God. The challenge for Abraham
+**Abraham's love for Isaac and his willingness to give him up, was a display of the right order of affections.**
+For Abraham, God was the ultimate priority and Isaac was a gift given to him by God. The challenge for Abraham
 was not whether he loved Isaac but whether he loved God more. His willingness to sacrifice Isaac demonstrated
 that he valued his relationship with God more than anything else, including the promises and blessings that God
 had given him. 

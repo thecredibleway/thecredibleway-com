@@ -12,7 +12,7 @@ keywords: ["Christian apologetics","Why the Bible Still Matters","why does God a
 
 Perhaps you've found yourself pondering some of life's biggest questions: **Does God
 exist?** If so, **what is God like? Why is there suffering in the world if God is good?** Or maybe you're
-curious about the historical reliability of the Bible, the resurrection of Jesus, or the distinct
+curious about the historical reliability of the Bible, the resurrection of Jesus or the distinct
 aspects of Christianity compared to other worldviews. *Questions about life, truth and God are
 more often that not deeply personal; not just academic curiosities.*
 
@@ -27,7 +27,7 @@ is not a concept, but a person. Jesus said, "You will know the truth and the tru
 
 :::info[The reason for Faith]
 
-This isn't about winning arguments or the like. Our goal is to offer thoughtful, biblical, and researched
+This isn't about winning arguments or the like. Our goal is to offer thoughtful, biblical and researched
 insights that deepen your understanding and invite you to seek God and a relationship with Him, rather
 than to compel you into faith.
 
@@ -42,7 +42,7 @@ meaningful and trustworthy.
 :::
 
 Throughout history, Christians have engaged with the prevailing ideas and challenges of their time,
-seeking to demonstrate the coherence, truth, and relevance of their beliefs. From the early church fathers
+seeking to demonstrate the coherence, truth and relevance of their beliefs. From the early church fathers
 like Justin Martyr and Augustine, who wrestled with Roman philosophy and paganism, to medieval thinkers
 such as Thomas Aquinas who synthesized faith and reason, the tradition of Christian apologetics has deep
 historical roots. Modern apologists, addressing contemporary scientific and philosophical critiques,
@@ -50,13 +50,13 @@ continue this ancient and ever-evolving tradition. The Christian faith offers co
 life's biggest questions and those answers are not just intellectually satisfying, but transformational. 
 
 Here, we aim to address some of the most common and challenging questions people have about God, the
-Bible, and Christian living. Topics ranging from philosophical arguments for God's existence to
-scientific considerations, historical evidence for Jesus' life, death, and resurrection; and theological
-discussions about the nature of God, evil, and salvation. 
+Bible and Christian living. Topics ranging from philosophical arguments for God's existence to
+scientific considerations, historical evidence for Jesus' life, death and resurrection; and theological
+discussions about the nature of God, evil and salvation. 
 
-Whether you're a skeptic with honest doubts, a seeker curious about Christianity, or a believer looking
+Whether you're a skeptic with honest doubts, a seeker curious about Christianity or a believer looking
 to deepen your own understanding and articulate your faith more effectively, we invite you to read on!
 Explore the pages, engage with the arguments and consider the evidence. We believe that as you do, you'll
 discover that the Christian faith is not only intellectually robust but also profoundly beautiful and
-personally transformative. We encourage you to approach these topics with an open mind, and we pray that
+personally transformative. We encourage you to approach these topics with an open mind and we pray that
 this will be a valuable resource in your quest for truth.

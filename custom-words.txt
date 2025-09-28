@@ -81,6 +81,7 @@ Heroditus
 Hierapolis
 Hierapolis
 Hormuzd
+Huldrych
 Hosein
 Iduemaea
 Imran
@@ -108,6 +109,7 @@ Mar
 Mathematica
 Maximus
 Medo
+Minas
 Mesha
 Metherell
 Metzger
@@ -177,6 +179,7 @@ Sportulae
 Stasolla
 Stiklestad
 Strobel
+Tanakh
 Targums
 Teicher
 Testimonium
@@ -186,6 +189,7 @@ Thoma
 Tranquillus
 Ubara
 Vaticanus
+Vallotton
 Watzinger
 Weise
 Westmont
@@ -196,6 +200,7 @@ Zanoah
 Zarephath
 Zerubbabel
 Zugibe
+beatitudo
 cessationism
 continuationism
 defences
@@ -220,6 +225,7 @@ maritima
 maritima
 microevolution
 mikvahs
+mias
 moksha
 mudbrick
 napishtim
@@ -230,6 +236,9 @@ sabachthani
 sonship
 tahteyha
 theopneustos
+unforgiveness
 unridden
 yahu
 Ākhir
+thirtyfold
+sixtyfold

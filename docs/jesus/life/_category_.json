@@ -1,0 +1,10 @@
+{
+  "label": "The Life of Jesus",
+  "position": 3,
+  "collapsed": false,
+  "collapsible": true,  
+  "link": {
+    "type": "generated-index",
+    "description": "The life of Jesus - His love, His purpose, His teachings, the Name of Jesus, His sacrifice ... what does it mean for me?"
+  }
+}

@@ -19,7 +19,7 @@ The long and the short of it is you and me - more specifically our sin which has
 paid the ultimate place of shedding His life to pay the price for our sin. At the cross, we witness both God's profound
 love but also the seriousness with which He regards our sin. God doesn't forgive us by turning a blind eye to our sin
 or by overlooking it. God being just, had to render justice
-([Rom 3:25–26](https://www.biblegateway.com/passage/?search=Rom%203%3A25%E2%80%9326&version=NKJV)) and the price was
+([Rom 3:25-26](https://www.biblegateway.com/passage/?search=Rom%203%3A25%E2%80%9326&version=NKJV)) and the price was
 the sacrifice of Jesus. **People are made right with God when they believe that Jesus sacrificed his life,
 shedding his blood** 
 
@@ -76,7 +76,7 @@ soldiers. By Roman law, the punishment for quitting their post or falling asleep
 be doing their job. In addition to this, the Jews also had Temple guards, placed in 24 stations about the gates
 and courts - a total of 240 Levites and 30 priests on duty every night. During the night, the captain of the
 Temple made his rounds and on his approach every guard had to rise and salute him. If any guard found asleep
-he was beaten, or his garments were set on fire. In fact, the Romans and Jewish priests did everything possible
+he was beaten or his garments were set on fire. In fact, the Romans and Jewish priests did everything possible
 to prevent Jesus' resurrection.
 
 Yet, despite these precautions, all of a sudden there was an earthquake, angels descended from heaven and
@@ -109,7 +109,7 @@ These weren't just ordinary men-they were legal experts and could think for them
 and provincial governors. **If anything, their testimony as hostile sources, is especially valuable and
 considered the most credible since they had no reason to favor Jesus or His followers.**
 
-The Romans were certainly no friends of Jesus Christ, or His followers - quite the opposite in fact!
+The Romans were certainly no friends of Jesus Christ or His followers - quite the opposite in fact!
 They scourged Jesus, gave Him a crown of thorns, mocked Him, crucified Him and later persecuted
 His followers the same way. And yet, their own historical records acknowledge Jesus Christ, the early church,
 and the surprising spread of Christianity.
@@ -168,7 +168,7 @@ Another significant thing to note from Josephus' records is the destruction of J
 [*The Wars of the Jews*](https://www.avande1.sites.luc.edu/jerusalem/sources/wars6.htm),
 describing the 70 AD Temple siege, the plundering and burning of the Temple and the suffering that
 followed - famine, slaughter, slavery and then the Jewish exile from the Holy Land. **Remarkably,
-his account aligns with Jesus' prophecy in [Luke 21:5–38](https://www.biblegateway.com/passage/?search=Luke%2021%3A5%E2%80%9338&version=NKJV)**
+his account aligns with Jesus' prophecy in [Luke 21:5-38](https://www.biblegateway.com/passage/?search=Luke%2021%3A5%E2%80%9338&version=NKJV)**
 
 #### Tacitus (Publius Cornelius Tacitus)
 
@@ -193,8 +193,8 @@ the first source of the evil, but even in Rome, where all things hideous and sha
 of the world find their centre and become popular. Accordingly, an arrest was first made of all who
 pleaded guilty; then, upon their information, an immense multitude was convicted, not so much of the
 crime of firing the city, as of hatred against mankind. Mockery of every sort was added to their
-deaths. Covered with the skins of beasts, they were torn by dogs and perished, or were nailed to
-crosses, or were doomed to the flames and burnt, to serve as a nightly illumination, when daylight
+deaths. Covered with the skins of beasts, they were torn by dogs and perished or were nailed to
+crosses or were doomed to the flames and burnt, to serve as a nightly illumination, when daylight
 had expired. 
 
 :::
@@ -204,7 +204,7 @@ and he notes the spread of Christianity - dismissed by him as a 'superstition' -
 and Rome, likely due to Jesus' resurrection.
 
 **Despite his strong anti-Semitic and anti-Christian views, Tacitus also confirms Jesus' prophecy
-in [Luke 21:5–38](https://www.biblegateway.com/passage/?search=Luke%2021%3A5%E2%80%9338&version=NKJV) regarding the fall of the Jerusalem in 70 AD; even the miraculous which he couldn't
+in [Luke 21:5-38](https://www.biblegateway.com/passage/?search=Luke%2021%3A5%E2%80%9338&version=NKJV) regarding the fall of the Jerusalem in 70 AD; even the miraculous which he couldn't
 explain!** In his book 
 *[The Histories](https://classics.mit.edu/Tacitus/histories.5.v.html)*, he vividly describes the
 70 AD siege of Jerusalem under Emperor Titus - the famine, suffering, the city's capture and the
@@ -274,7 +274,7 @@ They were in the habit of meeting on a certain fixed day before it was light, wh
 alternate verses a hymn to Christ, as to a god and bound themselves by a solemn oath, not to any
 wicked deeds, but never to commit any fraud, theft or adultery, never to falsify their word, nor
 deny a trust when they should be called upon to deliver it up; after which it was their custom to
-separate and then reassemble to partake of food – but food of an ordinary and innocent kind.
+separate and then reassemble to partake of food - but food of an ordinary and innocent kind.
 
 ... I believe it all the more necessary to find out the truth from two slave women, whom they
 call deaconesses, even by torture. I found nothing but immoderate superstition ... 
@@ -335,7 +335,7 @@ In fact, there's more historical evidence for Jesus of Nazareth than for Roman E
 and they both lived at the same period in history! 
 
 There are multiple undisputed Roman references (see sections above) to Jesus written within 20 years
-of His crucifixion, including mentions of His brother, three named disciples, *the Twelve*, and
+of His crucifixion, including mentions of His brother, three named disciples, *the Twelve* and
 hundreds of followers. These accounts were written to third parties who personally knew the people
 involved, while many of them were still alive!
 
