@@ -2,12 +2,13 @@
 sidebar_position: 1
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: The Beatitudes
-description: Explore the profound meaning of the Beatitudes of Jesus. Discover why he delivered this revolutionary sermon, its significance then and now and how these teachings offer a radical path to true happiness and God's Kingdom.
-keywords: ["The Beatitudes of Jesus","Beatitudes","Sermon on the Mount","Kingdom of God","Matthew 5","Luke 6","Jesus message","discipleship"]
+title: The Beatitudes - Living the Sermon on the Mount
+sidebar_label: The Beatitudes
+description: Discover the transformative meaning of Jesus' Beatitudes from Matthew 5 as you explore why He delivered this revolutionary sermon and its enduring significance. Learn how these radical teachings offer a path to true happiness and God's Kingdom - how do I live out the "blessed are the..." for true joy and faith.
+keywords: ["The Beatitudes of Jesus","Beatitudes","Sermon on the Mount","Kingdom of God","Matthew 5","Luke 6","Jesus message","discipleship","meaning of the beatitudes","blessed are the...","poor in spirit meaning","blessed are the meek","mourn and be comforted","hunger and thirst for righteousness","pure in heart see God","blessed are the merciful","blessed are the peacemakers","persecuted for righteousness sake","blessed are those who mourn","will be comforted","meaning of mourning in the Bible","finding comfort in grief","Christian response to loss","poor in spirit meaning","blessed are the poor in spirit","kingdom of heaven","spiritual poverty","humility in the Bible","blessed are the meek","inherit the earth","biblical definition of meekness","strength in meekness","power of gentleness","hunger and thirst for righteousness","blessed are those who hunger","pursuit of justice","filled with the Holy Spirit","desire for holiness","blessed are the merciful","showing mercy","forgiveness and mercy","receiving mercy","God's mercy in the Bible","Matthew 5:7 meaning","pure in heart","blessed are the pure in heart","seeing God","spiritual purity","single-minded devotion","clean heart meaning","blessed are the peacemakers","sons of God","biblical conflict resolution","making peace","call to peacemaking","Jesus the peacemaker","blessed are those who are persecuted","persecuted for righteousness","Christian suffering","reward in heaven","faith under persecution"]
 ---
 
-# The Beatitudes
+# The Beatitudes - Living the Sermon on the Mount
 
 The Beatitudes open what we now call the Sermon on the Mount
 ([Matthew 5-7](https://www.biblegateway.com/passage/?search=Matthew%205-7&version=NKJV)) and provide the vision for
@@ -35,8 +36,10 @@ The setting itself is deeply symbolic. Just as Moses once received the Law on Mo
 ([Deut 9](https://www.biblegateway.com/passage/?search=deut%209&version=NKJV)), Jesus now speaks on a mountain - but
 instead of handing down external rules; He calls people to a transformed heart reoriented toward God.
 These were not not rules or shallow moral sayings or simple encouragements, but a radical redefinition of what
-it means to be truly blessed, revealing the kind of people God looks upon with favour and the promises He extends to them.
-By far this was the most profound vision of ethics the world has ever been seen.
+it means to be truly blessed, revealing the kind of people God looks upon with favor and the promises He extends to them.
+By far this was the most profound vision of ethics the world has ever been seen. 
+The word `beatitude` comes from the Latin word *'beatitudo'*, meaning *'blessedness'* or *'happiness'*. 
+Together, let's unpack each verse and discover the wisdom within. 
 
 :::tip The Beatitudes
 
@@ -51,12 +54,7 @@ To follow Him is to walk this path, sustained by the blessings He promises and t
 
 :::
 
-## The Message
-
-The word `beatitude` comes from the Latin word *'beatitudo'*, meaning *'blessedness'* or *'happiness'*. 
-Together, let's unpack each verse and discover the wisdom within. 
-
-#### The Poor in Spirit
+## The Poor in Spirit
 
 :::note[[Mat 5:3](https://www.biblegateway.com/passage/?search=Matthew%205%3A3&version=NKJV)]
 Blessed are the poor in spirit, For theirs is the kingdom of heaven.
@@ -77,7 +75,7 @@ We are all equally in need of His grace. The only person we should compare ourse
 yesterday. Nurture your relationship with God - read His Word, spend time in prayer and seek His will for your life.
 He loves you and His desire is to walk with you everyday.
 
-#### Those who Mourn
+## Those who Mourn
 
 :::note[[Mat 5:4](https://www.biblegateway.com/passage/?search=Matthew%205%3A4&version=NKJV)]
 Blessed are those who mourn, For they shall be comforted.
@@ -101,7 +99,7 @@ move us toward action. We are called to take responsibility for the the Great Co
 gave us and fulfill it. As the Gospel is proclaimed, it leads people from the sorrow of sin into
 the comfort of God's presence and the transforming power of His love.
 
-#### The Meek
+## The Meek
 
 :::note[[Mat 5:5](https://www.biblegateway.com/passage/?search=Matthew%205%3A5&version=NKJV)]
 Blessed are the meek, For they shall inherit the earth
@@ -125,7 +123,7 @@ patience and kindness and bearing the fruit of the Spirit in how we treat others
 trusting God's timing rather than insisting on our own way and letting our lives reflect
 the calm strength of those who rest in Him.
 
-#### Seekers of Righteousness
+## Seekers of Righteousness
 
 :::note[[Mat 5:6](https://www.biblegateway.com/passage/?search=Matthew%205%3A6&version=NKJV)]
 Blessed are those who hunger and thirst for righteousness, For they shall be filled.
@@ -149,7 +147,7 @@ appearances or doing what's right only when others are watching. True righteousn
 integrity - doing the right thing when no one sees. It also calls for persistence and patience,
 holding onto our longing for God's justice even when the world around us feels far from just.
 
-#### The Merciful
+## The Merciful
 
 :::note[[Mat 5:7](https://www.biblegateway.com/passage/?search=Matthew%205%3A7&version=NKJV)]
 Blessed are the merciful, For they shall obtain mercy.
@@ -163,7 +161,7 @@ show kindness. It is love in action, compassion expressed in tangible ways. The 
 that mercy is the mark of those who truly belong to Him. As we show mercy, we open ourselves to experiencing
 God's mercy more deeply. It becomes a cycle of grace, flowing from God to us and through us to others.
 
-:::info Empathy vs Compassion
+:::tip[Empathy vs Compassion]
 
 *Empathy* means feeling with someone by resonating with their feelings, but it doesn't help them.
 *Compassion* is where you are feel for them and then take action to help them.
@@ -176,7 +174,7 @@ In today's world we hear the word *empathy* used a lot, but it sadly doesn't fix
 [Luke 7:13](https://www.biblegateway.com/passage/?search=luke%207%3A13&version=NKJV)...) which required
 responsibility and action - that's why He changed the world. He calls us to do the same! 
 
-**What will  do?**
+**What will I do?**
 
 :::
 
@@ -187,7 +185,7 @@ where there is need and to respond with compassion rather than condemnation. To 
 responsibility - to step into the brokenness around us with the heart of Christ, showing the world what
 God's love looks like in action.
 
-#### The Pure in Heart
+## The Pure in Heart
 
 :::note[[Mat 5:8](https://www.biblegateway.com/passage/?search=Matthew%205%3A8&version=NKJV)]
 Blessed are the pure in heart, For they shall see God.
@@ -208,7 +206,7 @@ He is faithful and just to forgive us our sins and to cleanse us from all unrigh
 Following Jesus' example leaves no room for hypocrisy - instead, our lives should
 reflect His love with authenticity and integrity, so that others may see Him through us.
 
-#### The Peacemakers
+## The Peacemakers
 
 :::note[[Mat 5:9](https://www.biblegateway.com/passage/?search=Matthew%205%3A9&version=NKJV)]
 Blessed are the peacemakers, For they shall be called sons of God.
@@ -228,7 +226,7 @@ extending that peace outward in our relationships. Peacemaking calls us to resol
 to pursue fairness and to stand for truth in love. To be a peacemaker is to participate in
 God's mission of restoration, showing the world what it looks like to belong to Him.
 
-#### The Persecuted
+## The Persecuted
 
 :::note[[Mat 5:10](https://www.biblegateway.com/passage/?search=Matthew%205%3A10&version=NKJV)]
 Blessed are those who are persecuted for righteousness' sake,
@@ -241,7 +239,7 @@ at times be rejected, marginalized and opposed by society, institutions or even 
 around them. Yet Jesus calls them *blessed*. The promise is again the same as that of the first
 Beatitude, *'theirs is the kingdom of heaven'*. 
 
-:::tip Dependence on Him
+:::tip[Dependence on Him]
 
 God's reign is not for the powerful or comfortable, but for
 those who depend on Him and endure suffering for His sake.
@@ -262,7 +260,7 @@ The world may oppose those who walk in righteousness, but the Kingdom belongs to
 and their reward is eternal.
 
 
-#### The Reviled
+## The Reviled
 
 :::note[[Mat 5:11-12](https://www.biblegateway.com/passage/?search=Matthew%205%3A11-12&version=NKJV)]
 Blessed are you when they revile and persecute you and say all kinds of evil against you
@@ -274,7 +272,7 @@ Here Jesus personalizes the teaching, **'Blessed are you...'**, He prepares His
 disciples for the reality that allegiance to Him will provoke hostility. The blessing
 applies not only to persecution for righteousness in general but specifically for
 bearing His name. Jesus broadens the scope here and is direct - not only will we
-have persecuted for righteousness; but also because we bear His name - it is our
+have persecution for righteousness; but also because we bear His name - it is our
 our identification with Christ, discipleship and allegiance that provokes opposition.
 The response Jesus calls for is startling - rejoice. Far from despair, disciples
 can embrace joy because such persecution identifies them with the prophets and
@@ -295,7 +293,7 @@ The Beatitudes are not merely poetic expressions of blessing - they serve as a d
 They uncover what God values, the type of people He calls blessed and the promises He offers. They challenge
 the world's assumptions and invite believers into an entirely new way of life. 
 
-:::tip The reality of it all
+:::tip[The reality of it all]
 
 **Living the Beatitudes requires you to make intentional choices and practices in your life**. 
 

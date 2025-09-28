@@ -12,15 +12,17 @@ keywords: ["teachings of Jesus","Jesus message", "what did Jesus teach","words o
 
 The teachings of Jesus of Nazareth span themes of love, forgiveness, humility, justice and
 the Kingdom of God. His message has shaped not only Christian doctrine but also cultural, legal
-and ethical systems throughout much of the world. Delivered primarily through parables, sermons,
-and personal interactions, Jesus' teachings emphasize a transformative inner life rooted in love
-of God and living for God and not for self. It all boils down to love God and love people the way
+and ethical systems throughout much of the world. Delivered primarily
+through [parables](../life/parables/index.md), sermons and personal interactions, Jesus' teachings
+emphasize a transformative inner life rooted in love of God and living for God and
+not for self. It all boils down to love God and love people the way
 you love yourself ([Mark 12:30-31](https://www.biblegateway.com/passage/?search=Mark%2012%3A30-31&version=NKJV)).
 
 ## The Kingdom of God 
 
 Jesus' mission was not political revolution, but a spiritual and moral transformation
-that spreads through people and communities like yeast in dough - the *kingdom of God*. 
+that [spreads through people and communities like yeast in
+dough](../life/parables/kingdom-of-god.md#leaven) - the *Kingdom of God*. 
 Rather than a political realm, Jesus came to usher in a kingdom where God's will is done,
 and accessible to all who repent and believe. The Christian life is not merely about waiting
 for heaven but actively participating in and reflecting God's reign here and now, even
@@ -52,10 +54,10 @@ In Jesus' teachings like the [Sermon on the Mount](#the-sermon-on-the-mount), He
 values and lifestyle of Kingdom citizens - marked by humility, mercy, righteousness, love and dying
 to self. It is not about power or glory of self. Jesus' own life revealed what this Kingdom is: 
 justice for the oppressed, mercy for the broken, peace amidst chaos and righteousness that transforms
-from the inside out. Through His parables, Jesus likens the Kingdom to a tiny seed growing into a large tree,
+from the inside out. Through [His parables](../life/parables/kingdom-of-god.md), Jesus likens the Kingdom to a [tiny seed growing into a large tree](../life/parables/kingdom-of-god.md#growing-seed),
 symbolizing exponential spiritual growth in the parable of the mustard seed
 ([Mat 13:31-32](https://www.biblegateway.com/passage/?search=Mat%2013%3A31%E2%80%9332&version=NKJV)). In the
-parable of the hidden treasure, Jesus illustrates the Kingdom's supreme value
+[parable of the hidden treasure](../life/parables/kingdom-of-god.md#hidden-treasure), Jesus illustrates the Kingdom's supreme value
 ([Mat 13:44](https://www.biblegateway.com/passage/?search=Mat%2013%3A44&version=NKJV)).
 
 Jesus and His followers consistently began preaching with a call to "repent, for the Kingdom of God is at hand"
@@ -126,8 +128,8 @@ first loved us and sent Jesus to die for us to reconcile us back together with H
 
 By far, this was the ethics lesson the likes of which the world has never been seen before or since.
 The Sermon on the Mount ([Mat 5-7](https://www.biblegateway.com/passage/?search=Matthew%205-7&version=NKJV))
-encapsulates Jesus' moral and spiritual teachings. It begins with the Beatitudes typically seen
-as weak or unfortunate.
+encapsulates Jesus' moral and spiritual teachings. It begins with [the Beatitudes typically seen
+as weak or unfortunate](../life/beatitudes.md).
 
 #### The Beatitudes
 
@@ -154,7 +156,8 @@ Blessed are those who are persecuted for righteousness' sake,
 
 Jesus told Christians that they were the salt and light of the earth; and if the salt lost it's flavor,
 (their life doesn't bear fruit) then it was as good as being thrown out and trampled on. He added that
-their light should shine before men, not so they themselves get rewards or glory, but so that God would
+[their light should shine before men](../life/parables/stewardship-readiness.md#lamp-on-a-stand),
+not so they themselves get rewards or glory, but so that God would
 be glorified and people come to Him. **Jesus didn't come to destroy the Law or the Prophets; rather he
 came to fulfill it.** He then went on to interpret the Law of Moses with deeper intent, the way God intended it.
 
@@ -212,7 +215,8 @@ not just Christianity.
 
 ## Parables - Stories That Teach
 
-Jesus frequently taught in parables - short, vivid and symbolic stories that convey deep spiritual and
+Jesus frequently taught in [parables](../life/parables/index.md) - short, vivid and
+symbolic stories that convey deep spiritual and
 moral truths. These parables were not merely illustrations or allegories; they were invitations into
 the Kingdom of God, requiring attentive hearts and responsive spirits. They were layered, accessible
 to the humble who had open hearts, yet veiled to the hardened and prideful
@@ -222,18 +226,18 @@ they didn't just impart information; but they called for repentance, faith and a
 God's rule.
 
 These are some of the key parables and their meanings
-- The Good Samaritan ([Luke 10:25-37](https://www.biblegateway.com/passage/?search=Luke%2010%3A25%E2%80%9337&version=NKJV)):
+- [The Good Samaritan](../life/parables/justice-mercy.md#the-good-samaritan) ([Luke 10:25-37](https://www.biblegateway.com/passage/?search=Luke%2010%3A25%E2%80%9337&version=NKJV)):
 True neighborly love transcends ethnicity or religion. Jesus redefines the question from *Who is my neighbor?* to
 *What does it mean to be a neighbor?*
-- The Prodigal Son ([Luke 15:11-32](https://www.biblegateway.com/passage/?search=Luke%2015%3A11%E2%80%9332&version=NKJV)):
+- [The Prodigal Son](../life/parables/grace-forgiveness.md#the-prodigal-son) ([Luke 15:11-32](https://www.biblegateway.com/passage/?search=Luke%2015%3A11%E2%80%9332&version=NKJV)):
 God's mercy embraces even the most wayward who repent. It contrasts two spiritual postures: the repentant younger son and
 the self-righteous elder brother. The father's grace transcends both failure and pride. It reminds us that no one is beyond
 the reach of God's mercy and that God longs for restoration more than punishment. 
-- The Sower and the Seed ([Mark 4:1-20](https://www.biblegateway.com/passage/?search=Mark%204%3A1%E2%80%9320&version=NKJV)):
+- [The Sower and the Seed](../life/parables/kingdom-of-god.md#the-sower-and-the-seed) ([Mark 4:1-20](https://www.biblegateway.com/passage/?search=Mark%204%3A1%E2%80%9320&version=NKJV)):
 The receptivity of human hearts determines spiritual growth. God's truth is always powerful - but the soil (the heart)
 varies. Distractions, shallow faith or hardness can prevent growth. However, a receptive heart yields abundant fruit.
 Jesus emphasizes the need for ongoing discipleship, depth and attentiveness to God's voice.
-- The Lost Sheep ([Luke 15:3-7](https://www.biblegateway.com/passage/?search=Luke%2015%3A3%E2%80%937&version=NKJV)):
+- [The Lost Sheep](../life/parables/grace-forgiveness.md#the-lost-sheep) ([Luke 15:3-7](https://www.biblegateway.com/passage/?search=Luke%2015%3A3%E2%80%937&version=NKJV)):
 God pursues each lost soul with personal care. It's a portrait of divine love that is individual and intentional. It tells
 us that God knows each of us by name and that heaven rejoices more over one repentant sinner than ninety nine who think
 they have no need of repentance. It's a powerful image of God's initiating grace and the value of every soul.
@@ -470,8 +474,11 @@ Therefore keep watch, because you do not know on what day your Lord will come
 
 :::
 
-In the Parable of the Ten Virgins and Parable of the Talents ([Mat 25](https://www.biblegateway.com/passage/?search=Matthew%2025&version=NKJV)),
-Jesus emphasized faithful stewardship and preparedness. The Kingdom belongs to those who live in readiness, whose hearts
+In the [Parable of the Ten Virgins](../life/parables/stewardship-readiness.md#the-ten-virgins)
+and the [Parable of the Talents](../life/parables/stewardship-readiness.md#the-talents)
+([Mat 25](https://www.biblegateway.com/passage/?search=Matthew%2025&version=NKJV)),
+Jesus emphasized faithful stewardship and preparedness. The Kingdom
+belongs to those who live in readiness, whose hearts
 are lit with faith and whose lives are oriented toward Christ. Superficial faith will not endure.
 Believers are entrusted with gifts, responsibilities and opportunities. Jesus calls for faithful stewardship,
 not passivity. True disciples live productively for God's glory, knowing they will give an account.

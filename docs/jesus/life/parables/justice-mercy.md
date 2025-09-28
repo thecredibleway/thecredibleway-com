@@ -4,8 +4,8 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Justice and Mercy | The Parables of Jesus
 sidebar_label: Justice and Mercy 
-description: Justice and Mercy 
-keywords: ["The parables of Jesus"]
+description: Discover how Jesus' most powerful parables - like the Good Samaritan, the Rich Man and Lazarus, and the Workers in the Vineyard—redefine justice and mercy. Explore a biblical call to action on social responsibility, wealth, and God's radical grace.
+keywords: ["Jesus parables on justice and mercy","biblical justice","Christian mercy","social justice Bible","parables of Jesus lessons","grace and fairness","kingdom of God ethics","How do Jesus parables relate to justice? Biblical meaning of justice vs mercy","Parables of Jesus on wealth and poverty","Christian call to social action","Good Samaritan parable","meaning of neighbor","radical mercy","social justice Bible","overcoming prejudice","Luke 10:25-37","costly compassion","What does the Good Samaritan teach about justice? Christian view on who is my neighbor","Good Samaritan and social action","practical compassion in the Bible","Rich Man and Lazarus parable","wealth and poverty Bible","eternal justice","moral responsibility of the rich","spiritual blindness","Lessons from the Rich Man and Lazarus on wealth","biblical warning against neglecting the poor","afterlife in Jesus parables","wealth inequality and Christian ethics","Workers in the Vineyard parable","Gods grace vs fairness","divine generosity","kingdom of God reward","Matt 20:1-16","last will be first","merit vs grace","Is Gods grace fair? Meaning of the penny for the days work","Christian perspective on merit and reward","why God pays all workers the same","Parable of the Rich Fool","biblical materialism warning","greed and possessions","rich toward God","Luke 12:13-21","ultimate security","stewardship","What does the Rich Fool parable say about wealth? Warning against hoarding treasure","biblical response to consumerism","Persistent Widow unjust judge","persistence in prayer","seeking justice from God","Luke 18:1-8","never give up praying","advocate for the oppressed","Why be persistent in prayer? Parable of the Persistent Widow meaning","Gods justice for the marginalized","how to pray for justice and relief","Friend at Midnight parable","boldness in prayer","persistent asking","Luke 11:5-8","Gods provision","power of persistence","Lessons on persistent prayer from the Bible","why does Jesus teach persistence in prayer","Parable of the knocking neighbor","asking and receiving from God"]
 ---
 
 # Justice and Mercy 
@@ -15,7 +15,7 @@ in how God relates to humanity and how humans are called to relate to one anothe
 here to teach divine compassion, fairness and grace. In the Parable of the Good Samaritan, Jesus redefines
 neighborly love and justice, elevating mercy above social and ethnic boundaries. The despised outsider
 becomes the true neighbor - not by status or religion, but by compassionate action. In contrast, the
-Parable of the Rich Man and Lazarus offers a sobering picture of justice delayed anddelivered,
+Parable of the Rich Man and Lazarus offers a sobering picture of justice delayed and delivered,
 highlighting the dangers of wealth without mercy and the permanence of a hardened heart.
 
 The Workers in the Vineyard confronts our human ideas of fairness, showing a God who is
@@ -62,7 +62,7 @@ of hollow religiosity that is devoid of mercy.
   Illustration by Annie Vallotton, from the Good News Bible. Image courtesy of <a href="https://www.rotation.org/topic/public-archive-of-annie-vallotton-bible-images-400px-wide-archive">Rotation.org</a>
 </p>
 
-Samaritans were despised by Jews - seen as ethnically impure and religiously heretical. Yet he is the
+Samaritans were despised by Jews - seen as ethnically impure and religiously heretical. Yet, he is the
 one who sees the man, has compassion and acts. His mercy is practical - he tends the man's wounds, transports
 him and pays for his care. Justice is served not through courts or rituals, but through merciful action
 that restores life and dignity. The Samaritan's mercy is not sentimental - it's costly. He gives time,

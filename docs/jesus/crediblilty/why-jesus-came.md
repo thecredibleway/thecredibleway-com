@@ -71,8 +71,9 @@ of God wherever His authority is acknowledged, His will is done and His presence
 It begins in hearts and homes and will ultimately encompass all creation.
 
 Jesus' teachings revealed what life in this Kingdom looks like: justice for the oppressed, mercy for the broken,
-peace amidst chaos and righteousness that transforms from the inside out. Through His parables, He described
-it as a mustard seed ([Mat 13:31-32](https://www.biblegateway.com/passage/?search=Matthew%2013%3A31-32&version=NKJV)) - small but powerful; as yeast ([Mat 13:33](https://www.biblegateway.com/passage/?search=Matthew%2013%3A33&version=NKJV)) - quiet but unstoppable; as a hidden treasure ([Mat 13:44](https://www.biblegateway.com/passage/?search=Matthew%2013%3A44&version=NKJV)) - worth sacrificing everything to possess.
+peace amidst chaos and righteousness that transforms from the inside out.
+Through [His parables](../life/parables/index.md), He described it as [a mustard seed](../life/parables/kingdom-of-god.md#the-mustard-seed)
+([Mat 13:31-32](https://www.biblegateway.com/passage/?search=Matthew%2013%3A31-32&version=NKJV)) - small but powerful; as yeast ([Mat 13:33](https://www.biblegateway.com/passage/?search=Matthew%2013%3A33&version=NKJV)) - quiet but unstoppable; as [a hidden treasure](../life/parables/kingdom-of-god.md#hidden-treasure) ([Mat 13:44](https://www.biblegateway.com/passage/?search=Matthew%2013%3A44&version=NKJV)) - worth sacrificing everything to possess.
 
 His miracles were not just acts of compassion, but signs of the Kingdom's power overturning darkness:
 healing the sick, raising the dead, casting out demons and restoring what was lost. Every act of love demonstrated

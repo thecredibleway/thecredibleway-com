@@ -4,8 +4,8 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Grace and Forgiveness | The Parables of Jesus
 sidebar_label: Grace and Forgiveness
-description: Grace and Forgiveness
-keywords: ["The parables of Jesus"]
+description: Explore Jesus' most powerful parables - The Prodigal Son, Lost Sheep, and more—to unlock profound truths about God's limitless grace, divine pursuit, and the transformational power of radical forgiveness.
+keywords: ["Jesus parables","grace and forgiveness","biblical grace","Christian forgiveness","parables of Jesus","unconditional love","reconciliation","Divine mercy","redemption","repentance","New Testament parables","lessons on forgiveness","Prodigal Son parable","unconditional love","reconciliation","lost son","Luke 15","God's grace","returning home to God","Repentance","father's love","elder brother syndrome","spiritual restoration","biblical forgiveness","Lost Sheep parable","Lost Coin parable","God seeks the lost","joy in heaven","divine pursuit","value of one soul","repentance and celebration","Luke 15:1-10 meaning","shepherd and sheep","God's relentless love","parables about the lost","Unforgiving Servant parable","conditional forgiveness","seventy times seven","limitless forgiveness","mercy and justice","debt of sin","Matthew 18","Unmerciful servant","biblical debt","God's mercy","heart of forgiveness","unforgiveness consequences"]
 ---
 
 # Grace, Mercy and Forgiveness
@@ -114,7 +114,7 @@ ninety-nine just persons who need no repentance'**. The image of the shepherd ca
 shoulders is deeply comforting. It tells us that when we are weak, broken or lost, God doesn't demand that
 we walk back on our own. He lifts us. He bears the burden. His grace restores us, not by merit, but by mercy.
 
-:::tip[Reflet grace the way we've been granted grace]
+:::tip[Reflect grace the way we've been granted grace]
 
 Like the shepherd, we too are called to reflect this grace. Rather than judging those who stray, we are to
 value them and rejoice when they return. The parable challenges any self-righteous tendency to look down on

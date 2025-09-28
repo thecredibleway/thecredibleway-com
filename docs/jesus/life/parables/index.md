@@ -2,12 +2,13 @@
 sidebar_position: 1
 toc_min_heading_level: 2
 toc_max_heading_level: 4
-title: The Parables of Jesus
-description: Jesus often taught in parables - short, relatable stories that illustrate profound spiritual truths. It made His teachings memorable and accessible to a wide audience while also revealing deeper meanings to those who were receptive.
-keywords: ["The parables of Jesus"]
+title: The Parables of Jesus - Meaning and Personal Application 
+sidebar_label: The Parables
+description: Jesus often taught in parables - short, relatable stories that illustrate profound spiritual truths. It made His teachings memorable and accessible to a wide audience while also revealing deeper meanings to those who were receptive. Explore all the Parables of Jesus Christ organized by theme - The Kingdom of God, Forgiveness, Stewardship, and more. Uncover the meaning and powerful lessons for discipleship.
+keywords: ["Kingdom of Heaven","Stewardship & Readiness","full list of parables","full list of Jesus parables","parables application","parables meaning","Grace & Forgiveness","Humility & the Heart","Justice & Mercy","Discipleship & the Cost","discover how these stories reveal God’s ways for life","faith","and eternal purpose","Parables of Jesus","Kingdom of Heaven parables","Jesus parables explained","Christian stewardship readiness","Parables of grace and forgiveness","Parables about humility and heart","Parables of justice and mercy","Cost of discipleship Jesus","Spiritual lessons from parables","Biblical stories Jesus taught"]
 ---
 
-# The Parables of Jesus
+# The Parables of Jesus - Meaning and Personal Application 
 
 In three years of public ministry, Jesus's words transformed humanity and challenged conventional wisdom. He demonstrated
 servant leadership and called on His followers to demonstrate a radical love to build God's kingdom on earth. Jesus often

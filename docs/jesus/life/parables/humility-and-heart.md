@@ -4,8 +4,8 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Humility and the Heart | The Parables of Jesus
 sidebar_label: Humility and the Heart
-description: Humility and the Heart
-keywords: ["The parables of Jesus"]
+description: Explore the profound teachings of Jesus on humility, self-examination, and the true condition of the heart through his most compelling parables. Learn how these stories challenge pride and define authentic Christian discipleship.
+keywords: ["Jesus parables on humility","parables heart condition","Christian humility","self-examination Bible","authentic discipleship","Biblical teaching on pride","Gospel of Luke parables","kingdom of God humility","spiritual growth parables","Jesus' teachings on the heart","Parable of the Speck and the Log","judge not lest ye be judged","hypocrisy Bible","self-examination Christian","removing the log from your eye","judging others Bible","biblical teaching on criticism","seeing clearly spiritually","plank in eye meaning","Parable of the Pharisee and the Tax Collector","humility in prayer","justified before God","self-righteousness Bible","Pride vs humility parable","effective prayer Bible","tax collector humble","lessons on God's grace","Christian justification","Parable of the Lowest Seat","humility at the banquet","take the lowest place","seeking honor Bible","Christian etiquette","social humility teaching","seeking prestige warning","be exalted meaning","humility and reward","Parable of the Unworthy Servants","we are unworthy servants","Christian duty","attitude toward service Bible","Expected obedience Christian","humility in ministry","service without reward","spiritual dependence","doing what is commanded","Parable of the Good and Bad Fruit","know them by their fruits","inner character Bible","false prophets warning","Fruit of the Spirit","identifying true disciples","sincerity of the heart","outward evidence of faith"]
 ---
 
 # Humility and the Heart
@@ -163,7 +163,7 @@ delights in His people, honors their faithfulness and even promises eternal rewa
 about heart posture. It reminds us that obedience is not transactional - it's relational. We don't obey
 to gain status with God—we obey because He is Lord.
 
-In a culture that constantly seeks validation and praise, this teaching is countercultural. It invites us
+In a culture that constantly seeks validation and praise, this teaching is counter cultural. It invites us
 to serve God with quiet faithfulness, even when no one sees or applauds. It also guards us from spiritual
 pride. Even if we've done everything right - read the Bible, prayed, served the church, avoided sin - we still
 say, *'We've only done our duty'*. And the amazing this is, while we see ourselves as unworthy servants, God

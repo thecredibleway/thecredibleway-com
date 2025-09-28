@@ -126,7 +126,7 @@ righteous in God's sight because of Christ. It involves reconciliation, where th
 God is restored and we are adopted into His family as His children. It also brings about transformation, as
 the Holy Spirit comes to dwell within believers, empowering them to live a new life, grow in holiness and
 become more like Christ. **This transformation naturally leads to good works - not as a means to earn
-salvation, but as a joyful overflow of a changed heart and a desire to honour God.**
+salvation, but as a joyful overflow of a changed heart and a desire to honor God.**
 
 ## The True Place of Good Deeds
 

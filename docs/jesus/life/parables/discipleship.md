@@ -4,8 +4,8 @@ toc_min_heading_level: 2
 toc_max_heading_level: 4
 title: Discipleship and the Cost | The Parables of Jesus
 sidebar_label: Discipleship and the Cost
-description: Discipleship and the Cost
-keywords: ["The parables of Jesus"]
+description: Explore the essential teachings of Jesus on discipleship and the cost of following him through his challenging parables. Learn what true commitment demands and how to build a life that can withstand spiritual trials.
+keywords: ["Jesus parables on discipleship","cost of following Jesus","biblical commitment","Christian life challenges","counting the cost","True commitment to Christ","radical discipleship","Gospel of Luke teachings","spiritual foundation","parables on preparation","Parable of the Wise and Foolish Builders","House on the Rock","building life on obedience","stability in Christ","Hear and do the word","foundation of faith","obedience to Jesus' teachings","storms of life Christian","foolish builder meaning","Parable of the Tower Builder","King Going to War parable","counting the cost of discipleship","commitment to Christ","Spiritual preparation","unfinished tower meaning","cost of following Jesus","discipleship requirements","New Wine in Old Wineskins","new covenant vs old covenant","rigidity in faith","Jesus' radical teaching","Old garment new patch","freedom in the Gospel","embracing spiritual change","incompatibility of law and grace","new wineskins meaning","Parable of the Unjust Steward","shrewdness for the kingdom","serving God and money","eternal friends Luke 16","using wealth wisely","Mammon of unrighteousness","financial stewardship Bible","earthly resources for heavenly good","spiritual foresight","wisdom for the future"]
 ---
 
 # Discipleship and the Cost

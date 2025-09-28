@@ -11,7 +11,8 @@ keywords: ["why did Jesus come","purpose of Jesus' life","mission of Jesus Chris
 # The Martyrs
 
 People were drawn to Jesus Christ because it wasn't just empty teaching - His message had life, hope,
-love and salvation! He preached with authority and miracles followed! People heard His parables and
+love and salvation! He preached with authority and miracles followed! People heard
+[His parables](../life/parables/index.md) and
 recognized Him as the promised Messiah. Jesus said *the Spirit of the Lord is upon Me, because He has
 anointed Me To preach the gospel to the poor; He has sent Me to heal the brokenhearted, to proclaim
 liberty to the captives and recovery of sight to the blind, to set at liberty those who are

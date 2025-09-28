@@ -100,7 +100,8 @@ The command to make disciples of all nations is **not merely a suggestion; it is
 ([Matt 28:19-20](https://www.biblegateway.com/passage/?search=Matt%2028%3A19-20&version=NKJV)). We are called to
 actively reach out to the lost, whether they are in our neighborhood or on the other side of the world. The fate
 of the lost is serious - eternal life or eternal separation from God is at stake. *It is not enough to sit idly by,
-knowing that the message of salvation is available.* Like the parable of the Good Samaritan
+knowing that the message of salvation is available.* Like the
+[parable of the Good Samaritan](../../jesus/life/parables/justice-mercy.md#the-good-samaritan)
 ([Luke 10:25-37](https://www.biblegateway.com/passage/?search=Luke%2010%3A25-37&version=NKJV)), we are to show mercy
 to those who are spiritually dying, pleading with them to come to Jesus Christ, the only One who can save them.
 

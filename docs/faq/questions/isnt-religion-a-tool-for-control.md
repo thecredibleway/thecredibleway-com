@@ -69,7 +69,8 @@ He came as a servant, emphasizing humility, self-sacrifice and love.
 
 Jesus repeatedly invited people to follow Him, never compelling them. *"If anyone would come after me,"* He said, *"let him deny himself
 and take up his cross and follow me"* ([Matt 16:24](https://www.biblegateway.com/passage/?search=Matthew%2016%3A24&version=NKJV)). The emphasis
-is on ***"if anyone would"*** highlighting personal choice, not under compulsion. His parables often present choices and consequences,
+is on ***"if anyone would"*** highlighting personal choice, not under compulsion.
+[His parables](../../jesus/life/parables/index.md) often present choices and consequences,
 leaving individuals to decide their response. The very concept of faith, requires a willing trust, not a coerced submission.
 
 #### Emphasis on Inner Transformation

@@ -89,7 +89,8 @@ life by God, either way, you're still faced with decisions and more importantly 
 
 ## The Foundation you can choose to build on
 
-Jesus tells a powerful parable in [Matthew 7:24-27](https://www.biblegateway.com/passage/?search=Matthew%207%3A24-27&version=NKJV).
+Jesus tells a [powerful parable of Two Builders](../../jesus/life/parables/discipleship.md#wise-and-foolish-builders)
+in [Matthew 7:24-27](https://www.biblegateway.com/passage/?search=Matthew%207%3A24-27&version=NKJV).
 He says that everyone who hears His words and puts them into practice is like a wise man who built his house on the rock.
 When the storm came, the house stood strong. But the one who hears His words and doesn't put them into practice is like a
 foolish man who built his house on sand. The storm came and the house fell, with a great crash.

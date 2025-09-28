@@ -68,8 +68,8 @@ Another sad truth is that sometimes people remain in church, not because they've
 to Christ, but because it provides community, status or comfort. They mistakenly believe they can 
 serve both God and the world - sit in church on Sunday and live for self the rest of the week.
 Jesus himself warned about those who would *call* Him *"Lord, Lord"* *but not do the will of His Father*
-([Matt 7:21-23](https://www.biblegateway.com/passage/?search=Matthew%207%3A21-23&version=NKJV)). The parable of
-the weeds among the wheat
+([Matt 7:21-23](https://www.biblegateway.com/passage/?search=Matthew%207%3A21-23&version=NKJV)). The [parable of
+the weeds among the[wheat](../../jesus/life/parables/kingdom-of-god.md#wheat-and-tares)
 ([Matt 13:24-30](https://www.biblegateway.com/passage/?search=Matt%2013%3A24-30&version=NKJV))
 illustrates this point perfectly - both true believers (wheat) and false professors (weeds) will coexist
 within the visible church until the final judgment. These *weeds* may adopt the language and outward

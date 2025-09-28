@@ -267,7 +267,7 @@ infinite, that go beyond what we might expect or calculate!
 |131| The corn of wheat to fall into the Ground	(Psa 72:16)	 | 1410 - 430 BC | The hour has come that the Son of Man should be glorified. Most assuredly, I say to you, unless a grain of wheat falls into the ground and dies, it remains alone; but if it dies, it produces much grain. (John 12:24-25) |
 |132| Belief on His name will produce offspring	(Psa 72:17)	 | 1410 - 430 BC | But as many as received Him, to them He gave the right to become children of God (John 1:12-13) |
 |133| All nations shall be blessed by Him	(Psa 72:17)	 | 1410 - 430 BC | preached the gospel to Abraham beforehand, saying, 'In you all the nations shall be blessed.' (Gal 3:8) |
-|134| He would teach in parables	(Psa 78:1-2)	 | 1410 - 430 BC | All these things Jesus spoke to the multitude in parables (Mat 13:34-35) |
+|134| He would teach in parables	(Psa 78:1-2)	 | 1410 - 430 BC | All these things Jesus spoke to the multitude in [parables](../life/parables/index.md) (Mat 13:34-35) |
 |135| To speak the Wisdom of God with authority	(Psa 78:2b)	 | 1410 - 430 BC | for He taught them as one having authority and not as the scribes (Mat 7:29) |
 |136| From the tribe of Judah (Psa 78:67-68) | 1410 - 430 BC | Judah is in the genealogy of Jesus (Luke 3:33) |
 |137| The Man of God's right hand (Psa 80:17) | 1410 - 430 BC | And you will see the Son of Man sitting at the right hand of the Power and coming with the clouds of heaven (Mark 14:61-62) |
@@ -275,7 +275,7 @@ infinite, that go beyond what we might expect or calculate!
 |139| They stood afar off and watched (Psa 88:8) | 1410 - 430 BC | But all His acquaintances and the women who followed Him from Galilee, stood at a distance, watching these things	(Luke 23:49) |
 |140| Firstborn (Psa 89:27) | 1410 - 430 BC | He is the image of the invisible God, the firstborn over all creation (Col 1:15-18) |
 |141| Emmanuel to be higher than earthly kings (Psa 89:27) | 1410 - 430 BC | And He will reign over the house of Jacob forever and of His kingdom there will be no end.(Luke 1:32-33) |
-|142| David's Seed, throne, kngdom endure forever (Psa 89:35-37) | 1410 - 430 BC | and the Lord God will give Him the throne of His father David (Luke 1:32-33) |
+|142| David's Seed, throne, kingdom endure forever (Psa 89:35-37) | 1410 - 430 BC | and the Lord God will give Him the throne of His father David (Luke 1:32-33) |
 |143| His character - Faithfulness (Psa 89:36-37) | 1410 - 430 BC | and from Jesus Christ, the faithful witness, the firstborn from the dead and the ruler over the kings of the earth (Rev 1:5, 19:11) |
 |144| He is from everlasting (Micah 5:2) (Psa 90:2) | 1410 - 430 BC | In the beginning was the Word and the Word was with God and the Word was God (John 1:1) |
 |145| Identified as Messianic (Psa 91:11-12) | 1410 - 430 BC | He shall give His angels charge over you, To keep you (Luke 4:10-11) |
